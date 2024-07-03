@@ -12,13 +12,11 @@ This project is to develop machine learning methods to predict clinical trial du
 
 ## Getting Started
 ### Installation
-Clone the repo and install the required dependecies
+- Clone the repo `git clone https://github.com/TrialDuraPredict/TrialDuraPredict`, and go to repo dir `cd TrialDuraPredict`
+- Create a virtual environment `virtualenv venv`, and activate it `source venv/bin/activate`
+- Install packages `pip install -r requirements.txt`
 
-```bash
-git clone https://github.com/TrialDuraPredict/TrialDuraPredict
-cd healthree
-pip install -r requirements.txt
-```
+This installation is designed for macOS or Linux. Please adjust the commands accordingly if you are using Windows.
 
 ### Usage
 to run the prediction model, use the following command:

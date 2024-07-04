@@ -1,5 +1,0 @@
-numpy
-pandas
-altair
-scikit-learn
-tqdm

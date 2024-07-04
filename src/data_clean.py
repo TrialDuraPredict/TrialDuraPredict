@@ -93,36 +93,27 @@ def filter_data(data):
     return data_
 
 
-# read data from json files once per time
-def trials_to_clean_data(input_path, output_path):
-    json_files = [f for f in os.listdir(input_path) if f.endswith('.json')]
-    data_cleaned = []
-    
-    for json_file in tqdm(json_files):
-        filepath = os.path.join(input_path, json_file)
+# transfer files to cleaned data
+input_path = './data_example/ctg-studies.json'
+output_path = './data_example/processed/data_cleaned.csv'
+json_files = [f for f in os.listdir(input_path) if f.endswith('.json')]
+data_cleaned = []
 
-        try:
-            with open(filepath, 'r') as file:
-                data = json.load(file)
-                # filter data
-                data_filtered = filter_data(data)
-                data_cleaned.append(data_filtered)
+for json_file in tqdm(json_files):
+    filepath = os.path.join(input_path, json_file)
 
-        except FileNotFoundError:
-            print(f"Error: The file {json_file} was not found.")
-        except Exception as e:
-            print(f"An unexpected error occurred while processing {json_file}: {e}")
-    
-    data_cleaned = pd.DataFrame(data_cleaned)
-    data_cleaned.to_csv(output_path)
+    try:
+        with open(filepath, 'r') as file:
+            data = json.load(file)
+            # filter data
+            data_filtered = filter_data(data)
+            data_cleaned.append(data_filtered)
 
-    
-def main():
-    input_path = input("Please enter the path to the input ctg-studies.json: ")
-    output_path = input("Please enter the path to save the output CSV file: ")
-    
-    trials_to_clean_data(input_path, output_path)
-    
-    
-if __name__ == '__main__':
-    main()
+    except FileNotFoundError:
+        print(f"Error: The file {json_file} was not found.")
+    except Exception as e:
+        print(f"An unexpected error occurred while processing {json_file}: {e}")
+
+data_cleaned = pd.DataFrame(data_cleaned)
+data_cleaned.to_csv(output_path)
+

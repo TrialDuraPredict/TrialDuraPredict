@@ -96,6 +96,7 @@ def filter_data(data):
 # transfer files to cleaned data
 input_path = './data_example/ctg-studies.json'
 output_path = './data_example/processed/data_cleaned.csv'
+
 json_files = [f for f in os.listdir(input_path) if f.endswith('.json')]
 data_cleaned = []
 
@@ -115,5 +116,5 @@ for json_file in tqdm(json_files):
         print(f"An unexpected error occurred while processing {json_file}: {e}")
 
 data_cleaned = pd.DataFrame(data_cleaned)
-data_cleaned.to_csv(output_path)
+data_cleaned.to_csv(output_path, index=False)
 

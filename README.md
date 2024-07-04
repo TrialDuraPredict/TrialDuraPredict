@@ -18,8 +18,9 @@ This project is to develop machine learning methods to predict clinical trial du
 
 This installation is designed for macOS or Linux. Please adjust the commands accordingly if you are using Windows.
 
-### Usage
-to run the prediction model, use the following command:
+### Data Cleaning
+Example data includes 1000 studies and are stored as separate json files in *./data_example/ctg-studies.json*. To clean the data, direct to *TrialDuraPredict* and run the code `python ./src/data_clean.py`. Cleaned dataset is generated in *./data_example/processed/data_cleaned.csv*
+
 
 ```bash
 xxx

@@ -4,3 +4,4 @@ data/
 .DS_Store
 test.ipynb
 .ipynb_checkpoints/
+./src/ipynb_checkpoints/

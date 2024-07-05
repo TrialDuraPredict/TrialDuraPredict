@@ -32,5 +32,5 @@ Created by TrialDuraPredict Team. Contact us at: xxx
 ## Acknowledgments
 Inspiration, etc\
 [TrialDura](https://arxiv.org/pdf/2404.13235)\
-[clinical-trial-prediction](https://github.com/lenlan/clinical-trial-prediction/tree/main)\
+[HINT: clinical trial outcome prediction](https://github.com/futianfan/clinical-trial-outcome-prediction)\
 [clinical-trial-prediction](https://github.com/lenlan/clinical-trial-prediction/tree/main)

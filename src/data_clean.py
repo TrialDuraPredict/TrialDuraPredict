@@ -138,12 +138,14 @@ for json_file in tqdm(json_files):
             data_collected = collect_data(file_data)
             data_updated = update_data(data_collected)
             
-            # filter data to be appended
-            cond_status = data_updated['status'] == 'COMPLETED'
-            cond_studyType = data_updated['studyType'] == 'INTERVENTIONAL'
+            final_data.append(data_updated)
 
-            if cond_status and cond_studyType:
-                final_data.append(data_updated)
+            # filter data to be appended
+            # cond_status = data_updated['status'] == 'COMPLETED'
+            # cond_studyType = data_updated['studyType'] == 'INTERVENTIONAL'
+
+            #if cond_status and cond_studyType:
+            #    final_data.append(data_updated)
 
     except FileNotFoundError:
         print(f"Error: The file {json_file} was not found.")

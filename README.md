@@ -19,7 +19,8 @@ This project is to develop machine learning methods to predict clinical trial du
 This installation is designed for macOS or Linux. Please adjust the commands accordingly if you are using Windows.
 
 ### Raw Data
-The raw data can be downloaded from [ClinicalTrial.gov](https://clinicaltrials.gov/). The datacut for this project is July 1st, 2024, and contains 500,534 study records. Each study record includes many information about trial, including NCT ID (study identifiers), study description, participants to be enrolled (inclusion/exclusion criteria, enrollment), treatment/intervention, disease/condition, outcome measures, and etc. Here is the brief overview of the key info used for trial duration prediction:
+The raw data can be downloaded from [ClinicalTrial.gov](https://clinicaltrials.gov/). The dataset for this project, dated July 1st, 2024, comprises 500,534 study records. Each record provides comprehensive information about the trial, including NCT ID (study identifiers), study description, participant enrollment (inclusion/exclusion criteria), treatment or intervention methods, disease or condition being studied, outcome measures, among others. Below is a brief overview of the key information used to predict the duration of the trial.\
+\
 ![clinical_trial_overview](assets/clinical_trial.jpg)
 
 ### Data Cleaning

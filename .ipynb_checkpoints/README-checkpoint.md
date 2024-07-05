@@ -19,16 +19,19 @@ This project is to develop machine learning methods to predict clinical trial du
 This installation is designed for macOS or Linux. Please adjust the commands accordingly if you are using Windows.
 
 ### Raw Data
-The raw data can be downloaded from [ClinicalTrial.gov](https://clinicaltrials.gov/). The datacut for this project is July 1st, 2024, and contains 500,534 study records. Each study record includes many information about trial, including NCT ID (study identifiers), study description, participants to be enrolled (inclusion/exclusion criteria, enrollment), treatment/intervention, disease/condition, outcome measures, and etc. Here is the brief overview of the key info used for trial duration prediction:
+The raw data in JSON format can be downloaded from [ClinicalTrial.gov](https://clinicaltrials.gov/data-api/how-download-study-records). The dataset for this project, dated July 1st, 2024, comprises 500,534 study records. Each record provides comprehensive information about the trial, including NCT ID (study identifiers), study description, participant enrollment (inclusion/exclusion criteria), treatment or intervention methods, disease or condition being studied, outcome measures, among others. Below is a brief overview of the key information used to predict the duration of the trial.\
+\
 ![clinical_trial_overview](assets/clinical_trial.jpg)
 
 ### Data Cleaning
-Example data includes 1000 studies and are stored as separate json files in *./data_example/ctg-studies.json*. To clean the data, direct to *TrialDuraPredict* and run the code `python ./src/data_clean.py`. Cleaned dataset is generated in *./data_example/data_cleaned.csv*
-
-
-```bash
-xxx
-```
+We use example data for this tutorial, which includes 1000 studies in *./data_example/ctg-studies.json*. Firstly direct to *TrialDuraPredict* folder,
+- To generate the training, test and incompleted study IDs , run the code `ddf`. Datasets including separate study IDs are generated in *dd*
+- To generate the clinical duration (output, Months as unit), run the code `dd`. Duration dataset is generated in *dd*
+- To generate the embedding of **clinical description**, run the code `python ./src/description2embedding.py`. The embedding dataset is generated in *./data_example/description2embedding.pkl*
+- To generate the embedding of **participants**, ...
+- To generate the embedding of **treatment**, ...
+- To generate the embedding of **disease**, ...
+- To generate the embdeeing of **outcome measures**, ...
 
 ## Contact
 Created by TrialDuraPredict Team. Contact us at: xxx

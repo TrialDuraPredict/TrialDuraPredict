@@ -4,117 +4,152 @@ import pandas as pd
 import json
 import os
 from tqdm import tqdm
-import pickle
+from datetime import datetime
 
 
 # to filer out the useless info from each file data 
-def filter_data(data):
-    data_ = {}
+def collect_data(file_data):
+    data_collected = {}
     try:
-        data_['nctId'] = data['protocolSection']['identificationModule']['nctId']
+        data_collected['nctId'] = file_data['protocolSection']['identificationModule']['nctId']
     except:
-        data_['nctId'] = np.nan
+        data_collected['nctId'] = np.nan
     
     try:
-        data_['status'] = data['protocolSection']['statusModule']['overallStatus']
+        data_collected['status'] = file_data['protocolSection']['statusModule']['overallStatus']
     except:
-        data_['status'] = np.nan
+        data_collected['status'] = np.nan
         
     try:
-        data_['startDate'] = data['protocolSection']['statusModule']['startDateStruct']['date']
+        data_collected['startDate'] = file_data['protocolSection']['statusModule']['startDateStruct']['date']
+    
     except:
-        data_['startDate'] = np.nan
+        data_collected['startDate'] = np.nan
     
     try:
-        data_['completionDate'] = data['protocolSection']['statusModule']['completionDateStruct']['date']
+        data_collected['completionDate'] = file_data['protocolSection']['statusModule']['completionDateStruct']['date']
     except:
-        data_['completionDate'] = np.nan
+        data_collected['completionDate'] = np.nan
     
     try:
-        data_['description'] = data['protocolSection']['descriptionModule']['detailedDescription']['date']
+        data_collected['description'] = file_data['protocolSection']['descriptionModule']['detailedDescription']
     except:
-        data_['description'] = np.nan
+        try:
+            data_collected['description'] = file_data['protocolSection']['descriptionModule']['briefSummary']
+        except:
+            data_collected['description'] = np.nan
     
     try:
-        data_['condition'] = data['protocolSection']['conditionsModule']['condition']
+        data_collected['condition'] = file_data['protocolSection']['conditionsModule']['conditions']
     except:
-        data_['condition'] = np.nan
+        data_collected['condition'] = np.nan
     
     try:
-        data_['studyType'] = data['protocolSection']['designModule']['studyType']
+        data_collected['studyType'] = file_data['protocolSection']['designModule']['studyType']
     except:
-        data_['studyType'] = np.nan
+        data_collected['studyType'] = np.nan
     
     try:
-        data_['phases'] = data['protocolSection']['designModule']['phases']
+        data_collected['phases'] = file_data['protocolSection']['designModule']['phases']
     except:
-        data_['phases'] = np.nan
+        data_collected['phases'] = np.nan
     
     try:
-        data_['enrollment'] = data['protocolSection']['designModule']['enrollmentInfo']['count']
+        data_collected['enrollment'] = file_data['protocolSection']['designModule']['enrollmentInfo']['count']
     except:
-        data_['enrollment'] = np.nan
+        data_collected['enrollment'] = np.nan
     
     try:
-        data_['allocation'] = data['protocolSection']['designModule']['designInfo']['allocation']
+        data_collected['primaryPurpose'] = file_data['protocolSection']['designModule']['designInfo']['primaryPurpose']
     except:
-        data_['allocation'] = np.nan
+        data_collected['primaryPurpose'] = np.nan
     
     try:
-        data_['interventionModel'] = data['protocolSection']['designModule']['designInfo']['interventionModel']
+        data_collected['interventions'] = file_data['protocolSection']['armsInterventionsModule']['interventions']
     except:
-        data_['interventionModel'] = np.nan
+        data_collected['interventions'] = np.nan
     
     try:
-        data_['primaryPurpose'] = data['protocolSection']['designModule']['designInfo']['primaryPurpose']
+        data_collected['primaryOutcomes'] = file_data['protocolSection']['outcomesModule']['primaryOutcomes']
     except:
-        data_['primaryPurpose'] = np.nan
+        data_collected['primaryOutcomes'] = np.nan
     
     try:
-        data_['interventions'] = data['protocolSection']['armsInterventionsModule']['interventions']
+        data_collected['eligibilityCriteria'] = file_data['protocolSection']['eligibilityModule']['eligibilityCriteria']
     except:
-        data_['interventions'] = np.nan
+        data_collected['eligibilityCriteria'] = np.nan
     
+    return data_collected
+
+
+def transform_date(input_date):
     try:
-        data_['primaryOutcomes'] = data['protocolSection']['outcomesModule']['primaryOutcomes']
+        input_date = datetime.strptime(input_date, '%Y-%m-%d')
     except:
-        data_['primaryOutcomes'] = np.nan
+        try:
+            input_date = datetime.strptime(input_date, '%Y-%m')
+        except:
+            input_date = np.nan
     
+    return input_date
+
+
+def calculate_duration(start_date, completion_date):
+    start_date = transform_date(start_date)
+    completion_date = transform_date(completion_date)
+
+    # duration calculated as months
     try:
-        data_['eligibilityCriteria'] = data['protocolSection']['eligibilityModule']['eligibilityCriteria']
+        durationMonth = (completion_date - start_date).days//30
     except:
-        data_['eligibilityCriteria'] = np.nan
+        durationMonth = np.nan
+
+    return durationMonth
+
+
+def update_data(data_collected):
+    # calculate the trial duration
+    data_collected['durationMonth'] = \
+        calculate_duration(data_collected['startDate'], data_collected['completionDate'])
     
+    # get trial start year
     try:
-        data_['location'] = data['protocolSection']['contactsLocationsModule']['locations']['country']
+        data_collected['startYear'] = \
+            transform_date(data_collected['startDate']).year
     except:
-        data_['location'] = np.nan
+        data_collected['startYear'] = np.nan
     
-    return data_
+    return data_collected
 
 
 # transfer files to cleaned data
 input_path = './data_example/ctg-studies.json'
-output_path = './data_example/processed/data_cleaned.csv'
+output_path = './data_example/data_cleaned.csv'
 
 json_files = [f for f in os.listdir(input_path) if f.endswith('.json')]
-data_cleaned = []
+final_data = []
 
 for json_file in tqdm(json_files):
     filepath = os.path.join(input_path, json_file)
 
     try:
         with open(filepath, 'r') as file:
-            data = json.load(file)
-            # filter data
-            data_filtered = filter_data(data)
-            data_cleaned.append(data_filtered)
+            file_data = json.load(file)
+            data_collected = collect_data(file_data)
+            data_updated = update_data(data_collected)
+            
+            # filter data to be appended
+            cond_status = data_updated['status'] == 'COMPLETED'
+            cond_studyType = data_updated['studyType'] == 'INTERVENTIONAL'
+
+            if cond_status and cond_studyType:
+                final_data.append(data_updated)
 
     except FileNotFoundError:
         print(f"Error: The file {json_file} was not found.")
     except Exception as e:
         print(f"An unexpected error occurred while processing {json_file}: {e}")
 
-data_cleaned = pd.DataFrame(data_cleaned)
-data_cleaned.to_csv(output_path, index=False)
+final_data = pd.DataFrame(final_data)
+final_data.to_csv(output_path, index=False)
 

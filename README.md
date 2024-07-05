@@ -25,7 +25,7 @@ The raw data in JSON format can be downloaded from [ClinicalTrial.gov](https://c
 
 ### Data Cleaning
 We use example data for this tutorial, which includes 1000 studies in *./data_example/ctg-studies.json*. Firstly direct to *TrialDuraPredict* folder,
-- To generate the training, test and incompleted study IDs , run the code `ddf`. Datasets including separate study IDs are generated in *dd*
+- To generate the training, test and incompleted study IDs , run the code `python ./src/study_ids_split.py`. Datasets including separate study IDs are generated in *./data_example/*
 - To generate the clinical duration (output, Months as unit), run the code `dd`. Duration dataset is generated in *dd*
 - To generate the embedding of **clinical description**, run the code `python ./src/description2embedding.py`. The embedding dataset is generated in *./data_example/description2embedding.pkl*
 - To generate the embedding of **participants**, ...

@@ -24,6 +24,11 @@ def extract_study_id(file_data):
         id_extracted['studyType'] = file_data['protocolSection']['designModule']['studyType']
     except:
         id_extracted['studyType'] = np.nan
+
+    try:
+        id_extracted['primaryPurpose'] = file_data['protocolSection']['designModule']['designInfo']['primaryPurpose']
+    except:
+        id_extracted['primaryPurpose'] = np.nan
     
     return id_extracted
 
@@ -33,12 +38,14 @@ def is_includable(id_extracted):
     # parse train-test-incompleted dataset
     status = id_extracted['status']
     studyType = id_extracted['studyType']
+    primaryPurpose = id_extracted['primaryPurpose']
 
     is_valid_status = status in ['NOT_YET_RECRUITING', 'RECRUITING', 'COMPLETED',
                                 'ACTIVE_NOT_RECRUITING']
     is_interventional = studyType == 'INTERVENTIONAL'
+    is_treatment = primaryPurpose == 'TREATMENT'
 
-    return is_valid_status and is_interventional
+    return is_valid_status and is_interventional and is_treatment
 
 
 # generate tain_test_incompleted dataset

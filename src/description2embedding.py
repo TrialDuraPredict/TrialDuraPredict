@@ -41,54 +41,6 @@ def extract_description(file_data):
     except:
         description_extracted["enrollment"] = np.nan
 
-    # Eligibility Criteria, splitting inclusion and exclusion criteria
-    try:
-        eligibility = re.split(
-            (r"(?i)exclusion\b.\bcriteria\b"),
-            file_data["protocolSection"]["eligibilityModule"]["eligibilityCriteria"],
-        )
-    except:
-        description_extracted["inclusion_criteria"] = np.nan
-        description_extracted["exclusion_criteria"] = np.nan
-
-    try:
-        description_extracted["inclusion_criteria"] = eligibility[0]
-        description_extracted["exclusion_criteria"] = eligibility[1]
-    except:
-        try:
-            description_extracted["inclusion_criteria"] = eligibility[0]
-            description_extracted["exclusion_criteria"] = np.nan
-        except:
-            description_extracted["inclusion_criteria"] = np.nan
-            description_extracted["exclusion_criteria"] = np.nan
-
-    # # Treatments
-    # try:
-    #     description_extracted['treatment'] =
-    # except:
-    #     try:
-    #         description_extracted['treatment'] =
-    #     except:
-    #         description_extracted['treatment'] = np.nan
-
-    # # Disease
-    # try:
-    #     description_extracted['disease'] =
-    # except:
-    #     try:
-    #         description_extracted['disease'] =
-    #     except:
-    #         description_extracted['disease'] = np.nan
-
-    # # Outcome Measures
-    # try:
-    #     description_extracted['outcome_measures'] =
-    # except:
-    #     try:
-    #         description_extracted['outcome_measures'] =
-    #     except:
-    #         description_extracted['outcome_measures'] = np.nan
-
     return description_extracted
 
 
@@ -121,10 +73,7 @@ def description2embedding(input_path):
                 description_extracted = extract_description(file_data)
                 nctId = description_extracted["nctId"]
                 description = description_extracted["description"]
-
                 enrollment = description_extracted["enrollment"]
-                inclusion = description_extracted["inclusion_criteria"]
-                exclusion = description_extracted["exclusion_criteria"]
 
                 if pd.notna(description):
                     # Tokenize and encode the description
@@ -140,39 +89,12 @@ def description2embedding(input_path):
                         outputs.last_hidden_state[:, 0, :].detach().numpy()
                     )
 
-                    # Tokenize and encode the eligibility criteria
-                    inputs = tokenizer(
-                        inclusion,
-                        return_tensors="pt",
-                        padding=True,
-                        truncation=True,
-                        max_length=512,
-                    )
-                    outputs = model(**inputs)
-                    inclusion_embedding = (
-                        outputs.last_hidden_state[:, 0, :].detach().numpy()
-                    )
-
-                    inputs = tokenizer(
-                        exclusion,
-                        return_tensors="pt",
-                        padding=True,
-                        truncation=True,
-                        max_length=512,
-                    )
-                    outputs = model(**inputs)
-                    exclusion_embedding = (
-                        outputs.last_hidden_state[:, 0, :].detach().numpy()
-                    )
-
                     # append nctId and embedding data
                     embedding_data.append(
                         {
                             "nctId": nctId,
                             "enrollment": enrollment,
                             "description_embedding": description_embedding,
-                            "inclusion_embedding": inclusion_embedding,
-                            "exclusion_embedding": exclusion_embedding,
                         }
                     )
                 else:

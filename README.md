@@ -8,7 +8,7 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Description
-This project is to develop machine learning methods to predict clinical trial duration based on registered study information, including study description, enrollment, study type, eligibility criteria, study plan, start date and so on. Simultaneously, we seek to understand the contributions of various features to prolonged trial durations and provide recommendations to optimize study protocols and reduce trial duration.
+This project is to develop machine learning methods to predict clinical trial duration based on registered study information, including study description, enrollment, study type, eligibility criteria, study plan, start date, and so on. Simultaneously, we seek to understand the contributions of various features to prolonged durations and provide recommendations to optimize study protocols and reduce trial duration.
 
 ## Getting Started
 ### Installation
@@ -29,9 +29,10 @@ We use example data for this tutorial, which includes 1000 studies in *./data_ex
 - To generate the **clinical duration** (output, Months as unit), run the code `python ./src/trial_duration.py`. Duration dataset is generated in *./data_example/trial_duration.csv*
 - To generate the embedding of **clinical description**, run the code `python ./src/description2embedding.py`. The embedding dataset is generated in *./data_example/description2embedding.pkl*
 - To generate the embedding of **participants**, ...
-- To generate the embedding of **treatment**, ...
+- To generate the embedding of **inclusion_eligibility** and **exclusion_eligibility**, run the code `python ./src/eligibility2embedding.py`. The embedding dataset is generated in *./data_example/eligibility2embedding.pkl*
+- To generate the embedding of **treatment**, run the code `python ./src/treatment2embedding.py`. The embedding dataset is generated in *./data_example/treatment2embedding.pkl*
 - To generate the embedding of **disease**, ...
-- To generate the embdeeing of **outcome measures**, ...
+- To generate the embedding of **outcome measures**, run the code `python ./src/outcome2embedding.py`. The embedding dataset is generated in *./data_example/outcome2embedding.pkl*
 
 ## Contact
 Created by TrialDuraPredict Team. Contact us at: xxx

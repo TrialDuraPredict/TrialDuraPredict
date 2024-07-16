@@ -28,7 +28,6 @@ We use example data for this tutorial, which includes 1000 studies in *./data_ex
 - To generate the **training**, **test** and **incompleted** study IDs , run the code `python ./src/study_ids_split.py`. Datasets including separate study IDs are generated in *./data_example/*
 - To generate the **clinical duration** (output, Months as unit), run the code `python ./src/trial_duration.py`. Duration dataset is generated in *./data_example/trial_duration.csv*
 - To generate the embedding of **clinical description**, run the code `python ./src/description2embedding.py`. The embedding dataset is generated in *./data_example/description2embedding.pkl*
-- To generate the embedding of **participants**, ...
 - To generate the embedding of **inclusion_eligibility** and **exclusion_eligibility**, run the code `python ./src/eligibility2embedding.py`. The embedding dataset is generated in *./data_example/eligibility2embedding.pkl*
 - To generate the embedding of **treatment**, run the code `python ./src/treatment2embedding.py`. The embedding dataset is generated in *./data_example/treatment2embedding.pkl*
 - To generate the embedding of **disease**, run the code `python ./src/disease2embedding.py`. The embedding dataset is generated in *./data_example/disease2embedding.pkl*

@@ -44,6 +44,17 @@ def get_all_ids(input_path):
     return all_ids
 
 
+# Generate embeddings for a list of text entries.
+def generate_embeddings(tokenizer, model, texts):
+    embeddings = np.zeros((len(texts), 768))
+    for i, text in enumerate(texts):
+        inputs = tokenizer(text, return_tensors="pt", padding=True,
+                           truncation=True, max_length=512)
+        outputs = model(**inputs)
+        embeddings[i] = outputs.last_hidden_state[:, 0, :].detach().numpy()
+    return embeddings.mean(axis=0)
+
+
 # Generates embeddings for study descriptions using BioBERT.
 def disease2embedding(input_path):
     embedding_data = []
@@ -65,26 +76,8 @@ def disease2embedding(input_path):
                 diseases = disease_extracted["disease"]
 
                 if isinstance(diseases, list):
-                    # Tokenize and encode each diseaes in the list
-                    # Average the disease embeddings
-                    disease_embedding = np.zeros((1, 768))
-
-                    for disease in diseases:
-                        inputs = tokenizer(
-                            disease,
-                            return_tensors="pt",
-                            padding=True,
-                            truncation=True,
-                            max_length=512,
-                        )
-                        outputs = model(**inputs)
-                        disease_embedding += (
-                            outputs.last_hidden_state[:, 0, :].detach().numpy()
-                        )
-
-                    disease_embedding /= len(diseases)
-
-                    # append nctId and embedding data
+                    disease_embedding = generate_embeddings(tokenizer, model,
+                                                            diseases)
                     embedding_data.append(
                         {
                             "nctId": nctId,

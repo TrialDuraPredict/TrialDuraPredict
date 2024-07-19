@@ -26,6 +26,7 @@ def extract_eligibility(file_data):
         eligibility = re.split(
             (r"(?i)exclusion\b.\bcriteria\b"),
             file_data["protocolSection"]["eligibilityModule"]["eligibilityCriteria"],
+            1,
         )
     except:
         eligibility_extracted["inclusion_criteria"] = np.nan

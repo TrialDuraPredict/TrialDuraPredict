@@ -30,7 +30,7 @@ for study_id in tqdm(all_ids):
         with open(filepath, "r") as file:
             file_data = json.load(file)
 
-            nctID = file_data["protocolSection"]["identificationModule"]["nctId"]
+            nctId = file_data["protocolSection"]["identificationModule"]["nctId"]
             status = file_data["protocolSection"]["statusModule"]["overallStatus"]
             dis = file_data["protocolSection"]["conditionsModule"]["conditions"]
             inter_type = file_data["protocolSection"]["armsInterventionsModule"][
@@ -45,7 +45,7 @@ for study_id in tqdm(all_ids):
 
             file_data = pd.DataFrame(
                 {
-                    "nctID": nctID,
+                    "nctId": nctId,
                     "status": status,
                     "disease": dis,
                     "intervention_type": inter_type,

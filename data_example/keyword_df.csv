@@ -1,4 +1,4 @@
-nctID,status,disease,intervention_type,intervention_name
+nctId,status,disease,intervention_type,intervention_name
 NCT06475872,COMPLETED,Primary Hypercholesterolemia,DRUG,Crecheck Tablet 2.5 mg
 NCT06475872,COMPLETED,Combined Hyperlipidemia,DRUG,Crecheck Tablet 2.5 mg
 NCT06473402,COMPLETED,Muscle Tightness,DIAGNOSTIC_TEST,Muscle Strength Test

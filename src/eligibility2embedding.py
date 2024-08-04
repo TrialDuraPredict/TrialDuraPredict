@@ -46,15 +46,8 @@ def extract_eligibility(file_data):
     return eligibility_extracted
 
 
-# Generates embeddings for elgibility criteria using BioBERT.
-def eligibility2embedding(input_path):
-    embedding_data = []
-
-    # Load BioBERT tokenizer and model
-    tokenizer = AutoTokenizer.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
-    model = AutoModel.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
-
-    # generate the train-test-incompleted ids
+# generate the train-test-incompleted ids
+def get_all_ids(input_path):
     train_ids_path = os.path.join(input_path, "train_ids.csv")
     test_ids_path = os.path.join(input_path, "test_ids.csv")
     incompleted_ids_path = os.path.join(input_path, "incompleted_ids.csv")
@@ -64,6 +57,28 @@ def eligibility2embedding(input_path):
     incompleted_ids = pd.read_csv(incompleted_ids_path).nctId.tolist()
 
     all_ids = train_ids + test_ids + incompleted_ids
+
+    return all_ids
+
+
+# Generate embeddings for a list of text entries.
+def generate_embedding(tokenizer, model, text):
+    inputs = tokenizer(text, return_tensors="pt", padding=True,
+                        truncation=True, max_length=512)
+    outputs = model(**inputs)
+    embedding = outputs.last_hidden_state[:, 0, :].detach().numpy()[0]
+
+    return embedding
+
+
+# Generates embeddings for elgibility criteria using BioBERT.
+def eligibility2embedding(input_path):
+    embedding_data = []
+    all_ids = get_all_ids(input_path)
+
+    # Load BioBERT tokenizer and model
+    tokenizer = AutoTokenizer.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
+    model = AutoModel.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
 
     # generate embedding
     for study_id in tqdm(all_ids):
@@ -79,28 +94,16 @@ def eligibility2embedding(input_path):
 
                 if pd.notna(inclusion):
                     # Tokenize and encode the eligibility criteria
-                    inputs = tokenizer(
-                        inclusion,
-                        return_tensors="pt",
-                        padding=True,
-                        truncation=True,
-                        max_length=512,
-                    )
-                    outputs = model(**inputs)
-                    inclusion_embedding = (
-                        outputs.last_hidden_state[:, 0, :].detach().numpy()
+                    inclusion_embedding = generate_embedding(
+                        tokenizer,
+                        model,
+                        inclusion
                     )
 
-                    inputs = tokenizer(
-                        exclusion,
-                        return_tensors="pt",
-                        padding=True,
-                        truncation=True,
-                        max_length=512,
-                    )
-                    outputs = model(**inputs)
-                    exclusion_embedding = (
-                        outputs.last_hidden_state[:, 0, :].detach().numpy()
+                    exclusion_embedding = generate_embedding(
+                        tokenizer,
+                        model,
+                        exclusion
                     )
 
                     # append nctId and embedding data

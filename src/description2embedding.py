@@ -1,4 +1,4 @@
-# this script is to parse raw data to
+# this script is to generate embeddings of clinical description
 import numpy as np
 import pandas as pd
 import json
@@ -44,15 +44,8 @@ def extract_description(file_data):
     return description_extracted
 
 
-# Generates embeddings for study descriptions using BioBERT.
-def description2embedding(input_path):
-    embedding_data = []
-
-    # Load BioBERT tokenizer and model
-    tokenizer = AutoTokenizer.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
-    model = AutoModel.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
-
-    # generate the train-test-incompleted ids
+# generate the train-test-incompleted ids
+def get_all_ids(input_path):
     train_ids_path = os.path.join(input_path, "train_ids.csv")
     test_ids_path = os.path.join(input_path, "test_ids.csv")
     incompleted_ids_path = os.path.join(input_path, "incompleted_ids.csv")
@@ -62,6 +55,28 @@ def description2embedding(input_path):
     incompleted_ids = pd.read_csv(incompleted_ids_path).nctId.tolist()
 
     all_ids = train_ids + test_ids + incompleted_ids
+
+    return all_ids
+
+
+# Generate embeddings for a list of text entries.
+def generate_embedding(tokenizer, model, text):
+    inputs = tokenizer(text, return_tensors="pt", padding=True,
+                        truncation=True, max_length=512)
+    outputs = model(**inputs)
+    embedding = outputs.last_hidden_state[:, 0, :].detach().numpy()[0]
+
+    return embedding
+
+
+# Generates embeddings for study descriptions using BioBERT.
+def description2embedding(input_path):
+    embedding_data = []
+    all_ids = get_all_ids(input_path)
+
+    # Load BioBERT tokenizer and model
+    tokenizer = AutoTokenizer.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
+    model = AutoModel.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
 
     # generate embedding
     for study_id in tqdm(all_ids):
@@ -77,19 +92,8 @@ def description2embedding(input_path):
 
                 if pd.notna(description):
                     # Tokenize and encode the description
-                    inputs = tokenizer(
-                        description,
-                        return_tensors="pt",
-                        padding=True,
-                        truncation=True,
-                        max_length=512,
-                    )
-                    outputs = model(**inputs)
-                    description_embedding = (
-                        outputs.last_hidden_state[:, 0, :].detach().numpy()
-                    )
+                    description_embedding = generate_embedding(tokenizer, model, description)
 
-                    # append nctId and embedding data
                     embedding_data.append(
                         {
                             "nctId": nctId,

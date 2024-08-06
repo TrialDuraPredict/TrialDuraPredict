@@ -49,7 +49,7 @@ def calculate_duration(start_date, completion_date):
 
     # duration calculated as months
     try:
-        durationMonth = (completion_date - start_date).days//30
+        durationMonth = (completion_date - start_date).days / 30
     except:
         durationMonth = np.nan
 

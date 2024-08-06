@@ -9,3 +9,7 @@ re
 dash
 jupyter_dash
 dash_vega_components
+tensorflow
+xgboost
+shap
+matplotlib

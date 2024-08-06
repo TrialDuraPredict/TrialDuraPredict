@@ -76,8 +76,12 @@ def disease2embedding(input_path):
                 diseases = disease_extracted["disease"]
 
                 if isinstance(diseases, list):
-                    disease_embedding = generate_embeddings(tokenizer, model,
-                                                            diseases)
+                    disease_embedding = generate_embeddings(
+                        tokenizer,
+                        model,
+                        diseases
+                    )
+                    
                     embedding_data.append(
                         {
                             "nctId": nctId,

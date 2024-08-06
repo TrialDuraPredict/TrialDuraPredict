@@ -92,7 +92,7 @@ def description2embedding(input_path):
 
                 if pd.notna(description):
                     # Tokenize and encode the description
-                    description_embedding = generate_embedding(tokenizer, model, description)
+                    description_embedding = generate_embeddings(tokenizer, model, description)
 
                     embedding_data.append(
                         {

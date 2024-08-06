@@ -5,11 +5,12 @@ scikit-learn
 tqdm
 transformers
 torch
-re
+#re
 dash
 jupyter_dash
 dash_vega_components
 tensorflow
+tf-keras
 xgboost
 shap
 matplotlib

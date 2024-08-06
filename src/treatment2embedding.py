@@ -83,7 +83,7 @@ def treatment2embedding(input_path):
                     )
                     outputs = model(**inputs)
                     treatment_embedding = (
-                        outputs.last_hidden_state[:, 0, :].detach().numpy()
+                        outputs.last_hidden_state[:, 0, :].detach().numpy()[0]
                     )
 
                     # append nctId and embedding data

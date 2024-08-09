@@ -1,698 +1,698 @@
-nctId,status,disease,intervention_type,intervention_name
-NCT06475872,COMPLETED,Primary Hypercholesterolemia,DRUG,Crecheck Tablet 2.5 mg
-NCT06475872,COMPLETED,Combined Hyperlipidemia,DRUG,Crecheck Tablet 2.5 mg
-NCT06473402,COMPLETED,Muscle Tightness,DIAGNOSTIC_TEST,Muscle Strength Test
-NCT06473402,COMPLETED,Muscle Spasm,DIAGNOSTIC_TEST,Muscle Strength Test
-NCT06477575,COMPLETED,"ADHD, Deficits in Motor Control and Perception",DEVICE,neurocognitive therapy based on new technologies
-NCT06470724,COMPLETED,Autism Spectrum Disorder,BEHAVIORAL,Structural visual approach
-NCT06470464,COMPLETED,Germ Cell Tumor,DRUG,Thalidomide combined with TGA chemotherapy (nab-paclitaxel + gemcitabine+ epirubicin)
-NCT06470464,COMPLETED,Yolk Sac Tumor,DRUG,Thalidomide combined with TGA chemotherapy (nab-paclitaxel + gemcitabine+ epirubicin)
-NCT06479538,COMPLETED,Sports Physical Therapy,OTHER,Post isometric relaxation
-NCT06478511,COMPLETED,Immediate Implants,PROCEDURE,Classic Immediate implant
-NCT06470412,COMPLETED,Autoimmune Diseases,OTHER,Control group
-NCT06478615,COMPLETED,Coring Out,PROCEDURE,Coring out Fistulectomy with Closure of Internal Sphincter Opening
-NCT06478615,COMPLETED,Fistulectomy,PROCEDURE,Coring out Fistulectomy with Closure of Internal Sphincter Opening
-NCT06478615,COMPLETED,Internal Sphincter,PROCEDURE,Coring out Fistulectomy with Closure of Internal Sphincter Opening
-NCT06478615,COMPLETED,Lay Open Fistulotomy,PROCEDURE,Coring out Fistulectomy with Closure of Internal Sphincter Opening
-NCT06478615,COMPLETED,Sphincter Repair,PROCEDURE,Coring out Fistulectomy with Closure of Internal Sphincter Opening
-NCT06478615,COMPLETED,Transsphincteric Perianal Fistula,PROCEDURE,Coring out Fistulectomy with Closure of Internal Sphincter Opening
-NCT06482723,COMPLETED,Skin Aging,DEVICE,mGlobal L+AS
-NCT06482723,COMPLETED,Skin Wrinkling,DEVICE,mGlobal L+AS
-NCT06479902,COMPLETED,Mild Intermittent Asthma,PROCEDURE,Core stability exercise
-NCT06470789,COMPLETED,Shoulder Dislocation,BEHAVIORAL,Shoulder blood restriction training
-NCT06470789,COMPLETED,Blood Flow Restriction Training,BEHAVIORAL,Shoulder blood restriction training
-NCT06473311,COMPLETED,Whole Body Vibration,DEVICE,whole bady vibration and virtual reality
-NCT06473311,COMPLETED,Virtual Reality,DEVICE,whole bady vibration and virtual reality
-NCT06478914,COMPLETED,"Neuropathy, Peroneal",DEVICE,Neuromuscular electrical stimulation (NMES)
-NCT06478914,COMPLETED,Motor Neuropathy,DEVICE,Neuromuscular electrical stimulation (NMES)
-NCT06478914,COMPLETED,Neuromuscular Electric Stimulation (NEMS),DEVICE,Neuromuscular electrical stimulation (NMES)
-NCT06478914,COMPLETED,Low Intensity Laser,DEVICE,Neuromuscular electrical stimulation (NMES)
-NCT06475586,COMPLETED,Psoriasis Vulgaris,DRUG,Semaglutide
-NCT06475586,COMPLETED,Diabetes Type 2,DRUG,Semaglutide
-NCT06473662,COMPLETED,Type 2 Diabetes Treated With Insulin,DRUG,Oral insulin
-NCT06475508,COMPLETED,Rheumatoid Arthritis,BIOLOGICAL,ComplarateÂ®
-NCT06478004,COMPLETED,Primary Teeth,OTHER,Direct composite restoration of carious primary anterior teeth using custom 3D printed templates
-NCT06482619,COMPLETED,Creatine,DIETARY_SUPPLEMENT,Creatine supplementation
-NCT06482619,COMPLETED,Patellar Tendinopathy,DIETARY_SUPPLEMENT,Creatine supplementation
-NCT06470425,COMPLETED,Mental Disorder,OTHER,Standard therapy group
-NCT06473727,COMPLETED,Dental Diseases,OTHER,Omnichoroma
-NCT06479551,COMPLETED,Sports Physical Therapy,OTHER,high intensity-low volume resistance training
-NCT06470399,COMPLETED,Metabolic Syndrome,OTHER,Standard therapy group
-NCT06482060,COMPLETED,Bruxism,DEVICE,Stabilization splint
-NCT06473376,COMPLETED,TMJ Disorder,PROCEDURE,arthrocentesis
-NCT06473376,COMPLETED,TMJ Disc Disorder,PROCEDURE,arthrocentesis
-NCT06470854,COMPLETED,Post-Dural Puncture Headache,DRUG,Nebulized Dexmedetomidine
-NCT06479564,COMPLETED,Sports Physical Therapy,OTHER,free weight training and machine training
-NCT06474494,COMPLETED,Non-carious Cervical Lesions,PROCEDURE,Application of one layer
-NCT06479733,COMPLETED,Soft Tissue Augmentation Around Dental Implants,PROCEDURE,buccal pedicle flap
-NCT06482736,COMPLETED,Tension-Type Headache,DEVICE,Extracorporeal Shockwave Therapy
-NCT06471686,COMPLETED,Alcohol Use Disorder,DRUG,Acamprosate
-NCT06471686,COMPLETED,Liver Transplant; Complications,DRUG,Acamprosate
-NCT06476990,COMPLETED,Diabetes Type 2,BEHAVIORAL,Healthy food box
-NCT06478758,COMPLETED,Acute Post-operative Pain,DRUG,Ibuprofen 400 mg
-NCT06472258,COMPLETED,Malaria,DRUG,IV Artesunate
-NCT06477432,COMPLETED,Skin Aging,DEVICE,mesofillerÂ® mesotox
-NCT06477432,COMPLETED,Skin Wrinkling,DEVICE,mesofillerÂ® mesotox
-NCT06478134,COMPLETED,Dry Eye,DRUG,Trimix tear substitutes
-NCT06482177,COMPLETED,Dry Eye,DRUG,Cyclosporine ophthalmic solution
-NCT06476522,COMPLETED,Colon Cancer,OTHER,Physiotherapy Program
-NCT06476522,COMPLETED,Chemotherapy Effect,OTHER,Physiotherapy Program
-NCT06479525,COMPLETED,Sports Physical Therapy,OTHER,Big Toe Flexor Strengthening Exercises
-NCT06483009,NOT_YET_RECRUITING,Non-Small-Cell Lung Cancer,DEVICE,Cryoablation
-NCT06474598,NOT_YET_RECRUITING,Type 1 Diabetes Mellitus,DRUG,MTX228
-NCT06480760,NOT_YET_RECRUITING,Peripheral Arterial Disease,DRUG,Carnosine
-NCT06480019,RECRUITING,Depression,BEHAVIORAL,Interpersonal psychotherapy
-NCT06480019,RECRUITING,Interpersonal Relations,BEHAVIORAL,Interpersonal psychotherapy
-NCT06479980,RECRUITING,Mental Health Issue,BEHAVIORAL,Single Session Narrative Therapy
-NCT06479980,RECRUITING,HIV,BEHAVIORAL,Single Session Narrative Therapy
-NCT06479980,RECRUITING,Substance Use,BEHAVIORAL,Single Session Narrative Therapy
-NCT06474520,NOT_YET_RECRUITING,Idiopathic Inflammatory Demyelinating Disease,DRUG,Calculus bovis sativus (CBS)
-NCT06474520,NOT_YET_RECRUITING,Multiple Sclerosis,DRUG,Calculus bovis sativus (CBS)
-NCT06474520,NOT_YET_RECRUITING,Neuromyelitis Optica Spectrum Disorder,DRUG,Calculus bovis sativus (CBS)
-NCT06474520,NOT_YET_RECRUITING,Myelin Oligodendrocyte Glycoprotein Antibody-associated Disease,DRUG,Calculus bovis sativus (CBS)
-NCT06474520,NOT_YET_RECRUITING,Acute Disseminated Encephalomyelitis,DRUG,Calculus bovis sativus (CBS)
-NCT06482970,NOT_YET_RECRUITING,Knee Osteoarthritis,OTHER,Neuromuscular exercise plus pain neuroscience education
-NCT06483048,NOT_YET_RECRUITING,Platinum-Resistant Fallopian Tube Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Platinum-Resistant Ovarian Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Platinum-Resistant Primary Peritoneal Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Recurrent Fallopian Tube Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Recurrent Fallopian Tube Carcinosarcoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Recurrent Female Reproductive System Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Recurrent Ovarian Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Recurrent Ovarian Carcinosarcoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Recurrent Platinum-Resistant Fallopian Tube Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Recurrent Platinum-Resistant Ovarian Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Recurrent Primary Peritoneal Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Recurrent Primary Peritoneal Carcinosarcoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Refractory Fallopian Tube Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Refractory Female Reproductive System Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Refractory Ovarian Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06483048,NOT_YET_RECRUITING,Refractory Primary Peritoneal Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells
-NCT06479304,RECRUITING,Immune Thrombocytopenia With Positive ANA Antibodies,DRUG,Hydroxychloroquine Oral Tablet
-NCT06472661,NOT_YET_RECRUITING,Advanced Melanoma,DEVICE,Echopulse or Echopulse HD
-NCT06475235,NOT_YET_RECRUITING,Lymphoma,DRUG,Pembrolizumab
-NCT06475235,NOT_YET_RECRUITING,Primary Central Nervous System Lymphoma,DRUG,Pembrolizumab
-NCT06474832,NOT_YET_RECRUITING,Chronic Stroke,OTHER,High-intensity interval training
-NCT06476730,NOT_YET_RECRUITING,Gestational Diabetes Mellitus in Pregnancy,OTHER,Telerehabilitation exercise program
-NCT06476730,NOT_YET_RECRUITING,Gestational Diabetes,OTHER,Telerehabilitation exercise program
-NCT06476730,NOT_YET_RECRUITING,Maternal Psychological Distress,OTHER,Telerehabilitation exercise program
-NCT06473532,NOT_YET_RECRUITING,Heart Failure,BEHAVIORAL,TEXT4HF
-NCT06472323,NOT_YET_RECRUITING,"Trigeminal Neuralgia, Idiopathic",PROCEDURE,PRF+PRP
-NCT06472323,NOT_YET_RECRUITING,PRP,PROCEDURE,PRF+PRP
-NCT06471348,NOT_YET_RECRUITING,Post Operative Pain,DRUG,Bupivacaine liposome injectable suspension
-NCT06471348,NOT_YET_RECRUITING,Spinal Fusion,DRUG,Bupivacaine liposome injectable suspension
-NCT06478186,NOT_YET_RECRUITING,"Osteoarthritis, Knee",DRUG,triamcinolone acetonide extended-release injectable suspension; TCA-ER
-NCT06478186,NOT_YET_RECRUITING,"Diabetes Mellitus, Type 2",DRUG,triamcinolone acetonide extended-release injectable suspension; TCA-ER
-NCT06477224,NOT_YET_RECRUITING,Cerebral Palsy (CP),OTHER,Scooter Board Activities
-NCT06482788,RECRUITING,Esophagogastric Junction Adenocarcinoma,DRUG,Adebrelimab (anti-PD-L1) + XELOX
-NCT06474234,RECRUITING,Generally Healthy,DIETARY_SUPPLEMENT,Probiotic
-NCT06471309,NOT_YET_RECRUITING,Stroke,DEVICE,Theta burst transcranial magnetic stimulation
-NCT06471309,NOT_YET_RECRUITING,Dysphagia,DEVICE,Theta burst transcranial magnetic stimulation
-NCT06471309,NOT_YET_RECRUITING,Functional Near- Infrared Spectroscopy,DEVICE,Theta burst transcranial magnetic stimulation
-NCT06471309,NOT_YET_RECRUITING,Transcranial Magnetic Stimulation,DEVICE,Theta burst transcranial magnetic stimulation
-NCT06481761,RECRUITING,Rate of Canine Retraction,DEVICE,Double-slot brackets
-NCT06475599,NOT_YET_RECRUITING,Endometrial Cancer,DRUG,Anlotinib hydrochloride capsule + TQB2450 injection
-NCT06482008,NOT_YET_RECRUITING,Hepatocellular Carcinoma,DRUG,Hepatic arterial infusion chemotherapy(HAIC) combined with adebrelimab plus apatinib
-NCT06477770,RECRUITING,Surgical Wound Infection,PROCEDURE,Clorhexidine soap
-NCT06477770,RECRUITING,Cesarean Wound; Dehiscence,PROCEDURE,Clorhexidine soap
-NCT06470373,NOT_YET_RECRUITING,Neovascular Age-related Macular Degeneration (nAMD),DRUG,RBS-001 Solution for intravitreal injection
-NCT06475937,NOT_YET_RECRUITING,Breast Neoplasms,DRUG,DM001
-NCT06475937,NOT_YET_RECRUITING,"Carcinoma, Non-Small-Cell Lung",DRUG,DM001
-NCT06475937,NOT_YET_RECRUITING,Solid Carcinoma,DRUG,DM001
-NCT06480500,RECRUITING,Major Depressive Disorder,DRUG,Ketamine hydrochloride
-NCT06480500,RECRUITING,Suicide,DRUG,Ketamine hydrochloride
-NCT06480500,RECRUITING,Treatment Resistant Depression,DRUG,Ketamine hydrochloride
-NCT06481891,RECRUITING,"Obstructive Cardiomyopathy, Hypertrophic",DRUG,Sotagliflozin
-NCT06481891,RECRUITING,Non-obstructive Hypertrophic Cardiomyopathy,DRUG,Sotagliflozin
-NCT06475690,NOT_YET_RECRUITING,Infertility,OTHER,Psychological interventions
-NCT06475690,NOT_YET_RECRUITING,in Vitro Fertilization,OTHER,Psychological interventions
-NCT06475690,NOT_YET_RECRUITING,Mental Health,OTHER,Psychological interventions
-NCT06475690,NOT_YET_RECRUITING,"Anesthesia, General",OTHER,Psychological interventions
-NCT06478108,RECRUITING,Lung Cancer,DEVICE,IRSW-MIM
-NCT06478108,RECRUITING,Liver Cancer,DEVICE,IRSW-MIM
-NCT06478108,RECRUITING,"Solid Tumor, Adult",DEVICE,IRSW-MIM
-NCT06472505,RECRUITING,Pituitary Tumor,DEVICE,polyglycolic acid(Neoveil)
-NCT06472505,RECRUITING,Cerebrospinal Fluid Leakage,DEVICE,polyglycolic acid(Neoveil)
-NCT06472856,NOT_YET_RECRUITING,Prostate Cancer,PROCEDURE,Acupuncture
-NCT06474039,NOT_YET_RECRUITING,COPD,DRUG,Trelegy or Anoro
-NCT06472102,RECRUITING,"Syncope, Vasovagal",PROCEDURE,Cardioneuroablation
-NCT06482593,ACTIVE_NOT_RECRUITING,Apical Periodontitis,DRUG,Zinc-Oxide Eugenol Sealer
-NCT06482086,RECRUITING,Locally Advanced Thyroid Gland Carcinoma,DRUG,Anlotinib
-NCT06472544,NOT_YET_RECRUITING,Rheumatoid Arthritis,BEHAVIORAL,Culturally Grounded Intervention
-NCT06471738,RECRUITING,Ann Arbor Stage II Follicular Lymphoma,DRUG,Zanubrutinib
-NCT06471738,RECRUITING,Grade 1 Follicular Lymphoma,DRUG,Zanubrutinib
-NCT06471738,RECRUITING,Ann Arbor Stage III Follicular Lymphoma,DRUG,Zanubrutinib
-NCT06471738,RECRUITING,Ann Arbor Stage IV Follicular Lymphoma,DRUG,Zanubrutinib
-NCT06471738,RECRUITING,Grade 2 Follicular Lymphoma,DRUG,Zanubrutinib
-NCT06471738,RECRUITING,Grade 3a Follicular Lymphoma,DRUG,Zanubrutinib
-NCT06481995,NOT_YET_RECRUITING,Postpartum Hemorrhage,DRUG,Fibrogammin
-NCT06481995,NOT_YET_RECRUITING,Coagulation Disorder,DRUG,Fibrogammin
-NCT06481995,NOT_YET_RECRUITING,Coagulation Factor Deficiency,DRUG,Fibrogammin
-NCT06481995,NOT_YET_RECRUITING,Hemorrhage,DRUG,Fibrogammin
-NCT06481995,NOT_YET_RECRUITING,Postpartum Complication,DRUG,Fibrogammin
-NCT06473181,NOT_YET_RECRUITING,Diplegic Cerebral Palsy With Spasticity,OTHER,Core stability exercises
-NCT06470191,NOT_YET_RECRUITING,Primary Membranous Nephropathy,DRUG,B007
-NCT06474078,RECRUITING,Stevens-Johnson Syndrome,DRUG,Tofacitinib
-NCT06474078,RECRUITING,Toxic Epidermal Necrolysis,DRUG,Tofacitinib
-NCT06479148,RECRUITING,Cataract,DEVICE,enVistaÂ® Aspireâ„¢
-NCT06470386,NOT_YET_RECRUITING,"Hypertension, Portal",DRUG,Alverine
-NCT06470555,NOT_YET_RECRUITING,Atrial Fibrillation,OTHER,A figure-of-eight suture secured with a three-way tap
-NCT06470555,NOT_YET_RECRUITING,Femoral Vein Injury,OTHER,A figure-of-eight suture secured with a three-way tap
-NCT06470555,NOT_YET_RECRUITING,Bleeding,OTHER,A figure-of-eight suture secured with a three-way tap
-NCT06481540,RECRUITING,Parkinson Disease,DEVICE,Expiratory muscle strength training + SpiroGym application
-NCT06481540,RECRUITING,Voluntary Peak Cough Strength,DEVICE,Expiratory muscle strength training + SpiroGym application
-NCT06481540,RECRUITING,mHealth,DEVICE,Expiratory muscle strength training + SpiroGym application
-NCT06470152,NOT_YET_RECRUITING,Adult Spinal Deformity,PROCEDURE,Correction strategy in reference to our PI-dependent clustering of sagittal alignment
-NCT06470152,NOT_YET_RECRUITING,Sagittal Deformity,PROCEDURE,Correction strategy in reference to our PI-dependent clustering of sagittal alignment
-NCT06470152,NOT_YET_RECRUITING,Sagittal Alignment,PROCEDURE,Correction strategy in reference to our PI-dependent clustering of sagittal alignment
-NCT06470152,NOT_YET_RECRUITING,Sagittal Imbalance,PROCEDURE,Correction strategy in reference to our PI-dependent clustering of sagittal alignment
-NCT06472180,ACTIVE_NOT_RECRUITING,Spacing of Anterior Teeth,PROCEDURE,Glass ceramic sectional veneer
-NCT06470282,NOT_YET_RECRUITING,Bladder Cancer,DRUG,Enfortumab Vedotin
-NCT06470282,NOT_YET_RECRUITING,Muscle-Invasive Bladder Carcinoma,DRUG,Enfortumab Vedotin
-NCT06470282,NOT_YET_RECRUITING,Stage II Bladder Cancer AJCC v8,DRUG,Enfortumab Vedotin
-NCT06470282,NOT_YET_RECRUITING,Stage IIIA Bladder Cancer AJCC v8,DRUG,Enfortumab Vedotin
-NCT06473441,NOT_YET_RECRUITING,Acute Coronary Syndrome,BEHAVIORAL,Tele-Rehabilitation Therapy
-NCT06473441,NOT_YET_RECRUITING,Coronary Artery Disease,BEHAVIORAL,Tele-Rehabilitation Therapy
-NCT06475716,NOT_YET_RECRUITING,Posttraumatic Stress Disorder,BEHAVIORAL,Internet-based guided programme Spring
-NCT06481501,RECRUITING,Chronic Pain,BEHAVIORAL,ONE Mindfulness-Oriented Recovery Enhancement
-NCT06481501,RECRUITING,HIV Infections,BEHAVIORAL,ONE Mindfulness-Oriented Recovery Enhancement
-NCT06470451,NOT_YET_RECRUITING,CTCL/ Mycosis Fungoides,DRUG,Hypericin
-NCT06470451,NOT_YET_RECRUITING,CTCL,DRUG,Hypericin
-NCT06470451,NOT_YET_RECRUITING,Mycosis Fungoides,DRUG,Hypericin
-NCT06470451,NOT_YET_RECRUITING,Cutaneous T Cell Lymphoma,DRUG,Hypericin
-NCT06472895,NOT_YET_RECRUITING,Renal Cell Carcinoma,DRUG,AK112 monotherapy
-NCT06477510,NOT_YET_RECRUITING,Periodontitis,PROCEDURE,non-surgical periodontal therapy
-NCT06470113,NOT_YET_RECRUITING,VaD-MCI,DEVICE,simultaneous cognitive training with transcranial magnetic stimulation
-NCT06470542,NOT_YET_RECRUITING,Knee Osteoarthritis,DRUG,20 ml of Ropivacaine 0.2% Injectable Solution
-NCT06470542,NOT_YET_RECRUITING,Knee Pain Chronic,DRUG,20 ml of Ropivacaine 0.2% Injectable Solution
-NCT06470542,NOT_YET_RECRUITING,Knee Arthritis,DRUG,20 ml of Ropivacaine 0.2% Injectable Solution
-NCT06476496,RECRUITING,Long COVID,PROCEDURE,Acupuncture
-NCT06476496,RECRUITING,Pain,PROCEDURE,Acupuncture
-NCT06472986,RECRUITING,Spinal Cord Injuries,OTHER,Activity-based therapy and transcutaneous spinal cord stimulation
-NCT06472986,RECRUITING,Spinal Cord Injury Cervical,OTHER,Activity-based therapy and transcutaneous spinal cord stimulation
-NCT06472713,NOT_YET_RECRUITING,Recurrent or Metastatic Nasopharyngeal Carcinoma,DRUG,Mitoxantrone hydrochloride liposome injection
-NCT06478563,NOT_YET_RECRUITING,Obesity,DRUG,NNC0487-0111 (formulation D)
-NCT06478563,NOT_YET_RECRUITING,Overweight,DRUG,NNC0487-0111 (formulation D)
-NCT06471257,NOT_YET_RECRUITING,Asthma,COMBINATION_PRODUCT,"Budesonide/Albuterol metered dose inhaler, MDI"
-NCT06477679,NOT_YET_RECRUITING,Cleft Palate,PROCEDURE,â€¢ Furlow with buccinators myomucosal flap
-NCT06482697,NOT_YET_RECRUITING,Pelvic Organ Prolapse,PROCEDURE,total colpocleisis
-NCT06470256,RECRUITING,Advanced Hepatocellular Carcinoma,PROCEDURE,Palliative Hepatectomy
-NCT06481306,NOT_YET_RECRUITING,"Anemia, Sickle Cell",DRUG,BMS-986470
-NCT06481306,NOT_YET_RECRUITING,Healthy Volunteers,DRUG,BMS-986470
-NCT06472050,NOT_YET_RECRUITING,Osteoporosis,DRUG,Romosozumab
-NCT06472050,NOT_YET_RECRUITING,Glucocorticoids Toxicity,DRUG,Romosozumab
-NCT06472115,NOT_YET_RECRUITING,Autism Spectrum Disorder,BEHAVIORAL,Supportive Parenting for Anxious Childhood Emotions (SPACE) for insistence on sameness (IS)
-NCT06472115,NOT_YET_RECRUITING,Autism,BEHAVIORAL,Supportive Parenting for Anxious Childhood Emotions (SPACE) for insistence on sameness (IS)
-NCT06479759,RECRUITING,NSCLC,DRUG,LM-108 antibody and sintilimab
-NCT06479759,RECRUITING,PD-1,DRUG,LM-108 antibody and sintilimab
-NCT06480110,RECRUITING,Metastatic Castration-resistant Prostate Cancer,DRUG,Docetaxel + Ebastine
-NCT06477614,RECRUITING,"Solid Tumor, Adult",BIOLOGICAL,DC cell Vaccine
-NCT06477614,RECRUITING,DC,BIOLOGICAL,DC cell Vaccine
-NCT06470581,NOT_YET_RECRUITING,Complex Regional Pain Syndromes,DRUG,Botulinum toxin A
-NCT06473207,NOT_YET_RECRUITING,Out-Of-Hospital Cardiac Arrest,OTHER,Remote ischemic post conditioning sessions
-NCT06474468,NOT_YET_RECRUITING,Advanced or Metastatic Esophageal Cancer,DRUG,SHR-A2102ï¼›Adebrelimabï¼›Cisplatin
-NCT06470217,RECRUITING,Locally Advanced Head and Neck Squamous Cell Carcinoma,DRUG,tirilizumab with albumin-bound paclitaxel and cisplatin
-NCT06473987,NOT_YET_RECRUITING,Traumatic Brain Injury,OTHER,Personalized cognitive-sensorimotor VR/AR training
-NCT06471543,NOT_YET_RECRUITING,Hypertriglyceridemia,DRUG,RN0361
-NCT06471543,NOT_YET_RECRUITING,Familial Chylomicronemia,DRUG,RN0361
-NCT06479850,NOT_YET_RECRUITING,ADHD,BEHAVIORAL,KF-STRIDEÂ®
-NCT06479850,NOT_YET_RECRUITING,Dyslexia,BEHAVIORAL,KF-STRIDEÂ®
-NCT06479850,NOT_YET_RECRUITING,Learning Disabilities,BEHAVIORAL,KF-STRIDEÂ®
-NCT06475170,NOT_YET_RECRUITING,Gastric Cancer,PROCEDURE,proximal gastrectomy combined with 'Î»+Î±' double-tract anastomosis
-NCT06475170,NOT_YET_RECRUITING,Reflux Esophagitis,PROCEDURE,proximal gastrectomy combined with 'Î»+Î±' double-tract anastomosis
-NCT06471426,RECRUITING,Headache,OTHER,Osteopathic Manipulative Treatment
-NCT06471426,RECRUITING,Neck Pain,OTHER,Osteopathic Manipulative Treatment
-NCT06482398,NOT_YET_RECRUITING,Psoriasis,DRUG,Sericin extract and turmeric extract cream
-NCT06476834,NOT_YET_RECRUITING,Healthy Volunteers,DRUG,Deucravacitinib
-NCT06479811,NOT_YET_RECRUITING,Somatostatin Receptor Positive,DRUG,[212Pb]VMT-alpha-NET
-NCT06479811,NOT_YET_RECRUITING,Gastrointestinal Neuroendocrine Tumors,DRUG,[212Pb]VMT-alpha-NET
-NCT06479811,NOT_YET_RECRUITING,Pheochromocytoma/Paragangliomas,DRUG,[212Pb]VMT-alpha-NET
-NCT06479811,NOT_YET_RECRUITING,Small Cell Lung Cancers,DRUG,[212Pb]VMT-alpha-NET
-NCT06479811,NOT_YET_RECRUITING,Kidney Cancers,DRUG,[212Pb]VMT-alpha-NET
-NCT06479811,NOT_YET_RECRUITING,Head and Neck Tumors,DRUG,[212Pb]VMT-alpha-NET
-NCT06480864,NOT_YET_RECRUITING,Small Cell Lung Cancer,DRUG,Adebrelimab Injection
-NCT06475131,NOT_YET_RECRUITING,Solid Tumor,DRUG,BL-B16D1
-NCT06470763,NOT_YET_RECRUITING,Advanced Solid Tumor,DRUG,ANV600
-NCT06480188,RECRUITING,Dystonia,DEVICE,deep brain stimulation
-NCT06477419,RECRUITING,Mesothelioma,DRUG,Sacituzumab govitecan-hziy
-NCT06477419,RECRUITING,Mesotheliomas Pleural,DRUG,Sacituzumab govitecan-hziy
-NCT06477419,RECRUITING,Mesothelioma; Pleura,DRUG,Sacituzumab govitecan-hziy
-NCT06473909,NOT_YET_RECRUITING,Acute Graft Versus Host Disease,DRUG,CD25 antibody combined glucocorticoid as first-line treatment
-NCT06478979,NOT_YET_RECRUITING,Idiopathic Normal Pressure Hydrocephalus (iNPH),DEVICE,Neuclare
-NCT06472908,NOT_YET_RECRUITING,Coronary Heart Disease,DRUG,Colchicine 0.5 mg
-NCT06472908,NOT_YET_RECRUITING,Percutaneous Coronary Intervention,DRUG,Colchicine 0.5 mg
-NCT06472908,NOT_YET_RECRUITING,Colchicine,DRUG,Colchicine 0.5 mg
-NCT06478797,NOT_YET_RECRUITING,Sepsis,OTHER,Fluid
-NCT06477198,NOT_YET_RECRUITING,Lumbar Disc Herniation,OTHER,QLB
-NCT06477874,RECRUITING,Implant Complication,PROCEDURE,Dental implants placement
-NCT06477874,RECRUITING,Bone Graft; Mechanical Complications,PROCEDURE,Dental implants placement
-NCT06480370,NOT_YET_RECRUITING,Surgery,DEVICE,ISIS IOM System
-NCT06475326,RECRUITING,Pancreatic Cancer,DRUG,Adebrelimab
-NCT06471959,RECRUITING,Psilocybin,DRUG,Psilocybin
-NCT06471959,RECRUITING,"Psychotherapy, Group",DRUG,Psilocybin
-NCT06475625,ACTIVE_NOT_RECRUITING,Chronic Kidney Diseases,PROCEDURE,Percutaneous coronary intervention
-NCT06475625,ACTIVE_NOT_RECRUITING,Coronary Artery Disease,PROCEDURE,Percutaneous coronary intervention
-NCT06478017,NOT_YET_RECRUITING,Heart Transplant,DRUG,Belatacept
-NCT06480448,RECRUITING,Cardiopulmonary,OTHER,Traditional physical herapy
-NCT06478693,RECRUITING,Hepatocellular Carcinoma,DRUG,MT-303
-NCT06477835,NOT_YET_RECRUITING,Atopic Dermatitis,BIOLOGICAL,SIM0718 Injection
-NCT06475222,NOT_YET_RECRUITING,Facial Serum Application,OTHER,Study 1: Facial serum with alpha albutin
-NCT06475222,NOT_YET_RECRUITING,Facial Mask Application,OTHER,Study 1: Facial serum with alpha albutin
-NCT06475222,NOT_YET_RECRUITING,Jelly Consumption,OTHER,Study 1: Facial serum with alpha albutin
-NCT06480331,RECRUITING,Fistulas Arteriovenous,PROCEDURE,Ultrasound-guided fistuloplasty
-NCT06470165,NOT_YET_RECRUITING,Degenerative Lumbar Disease,PROCEDURE,Priority-matching correction technique in DLS
-NCT06470165,NOT_YET_RECRUITING,Scoliosis,PROCEDURE,Priority-matching correction technique in DLS
-NCT06470165,NOT_YET_RECRUITING,Degenerative Scoliosis,PROCEDURE,Priority-matching correction technique in DLS
-NCT06477185,NOT_YET_RECRUITING,"Tuberculosis, Pulmonary",DRUG,Doxycycline
-NCT06470139,NOT_YET_RECRUITING,Hip Osteoarthritis,DRUG,Ropivacaine 0.2% Injectable Solution
-NCT06470139,NOT_YET_RECRUITING,Hip Arthropathy,DRUG,Ropivacaine 0.2% Injectable Solution
-NCT06470139,NOT_YET_RECRUITING,Hip Pain Chronic,DRUG,Ropivacaine 0.2% Injectable Solution
-NCT06476782,RECRUITING,Stroke,OTHER,Motor Relearning Program(MRP) and aerobic exercise
-NCT06482983,RECRUITING,Anesthesia,PROCEDURE,Mechanical Ventilation Mode
-NCT06482983,RECRUITING,Gynecologic Cancer,PROCEDURE,Mechanical Ventilation Mode
-NCT06482983,RECRUITING,Mechanical Ventilation Complication,PROCEDURE,Mechanical Ventilation Mode
-NCT06482203,RECRUITING,Thoracic Kyphosis,OTHER,Trunk Extensor Endurance training & Scapular mobilization
-NCT06481839,NOT_YET_RECRUITING,Shock,OTHER,Starting dose of NE
-NCT06479135,RECRUITING,Myelofibrosis,DRUG,Navtemadlin
-NCT06479135,RECRUITING,Post-PV MF,DRUG,Navtemadlin
-NCT06479135,RECRUITING,Post-ET Myelofibrosis,DRUG,Navtemadlin
-NCT06479135,RECRUITING,Primary Myelofibrosis,DRUG,Navtemadlin
-NCT06479135,RECRUITING,MF,DRUG,Navtemadlin
-NCT06477081,NOT_YET_RECRUITING,Myopia,PROCEDURE,FS-LASIK procedure
-NCT06477081,NOT_YET_RECRUITING,Astigmatism,PROCEDURE,FS-LASIK procedure
-NCT06477081,NOT_YET_RECRUITING,Myopic Astigmatism,PROCEDURE,FS-LASIK procedure
-NCT06474286,NOT_YET_RECRUITING,Schizophrenia,DRUG,Prucalopride 1 MG
-NCT06474455,NOT_YET_RECRUITING,Advanced Solid Tumors,DRUG,SHR-9839 ï¼›SHR-A2009
-NCT06470945,ACTIVE_NOT_RECRUITING,Spacing of Anterior Teeth,PROCEDURE,Glass ceramic sectional veneer
-NCT06476080,NOT_YET_RECRUITING,Acute Herpes Zoster Neuropathy,PROCEDURE,ultrasound guided erector spine block
-NCT06470841,NOT_YET_RECRUITING,Acute Myeloid Leukemia,DRUG,CHG Combined With Venetoclax and Azacytidine
-NCT06480253,NOT_YET_RECRUITING,Ventilation Therapy,DEVICE,Helmet Continuous Positive Airway Pressure
-NCT06481696,RECRUITING,Unexplained Infertility,DIETARY_SUPPLEMENT,Resveratrol-based multivitamin supplement
-NCT06477146,NOT_YET_RECRUITING,Non-Alcoholic Fatty Liver Disease (NAFLD),DRUG,Milk thistle (MT)
-NCT06474910,RECRUITING,Scleroderma,OTHER,Connective tissue massage
-NCT06476184,NOT_YET_RECRUITING,Ovarian Cancer,DRUG,Carboplatin
-NCT06474013,NOT_YET_RECRUITING,Alzheimer Disease,DEVICE,ExAblate 4000 Type 2.1
-NCT06479343,NOT_YET_RECRUITING,Intracranial Arteriovenous Malformations,DEVICE,Liquid Embolic System (Tonbridge)
-NCT06478381,RECRUITING,Relapsed/Refractory B-cell Lymphomas,DRUG,L218CAR19
-NCT06479590,NOT_YET_RECRUITING,Glucose Metabolism Disorders,DEVICE,tDCS
-NCT06477536,NOT_YET_RECRUITING,Generalized Pustular Psoriasis,DRUG,HB0034
-NCT06476327,NOT_YET_RECRUITING,Stroke,BEHAVIORAL,experimental 1 group
-NCT06481423,RECRUITING,Chronic Insomnia,BEHAVIORAL,dCBT-I
-NCT06481566,RECRUITING,Non-small Cell Lung Cancer,RADIATION,stereotactic ablative body radiotherapy
-NCT06476223,NOT_YET_RECRUITING,Xerostomia,DRUG,Artificial saliva containing cumin and ginger extract
-NCT06476366,NOT_YET_RECRUITING,Chronic Actinic Dermatitis,DRUG,Azathioprine
-NCT06475248,NOT_YET_RECRUITING,Tension Headaches,OTHER,Placebo Technique
-NCT06480422,RECRUITING,Chronic Obstructive Pulmonary Disease,OTHER,Segmental breathing technique
-NCT06483035,NOT_YET_RECRUITING,Phantom Limb Pain,DEVICE,Intensive Visual Stimulation (IVS)
-NCT06470334,NOT_YET_RECRUITING,Hip Osteoarthritis,DRUG,Ropivacaine
-NCT06470334,NOT_YET_RECRUITING,Hip Pain Chronic,DRUG,Ropivacaine
-NCT06470334,NOT_YET_RECRUITING,Hip Arthritis,DRUG,Ropivacaine
-NCT06471933,NOT_YET_RECRUITING,Nasolabial Fold,DEVICE,JulÃ¤ine
-NCT06475209,RECRUITING,SCLC,DRUG,Adebrelimab combined with Apatinib
-NCT06472466,NOT_YET_RECRUITING,Eating Disorders,BEHAVIORAL,Sleep/eating virtual reality self-help exposure-based intervention
-NCT06472466,NOT_YET_RECRUITING,Insomnia Disorder,BEHAVIORAL,Sleep/eating virtual reality self-help exposure-based intervention
-NCT06475989,NOT_YET_RECRUITING,Refractory Differentiated Thyroid Gland Carcinoma,PROCEDURE,Biospecimen Collection
-NCT06483074,NOT_YET_RECRUITING,End Stage Renal Disease on Dialysis,DRUG,Empagliflozin 10 MG
-NCT06483074,NOT_YET_RECRUITING,Peritoneal Dialysis Complication,DRUG,Empagliflozin 10 MG
-NCT06483074,NOT_YET_RECRUITING,Sodium-glucose Cotransporter-2 Inhibitor,DRUG,Empagliflozin 10 MG
-NCT06483074,NOT_YET_RECRUITING,Residual Kidney Function,DRUG,Empagliflozin 10 MG
-NCT06477263,RECRUITING,Autism Spectrum Disorder,DEVICE,Neurocytotron
-NCT06474273,NOT_YET_RECRUITING,"Rejection; Transplant, Kidney",DRUG,Methylprednisolone
-NCT06474273,NOT_YET_RECRUITING,"Rejection; Transplant, Pancreas",DRUG,Methylprednisolone
-NCT06477848,NOT_YET_RECRUITING,Substance Use Disorder,OTHER,Integrated Behavioral Health System with SUD Resources
-NCT06477848,NOT_YET_RECRUITING,Opioid Use Disorder,OTHER,Integrated Behavioral Health System with SUD Resources
-NCT06477848,NOT_YET_RECRUITING,Adolescent,OTHER,Integrated Behavioral Health System with SUD Resources
-NCT06478251,RECRUITING,"Tumor, Solid",DRUG,NW-301V
-NCT06480435,RECRUITING,Chronic Obstructive Pulmonary Disease,OTHER,Chest physical Therapy
-NCT06480032,RECRUITING,Strength,DEVICE,Blood Flow Restriction band
-NCT06480032,RECRUITING,Range of Motion,DEVICE,Blood Flow Restriction band
-NCT06480032,RECRUITING,Pain-Knee,DEVICE,Blood Flow Restriction band
-NCT06480032,RECRUITING,Skeletal Muscle Hypertrophy,DEVICE,Blood Flow Restriction band
-NCT06480032,RECRUITING,Effusion Joint,DEVICE,Blood Flow Restriction band
-NCT06479694,RECRUITING,Fall,BEHAVIORAL,Real-life Dual-Task Training
-NCT06476977,RECRUITING,Trigger Finger Disorder,PROCEDURE,Dorsal webspace combined corticosteroid and anesthetic injection
-NCT06472934,NOT_YET_RECRUITING,Aortic Stenosis,OTHER,Transcatheter aortic valve replacement in the absence of B-blocker treatment
-NCT06478355,ACTIVE_NOT_RECRUITING,ESCC,DRUG,Immunotherapy
-NCT06474663,NOT_YET_RECRUITING,Refractory Acute Leukemia,DRUG,Cladribine
-NCT06474663,NOT_YET_RECRUITING,Relapsed Acute Leukemia,DRUG,Cladribine
-NCT06480136,NOT_YET_RECRUITING,NSCLC,DRUG,SHR-A1921 injection and adebrelimab injection
-NCT06472076,RECRUITING,"Lung Cancer, Non-Small Cell",BIOLOGICAL,Dostarlimab
-NCT06481475,NOT_YET_RECRUITING,Moderate to Severe Glabellar Lines,BIOLOGICAL,YY003
-NCT06478953,RECRUITING,Pneumonia,DIAGNOSTIC_TEST,FA Pneumonia Panel
-NCT06478953,RECRUITING,Critically Ill,DIAGNOSTIC_TEST,FA Pneumonia Panel
-NCT06476808,NOT_YET_RECRUITING,High-grade Serous Ovarian Carcinoma (HGSOC),DRUG,BMS-986463
-NCT06476808,NOT_YET_RECRUITING,Uterine Serous Carcinoma (USC),DRUG,BMS-986463
-NCT06476808,NOT_YET_RECRUITING,Non-small Cell Lung Cancer (NSCLC),DRUG,BMS-986463
-NCT06472518,NOT_YET_RECRUITING,Iliofemoral Venous Thrombosis,DEVICE,pharmaco mechanical thrombolysis
-NCT06473974,NOT_YET_RECRUITING,Facial Hyperpigmentation,DRUG,Test cosmetic product
-NCT06473831,RECRUITING,Obesity,DEVICE,"Magnet System, DI Biofragmentable"
-NCT06473831,RECRUITING,Type 2 Diabetes,DEVICE,"Magnet System, DI Biofragmentable"
-NCT06481072,RECRUITING,Functional Abdominal Pain Syndrome,OTHER,Digital patient education
-NCT06471725,RECRUITING,Pilates Exercises,OTHER,"combination of pilates exercises, Low-level laser therapy, and low-intensity ultrasound"
-NCT06471725,RECRUITING,Sports Hernia,OTHER,"combination of pilates exercises, Low-level laser therapy, and low-intensity ultrasound"
-NCT06481176,NOT_YET_RECRUITING,Restless Legs Syndrome,BEHAVIORAL,12-Week RLS Exercise Program
-NCT06474507,NOT_YET_RECRUITING,Ischemic Cerebrovascular Disease,DRUG,Calculus bovis sativus (CBS)
-NCT06474507,NOT_YET_RECRUITING,Acute Ischemic Stroke,DRUG,Calculus bovis sativus (CBS)
-NCT06474507,NOT_YET_RECRUITING,Cerebral Small Vessel Diseases,DRUG,Calculus bovis sativus (CBS)
-NCT06476886,RECRUITING,Suicide,BEHAVIORAL,Intensive Crisis Intervention (ICI)
-NCT06476886,RECRUITING,Suicidal Ideation,BEHAVIORAL,Intensive Crisis Intervention (ICI)
-NCT06476886,RECRUITING,"Suicide, Attempted",BEHAVIORAL,Intensive Crisis Intervention (ICI)
-NCT06476886,RECRUITING,Suicide and Self-harm,BEHAVIORAL,Intensive Crisis Intervention (ICI)
-NCT06476886,RECRUITING,Suicide Threat,BEHAVIORAL,Intensive Crisis Intervention (ICI)
-NCT06474442,NOT_YET_RECRUITING,Herpes Simplex Virus Type I Stromal Keratitis,GENETIC,BD111 Injection (investigational new drug)
-NCT06482541,NOT_YET_RECRUITING,Androgenetic Alopecia,COMBINATION_PRODUCT,5 billion exosomes and saline solution microneedling
-NCT06476613,RECRUITING,Surgery,OTHER,Permissive Hypotension
-NCT06481228,NOT_YET_RECRUITING,Philadelphia Positive Acute Lymphoblastic Leukemia,COMBINATION_PRODUCT,CAR-T cells
-NCT06481228,NOT_YET_RECRUITING,"Acute Lymphoblastic Leukemia, Adult",COMBINATION_PRODUCT,CAR-T cells
-NCT06477393,NOT_YET_RECRUITING,Osteoarthritis,OTHER,Regular rehababilitation
-NCT06477393,NOT_YET_RECRUITING,Hand Osteoarthritis,OTHER,Regular rehababilitation
-NCT06477393,NOT_YET_RECRUITING,Foot Osteoarthritis,OTHER,Regular rehababilitation
-NCT06477055,NOT_YET_RECRUITING,Non-small Cell Lung Cancer,DRUG,Osimertinib
-NCT06473779,NOT_YET_RECRUITING,Severe Asthma,COMBINATION_PRODUCT,Tezepelumab
-NCT06472492,RECRUITING,Unipolar Depression,BEHAVIORAL,Adjuvant yoga intervention
-NCT06474403,RECRUITING,Parastomal Hernia,PROCEDURE,standard Sugarbecker's operation
-NCT06475300,NOT_YET_RECRUITING,Non-small Cell Lung Cancer,DRUG,BL-B01D1
-NCT06475300,NOT_YET_RECRUITING,Nasopharyngeal Carcinoma,DRUG,BL-B01D1
-NCT06475300,NOT_YET_RECRUITING,Solid Tumor,DRUG,BL-B01D1
-NCT06474585,NOT_YET_RECRUITING,Pronated Left Foot,DEVICE,Plantar orthosis
-NCT06474585,NOT_YET_RECRUITING,Pronated Right Foot,DEVICE,Plantar orthosis
-NCT06482255,NOT_YET_RECRUITING,Rotator Cuff Injuries,OTHER,manual therapy and therapeutic exercise
-NCT06477653,NOT_YET_RECRUITING,Hypereosinophilic Syndrome,BIOLOGICAL,dupilumab
-NCT06473493,NOT_YET_RECRUITING,"Hypertension, Portal",DRUG,Alverine
-NCT06479499,RECRUITING,COPD Patients,OTHER,Pilates Exercises
-NCT06480383,RECRUITING,Generalized Anxiety Disorder,DRUG,ITI-1284 10 mg
-NCT06481592,NOT_YET_RECRUITING,Endometrial Cancer,BIOLOGICAL,Lifileucel
-NCT06474897,RECRUITING,Impingement Syndrome,OTHER,Ozone therapy
-NCT06470568,NOT_YET_RECRUITING,Mild Cognitive Impairment,BEHAVIORAL,Progressive Resistance exercise training
-NCT06474481,NOT_YET_RECRUITING,FL,DRUG,Zanubrutinib
-NCT06473714,NOT_YET_RECRUITING,"Aphasia, Primary Progressive",DEVICE,tDCS
-NCT06475443,NOT_YET_RECRUITING,Metastatic Breast Cancer in the Brain,DRUG,pyrotinib plus capecitabine
-NCT06477887,RECRUITING,Socket Preservation,BIOLOGICAL,Allogeneic Dentin Matrix
-NCT06473597,NOT_YET_RECRUITING,Migraine,DRUG,Rimegepant
-NCT06479876,NOT_YET_RECRUITING,Heart Failure With Preserved Ejection Fraction,OTHER,HBCR
-NCT06479876,NOT_YET_RECRUITING,Heart Failure With Reduced Ejection Fraction,OTHER,HBCR
-NCT06479876,NOT_YET_RECRUITING,Cardiovascular Diseases,OTHER,HBCR
-NCT06476392,NOT_YET_RECRUITING,Back Pain Lower Back Chronic,DRUG,Melatonin 10 MG
-NCT06476392,NOT_YET_RECRUITING,Insomnia,DRUG,Melatonin 10 MG
-NCT06479122,NOT_YET_RECRUITING,Cesarean Section,DRUG,Acetaminophen
-NCT06479122,NOT_YET_RECRUITING,Postoperative Pain,DRUG,Acetaminophen
-NCT06480656,RECRUITING,Eccentric Cycling Exercise,PROCEDURE,Rehabilitation with eccentric cycling exercise
-NCT06482684,RECRUITING,Mantle Cell Lymphoma,DRUG,KTE-X19
-NCT06482112,NOT_YET_RECRUITING,Metabolic Dysfunction-Associated Steatotic Liver Disease,DRUG,Efinopegdutide
-NCT06482112,NOT_YET_RECRUITING,Non-alcoholic Fatty Liver Disease,DRUG,Efinopegdutide
-NCT06482112,NOT_YET_RECRUITING,Nonalcoholic Fatty Liver Disease,DRUG,Efinopegdutide
-NCT06482112,NOT_YET_RECRUITING,Liver Disease,DRUG,Efinopegdutide
-NCT06474416,RECRUITING,Herpes Simplex Virus Type I Stromal Keratitis,GENETIC,BD111 Injection (Investigative New Drug)
-NCT06470906,NOT_YET_RECRUITING,Vaginal Dysbiosis,DIETARY_SUPPLEMENT,Probiotic Group
-NCT06470906,NOT_YET_RECRUITING,Vaginal Disease,DIETARY_SUPPLEMENT,Probiotic Group
-NCT06470906,NOT_YET_RECRUITING,Molecular-bacterial Vaginosis,DIETARY_SUPPLEMENT,Probiotic Group
-NCT06471881,ACTIVE_NOT_RECRUITING,Edentulous Mouth,DEVICE,Two mandibular implants
-NCT06477406,NOT_YET_RECRUITING,Endometriosis,DRUG,Cannabidiol
-NCT06481293,RECRUITING,Alveolar Osteitis,DEVICE,Diode laser therapy
-NCT06472583,RECRUITING,Breast Cancer,DRUG,Keytruda
-NCT06471205,NOT_YET_RECRUITING,Triple-negative Breast Cancer,DRUG,BL-B01D1
-NCT06478927,RECRUITING,Hepatocellular Carcinoma,DRUG,Palbociclib capsules
-NCT06478862,RECRUITING,Cancer of Pancreas,DRUG,Promitil
-NCT06478862,RECRUITING,Cancer of Ovary,DRUG,Promitil
-NCT06481397,NOT_YET_RECRUITING,Pancreatic Ductal Adenocarcinoma (PDAC),DEVICE,Onco-Seraph 100 Filter
-NCT06475495,NOT_YET_RECRUITING,Rheumatoid Arthritis,DRUG,KYV101
-NCT06476743,RECRUITING,Geriatrics,OTHER,Sensory Integration Therapy
-NCT06482554,RECRUITING,Apathy,DRUG,Lumateperone 42 mg
-NCT06482554,RECRUITING,Schizophrenia,DRUG,Lumateperone 42 mg
-NCT06482554,RECRUITING,Schizophrenia; Psychosis,DRUG,Lumateperone 42 mg
-NCT06475378,NOT_YET_RECRUITING,Primary Insomnia,DEVICE,Moonbird
-NCT06482190,NOT_YET_RECRUITING,Idiopathic Pulmonary Fibrosis,DRUG,RSN0402 Part 1
-NCT06482190,NOT_YET_RECRUITING,"Lung; Disease, Interstitial, With Fibrosis",DRUG,RSN0402 Part 1
-NCT06470984,NOT_YET_RECRUITING,"Knowledge, Attitudes, Practice",BEHAVIORAL,Educational intervention
-NCT06470438,RECRUITING,"Lymphoma, Non-Hodgkin",DRUG,JNJ-88998377
-NCT06470438,RECRUITING,Refractory B-Cell NHL,DRUG,JNJ-88998377
-NCT06470438,RECRUITING,Relapsed B-cell NHL,DRUG,JNJ-88998377
-NCT06479863,NOT_YET_RECRUITING,Sporadic Inclusion Body Myositis (sIBM),COMBINATION_PRODUCT,Pozelimab/Cemdisiran
-NCT06479863,NOT_YET_RECRUITING,Idiopathic Inflammatory Myopathies,COMBINATION_PRODUCT,Pozelimab/Cemdisiran
-NCT06471946,NOT_YET_RECRUITING,Higher-risk Myelodysplastic Syndromes,DRUG,Venetoclax Plus Azacytidine Conditioning Regimen Allo-HSCT
-NCT06478264,NOT_YET_RECRUITING,Esophageal Small Cell Carcinoma,DRUG,Etoposide
-NCT06470204,NOT_YET_RECRUITING,Knee Osteoarthritis,DRUG,Ropivacaine
-NCT06470204,NOT_YET_RECRUITING,Knee Pain Chronic,DRUG,Ropivacaine
-NCT06470204,NOT_YET_RECRUITING,Knee Arthritis,DRUG,Ropivacaine
-NCT06474247,RECRUITING,Vaginal Candidiasis,DEVICE,Postbiotic
-NCT06473428,NOT_YET_RECRUITING,Parkinson Disease,BEHAVIORAL,respiratory muscle training
-NCT06473428,NOT_YET_RECRUITING,Pulmonary Disease,BEHAVIORAL,respiratory muscle training
-NCT06473428,NOT_YET_RECRUITING,Voice Disorders,BEHAVIORAL,respiratory muscle training
-NCT06480292,NOT_YET_RECRUITING,Gestational Diabetes Mellitus in Pregnancy,OTHER,telerehabilitation exercise
-NCT06470880,NOT_YET_RECRUITING,Melanoma,DRUG,Adaptive Therapy
-NCT06475417,RECRUITING,Gastric Cancer,DRUG,Adebrelimab combined with DOS
-NCT06478225,RECRUITING,Tumor Pancreas,DRUG,BGT007H Cell Injection
-NCT06471907,RECRUITING,Erector Spinea Plane Block,PROCEDURE,erector spinae plane block
-NCT06478602,RECRUITING,Liver Cirrhosis,BIOLOGICAL,Fecal Microbiota Transplantation
-NCT06480123,NOT_YET_RECRUITING,Diabetic Foot,DRUG,Skin drug prepared with exome originated from stem cell
-NCT06480123,NOT_YET_RECRUITING,Stem Cell,DRUG,Skin drug prepared with exome originated from stem cell
-NCT06482372,NOT_YET_RECRUITING,Stroke,DEVICE,transcranial magnetic stimulation
-NCT06482372,NOT_YET_RECRUITING,Mirror Therapy,DEVICE,transcranial magnetic stimulation
-NCT06482372,NOT_YET_RECRUITING,Transcranial Magnetic Stimulation,DEVICE,transcranial magnetic stimulation
-NCT06480461,NOT_YET_RECRUITING,Parkinson's Disease,DRUG,VGN-R09b
-NCT06474676,NOT_YET_RECRUITING,Metastatic Soft-tissue Sarcoma,DRUG,Cyclophosphamide
-NCT06479382,NOT_YET_RECRUITING,Eye Pain,DEVICE,ETX-4143 2.0
-NCT06476132,NOT_YET_RECRUITING,Lung Transplant,DRUG,Belumosudil
-NCT06478706,RECRUITING,Cystic Fibrosis,DRUG,ETD001
-NCT06476431,NOT_YET_RECRUITING,Stroke,OTHER,dual task
-NCT06472921,NOT_YET_RECRUITING,Acute Ischemic Stroke,BEHAVIORAL,Butylphthalide treatment initiation time
-NCT06479681,RECRUITING,Alcohol Use Disorder,BEHAVIORAL,Peer recovery coaching (PRC)
-NCT06482333,NOT_YET_RECRUITING,Postpolypectomy Bleeding,OTHER,Time for resumption of DOAC
-NCT06472167,RECRUITING,Breathing Exercises,BEHAVIORAL,Breathing exercises
-NCT06472219,NOT_YET_RECRUITING,Respiratory Tract Infections,DRUG,Prednisolone 30 mg
-NCT06474637,RECRUITING,Sleeve Gastrectomy,DEVICE,AEON Endoscopic Powered Stapler Handle and Reload
-NCT06480565,NOT_YET_RECRUITING,Clear Cell Renal Cell Carcinoma,DRUG,ADI-270
-NCT06482671,NOT_YET_RECRUITING,Dyspepsia and Other Specified Disorders of Function of Stomach,DRUG,Rikkunshi-to
-NCT06482671,NOT_YET_RECRUITING,Postprandial Distress Syndrome,DRUG,Rikkunshi-to
-NCT06478680,NOT_YET_RECRUITING,Stroke,BEHAVIORAL,Exoskeleton mediated gait training
-NCT06478680,NOT_YET_RECRUITING,"Gait, Hemiplegic",BEHAVIORAL,Exoskeleton mediated gait training
-NCT06481163,NOT_YET_RECRUITING,Buruli Ulcer,DRUG,Telacebec
-NCT06479642,NOT_YET_RECRUITING,Gonarthrosis,PROCEDURE,Genicular nerve pulse radiofrequency ablation 3
-NCT06482827,NOT_YET_RECRUITING,Diabetic Neuropathies,DEVICE,Sham Repetitive transcranial magnetic stimulation
-NCT06471049,RECRUITING,Surgery,PROCEDURE,Benign Hysterectomy
-NCT06471049,RECRUITING,Gynecologic Disease,PROCEDURE,Benign Hysterectomy
-NCT06478784,RECRUITING,Multiple Sclerosis,OTHER,Resistance training
-NCT06477471,NOT_YET_RECRUITING,Recurrent Kidney Stones With Colicky Pain,OTHER,MetProrenes
-NCT06473961,NOT_YET_RECRUITING,Non Small Cell Lung Cancer Metastatic,BIOLOGICAL,Autologous Tumor Infiltrating Lymphocytes
-NCT06473961,NOT_YET_RECRUITING,Non Small Cell Lung Cancer,BIOLOGICAL,Autologous Tumor Infiltrating Lymphocytes
-NCT06470971,NOT_YET_RECRUITING,Advanced Malignant Solid Neoplasm,BIOLOGICAL,Anti-PD-L1 Monoclonal Antibody
-NCT06470971,NOT_YET_RECRUITING,Hematopoietic and Lymphatic System Neoplasm,BIOLOGICAL,Anti-PD-L1 Monoclonal Antibody
-NCT06479603,ACTIVE_NOT_RECRUITING,"Sarcoidosis, Pulmonary",DRUG,Nintedanib
-NCT06477133,RECRUITING,Prostatectomy,DRUG,Magnesium sulfate
-NCT06471634,NOT_YET_RECRUITING,"Diabetes Mellitus, Type 2",BEHAVIORAL,CBTi
-NCT06471634,NOT_YET_RECRUITING,Insomnia,BEHAVIORAL,CBTi
-NCT06471634,NOT_YET_RECRUITING,Sedentary Behavior,BEHAVIORAL,CBTi
-NCT06474572,NOT_YET_RECRUITING,Neonatal Disease,DEVICE,Direct laryngoscope and table at xiphoid level
-NCT06474572,NOT_YET_RECRUITING,Intubation,DEVICE,Direct laryngoscope and table at xiphoid level
-NCT06482021,NOT_YET_RECRUITING,Diabetic Nephropathy,DEVICE,Low-intensity extracorporeal shock wave
-NCT06479317,RECRUITING,Immune Thrombocytopenia With Positive ANA Antibodies,DRUG,Hydroxychloroquine Oral Tablet
-NCT06480227,NOT_YET_RECRUITING,Stress Urinary Incontinence,DEVICE,Solyx Single-incision Sling
-NCT06480227,NOT_YET_RECRUITING,Urinary Incontinence,DEVICE,Solyx Single-incision Sling
-NCT06480227,NOT_YET_RECRUITING,Mixed Urinary Incontinence,DEVICE,Solyx Single-incision Sling
-NCT06472388,RECRUITING,Neuroendocrine Tumors,DRUG,Everolimus 5 MG
-NCT06472388,RECRUITING,Progression,DRUG,Everolimus 5 MG
-NCT06472388,RECRUITING,Neuroendocrine Tumor Grade 1,DRUG,Everolimus 5 MG
-NCT06472388,RECRUITING,Neuroendocrine Tumor Grade 2,DRUG,Everolimus 5 MG
-NCT06472388,RECRUITING,Neuroendocrine Tumor of Pancreas,DRUG,Everolimus 5 MG
-NCT06472388,RECRUITING,Neuroendocrine Tumor of the Lung,DRUG,Everolimus 5 MG
-NCT06472388,RECRUITING,Neuroendocrine Tumor Carcinoid,DRUG,Everolimus 5 MG
-NCT06471361,NOT_YET_RECRUITING,Generalized Myasthenia Gravis,DRUG,Zilucoplan
-NCT06474026,NOT_YET_RECRUITING,Psychostimulant Use Disorder(PUD),DEVICE,ExAblate 4000 Type 2.1
-NCT06481709,NOT_YET_RECRUITING,Bioavailability,DRUG,RLF-OD032
-NCT06477523,RECRUITING,"SCLC, Extensive Stage",DRUG,AK104
-NCT06470659,RECRUITING,Obesity,BEHAVIORAL,WW Clinic
-NCT06470659,RECRUITING,Overweight,BEHAVIORAL,WW Clinic
-NCT06479356,NOT_YET_RECRUITING,Non-Hodgkin Lymphoma,BIOLOGICAL,Relma-cel
-NCT06479356,NOT_YET_RECRUITING,Large B-cell Lymphoma,BIOLOGICAL,Relma-cel
-NCT06479993,RECRUITING,Athletes,DIETARY_SUPPLEMENT,Chlorella supplementation
-NCT06479993,RECRUITING,Healthy,DIETARY_SUPPLEMENT,Chlorella supplementation
-NCT06477276,RECRUITING,Major Depressive Disorder,DEVICE,Nervio-X
-NCT06483061,NOT_YET_RECRUITING,"Epilepsy, Temporal Lobe",DRUG,Ferumoxytol
-NCT06470360,RECRUITING,Laparoscopic Cholecystectomy,OTHER,Surgycal procedure
-NCT06479395,NOT_YET_RECRUITING,Cerebral Palsy,OTHER,Pediatric Endurance and Limb Strengthening (PEDALS) program
-NCT06482762,NOT_YET_RECRUITING,Bipolar,DEVICE,BrainSonix Pulsar 1002
-NCT06478992,NOT_YET_RECRUITING,Adenomyosis,PROCEDURE,A:hysteroscopic suture fixation of Mirena
-NCT06478992,NOT_YET_RECRUITING,Hysteroscopy,PROCEDURE,A:hysteroscopic suture fixation of Mirena
-NCT06482918,RECRUITING,Schizophrenia,BEHAVIORAL,Cognitive Remediation
-NCT06478212,NOT_YET_RECRUITING,IDH1-mutant Glioma,DRUG,Vorasidenib
-NCT06478212,NOT_YET_RECRUITING,IDH2-mutant Glioma,DRUG,Vorasidenib
-NCT06477237,RECRUITING,Psoriasis,BIOLOGICAL,HB0017 Q4W
-NCT06471530,RECRUITING,Overweight and Obesity,DRUG,TE-8105 SAD Cohort 1
-NCT06480175,RECRUITING,Neck Pain,PROCEDURE,cervical plexus block
-NCT06480175,RECRUITING,Cervical Spondylosis,PROCEDURE,cervical plexus block
-NCT06475820,RECRUITING,Acute Lymphoblastic Leukemia,DRUG,Baricitinib
-NCT06475820,RECRUITING,Acute Myeloid Leukemia,DRUG,Baricitinib
-NCT06475820,RECRUITING,Biphenotypic Acute Leukemia,DRUG,Baricitinib
-NCT06475820,RECRUITING,Malignant Lymphoma,DRUG,Baricitinib
-NCT06475820,RECRUITING,Myelodysplastic Syndromes,DRUG,Baricitinib
-NCT06473389,NOT_YET_RECRUITING,Hemiplegic Shoulder Pain,PROCEDURE,Suprascapular nerve pulse radiofrequency ablation
-NCT06479291,RECRUITING,Immune Thrombocytopenia With Positive ANA Antibodies,DRUG,Hydroxychloroquine Oral Tablet
-NCT06478316,NOT_YET_RECRUITING,Late Abortion,PROCEDURE,Intracervical block
-NCT06478316,NOT_YET_RECRUITING,Dilation and Evacuation,PROCEDURE,Intracervical block
-NCT06477094,NOT_YET_RECRUITING,Lumbar Spondylosis,DEVICE,Stratus Nimbus Electrosurgical RF Multi-Tined Expandable Electrode
-NCT06480786,NOT_YET_RECRUITING,Peripheral Arterial Disease,DEVICE,Spinal cord stimulation
-NCT06480786,NOT_YET_RECRUITING,Painful Diabetic Neuropathy,DEVICE,Spinal cord stimulation
-NCT06480786,NOT_YET_RECRUITING,"Diabetes Mellitus, Type 2",DEVICE,Spinal cord stimulation
-NCT06480786,NOT_YET_RECRUITING,Chronic Pain,DEVICE,Spinal cord stimulation
-NCT06480786,NOT_YET_RECRUITING,Spinal Cord Stimulation,DEVICE,Spinal cord stimulation
-NCT06480786,NOT_YET_RECRUITING,Chronic Pain Syndrome,DEVICE,Spinal cord stimulation
-NCT06480786,NOT_YET_RECRUITING,Limb Pain,DEVICE,Spinal cord stimulation
-NCT06480552,NOT_YET_RECRUITING,Advanced Solid Tumors,DRUG,TEV-56278
-NCT06482580,ACTIVE_NOT_RECRUITING,Flexible Flatfoot,OTHER,Exercise
-NCT06481085,NOT_YET_RECRUITING,Type 2 Diabetes,DRUG,HDM1002 50 mg
-NCT06481969,RECRUITING,Premature Ovarian Insufficiency,PROCEDURE,Conventional IVF
-NCT06479161,RECRUITING,Postoperative Pain,DRUG,Tranexamic acid
-NCT06477939,NOT_YET_RECRUITING,Glioblastoma,DRUG,Administration of L-TC
-NCT06478459,NOT_YET_RECRUITING,Pancreatic Cancer Non-resectable,BIOLOGICAL,CAR-NK
-NCT06471855,RECRUITING,Lower Limb Amputation,DEVICE,Multidisciplinary Conventional and Technology-based Rehabilitation
-NCT06471855,RECRUITING,Prosthesis User,DEVICE,Multidisciplinary Conventional and Technology-based Rehabilitation
-NCT06482892,NOT_YET_RECRUITING,Critical Limb Ischemia,DRUG,TP03HN106
-NCT06475729,NOT_YET_RECRUITING,Healthy,DRUG,Citrate-Free Mirikizumab
-NCT06472453,NOT_YET_RECRUITING,Alveolar Ridge Augmentation,DEVICE,Allograft/Xenograft
-NCT06478160,NOT_YET_RECRUITING,Acceptability of Health Care,DEVICE,Closed-Blood Sampling Devices
-NCT06470100,NOT_YET_RECRUITING,Knee Osteoarthritis,DRUG,0.9% Sodium Chloride Injection
-NCT06470100,NOT_YET_RECRUITING,Knee Arthritis,DRUG,0.9% Sodium Chloride Injection
-NCT06470100,NOT_YET_RECRUITING,Knee Disease,DRUG,0.9% Sodium Chloride Injection
-NCT06470100,NOT_YET_RECRUITING,Knee Pain Chronic,DRUG,0.9% Sodium Chloride Injection
-NCT06474728,NOT_YET_RECRUITING,Atopic Dermatitis,OTHER,Treatment with an Emollient Containing Postbiotic Saccharomyces and Lactobacillus
-NCT06474728,NOT_YET_RECRUITING,Eczema,OTHER,Treatment with an Emollient Containing Postbiotic Saccharomyces and Lactobacillus
-NCT06474728,NOT_YET_RECRUITING,Emollient,OTHER,Treatment with an Emollient Containing Postbiotic Saccharomyces and Lactobacillus
-NCT06477692,NOT_YET_RECRUITING,Head and Neck Cancer,DRUG,ENI using IMRT with or without chemotherapy
-NCT06472869,NOT_YET_RECRUITING,Electronic Cigarette Use,OTHER,NJOY ACE e-cigarette
-NCT06472869,NOT_YET_RECRUITING,"Smoking, Cigarette",OTHER,NJOY ACE e-cigarette
-NCT06472869,NOT_YET_RECRUITING,Nicotine Dependence,OTHER,NJOY ACE e-cigarette
-NCT06482294,ACTIVE_NOT_RECRUITING,Asthma,DRUG,Salbutamol
-NCT06472193,RECRUITING,Bladder Dysfunction,PROCEDURE,Shanfield implantation technique in Mitroffanof procedure
-NCT06480968,RECRUITING,Fragile X Syndrome,DRUG,CTH120
-NCT06473805,NOT_YET_RECRUITING,Management of Gummy Smile,PROCEDURE,VISTA technique and 3D printed PMMA implant
-NCT06481800,RECRUITING,Hemodialysis Complication,OTHER,Progressive muscle relaxation (PMR)
-NCT06471075,NOT_YET_RECRUITING,Pain,BEHAVIORAL,Mindfulness Pain Management
-NCT06471075,NOT_YET_RECRUITING,Chronic Pain,BEHAVIORAL,Mindfulness Pain Management
-NCT06471075,NOT_YET_RECRUITING,Acute Pain,BEHAVIORAL,Mindfulness Pain Management
-NCT06479629,NOT_YET_RECRUITING,Diabetic Peripheral Neuropathy,DRUG,Piracetam
-NCT06472570,RECRUITING,Head and Neck Cancer,RADIATION,Stereotactic radiotherapy boost
-NCT06470633,NOT_YET_RECRUITING,Breast Cancer,DRUG,Adebrelimab
-NCT06470633,NOT_YET_RECRUITING,HR+/HER2- Breast Cancer,DRUG,Adebrelimab
-NCT06477549,RECRUITING,Acute Lymphoblastic Leukemia,DRUG,Bendamustine Hydrochloride
-NCT06477549,RECRUITING,Acute Myeloid Leukemia,DRUG,Bendamustine Hydrochloride
-NCT06477549,RECRUITING,Biphenotypic Acute Leukemia,DRUG,Bendamustine Hydrochloride
-NCT06477549,RECRUITING,Lymphoblastic Lymphoma,DRUG,Bendamustine Hydrochloride
-NCT06477549,RECRUITING,Myeloproliferative Neoplasm,DRUG,Bendamustine Hydrochloride
-NCT06477549,RECRUITING,Myelodysplastic Syndromes,DRUG,Bendamustine Hydrochloride
-NCT06470776,NOT_YET_RECRUITING,Tobacco Use,BEHAVIORAL,Chatbot counselling
-NCT06470776,NOT_YET_RECRUITING,Smoking Cessation,BEHAVIORAL,Chatbot counselling
-NCT06474689,RECRUITING,Binge-Eating Disorder,OTHER,EMDR
-NCT06471608,NOT_YET_RECRUITING,Primary Spontaneous Pneumothorax,OTHER,Ambulatory management
-NCT06471608,NOT_YET_RECRUITING,Quality of Life,OTHER,Ambulatory management
-NCT06471608,NOT_YET_RECRUITING,Ambulatory Care,OTHER,Ambulatory management
-NCT06471608,NOT_YET_RECRUITING,Chest Tube,OTHER,Ambulatory management
-NCT06472024,NOT_YET_RECRUITING,Cancer,PROCEDURE,Verum Acupuncture
-NCT06472024,NOT_YET_RECRUITING,Nasopharyngeal Carcinoma,PROCEDURE,Verum Acupuncture
-NCT06472024,NOT_YET_RECRUITING,Mucositis,PROCEDURE,Verum Acupuncture
-NCT06476821,NOT_YET_RECRUITING,Healthy Volunteers,DRUG,BMS-986435
-NCT06470672,NOT_YET_RECRUITING,Advanced Breast Cancer,DRUG,SHR-A1921
-NCT06470672,NOT_YET_RECRUITING,Hormone-receptor-positive Breast Cancer,DRUG,SHR-A1921
-NCT06470672,NOT_YET_RECRUITING,Human Epidermal Growth Factor 2 Negative Carcinoma of Breast,DRUG,SHR-A1921
-NCT06482437,NOT_YET_RECRUITING,Charcot-Marie-Tooth Disease,DRUG,NMD670
-NCT06478147,ACTIVE_NOT_RECRUITING,Aging,DIETARY_SUPPLEMENT,Oral Nutritional Supplement
-NCT06478147,ACTIVE_NOT_RECRUITING,Appetite Loss,DIETARY_SUPPLEMENT,Oral Nutritional Supplement
-NCT06478147,ACTIVE_NOT_RECRUITING,Undernutrition,DIETARY_SUPPLEMENT,Oral Nutritional Supplement
-NCT06481098,RECRUITING,Obesity,DRUG,HM15275
-NCT06476509,NOT_YET_RECRUITING,Major Depressive Disorder,DRUG,LV232 40mg
-NCT06471673,RECRUITING,Breast Cancer,BIOLOGICAL,BC1 cell line
-NCT06471673,RECRUITING,Breast Tumor,BIOLOGICAL,BC1 cell line
-NCT06471673,RECRUITING,Cancer of Breast,BIOLOGICAL,BC1 cell line
-NCT06471673,RECRUITING,Cancer of the Breast,BIOLOGICAL,BC1 cell line
-NCT06471673,RECRUITING,Malignant Tumor of Breast,BIOLOGICAL,BC1 cell line
-NCT06471673,RECRUITING,"Tumors, Breast",BIOLOGICAL,BC1 cell line
-NCT06479486,NOT_YET_RECRUITING,Chronic Obstructive Pulmonary Disease,DIAGNOSTIC_TEST,Assigned Interventions
-NCT06473064,ACTIVE_NOT_RECRUITING,Surgical Managment of Gynecomastia,OTHER,Benelli technique for nipple sparing mastectomy in surgical treatment of grade 3 and 4 gynecomastia
-NCT06474871,NOT_YET_RECRUITING,Acquired Brain Injury,DEVICE,KhymeiaÂ®-Virtual Reality rehabilitation System (VRRS EVO SYSTEM or COMPACT VRRS ENGINE)
-NCT06471777,NOT_YET_RECRUITING,Acute Renal Failure on Dialysis (Disorder),PROCEDURE,Fluid removal
-NCT06478940,NOT_YET_RECRUITING,"Pulp Disease, Dental",DRUG,3 mixtatin pulpotomy
-NCT06478940,NOT_YET_RECRUITING,Deciduous Teeth,DRUG,3 mixtatin pulpotomy
-NCT06478043,NOT_YET_RECRUITING,Extensive-stage Small-cell Lung Cancer,DRUG,ivonescimab
-NCT06478433,NOT_YET_RECRUITING,Adenoidal Disorder,DEVICE,Munatoril Aerosol Combo
-NCT06478433,NOT_YET_RECRUITING,Tonsillitis,DEVICE,Munatoril Aerosol Combo
-NCT06478433,NOT_YET_RECRUITING,Otorhinolaryngologic Diseases,DEVICE,Munatoril Aerosol Combo
-NCT06478433,NOT_YET_RECRUITING,Nasal Disease,DEVICE,Munatoril Aerosol Combo
-NCT06470516,RECRUITING,Schizophrenia,DEVICE,high-frequency transcranial alternating current stimulation
-NCT06482905,NOT_YET_RECRUITING,High-grade Glioma,BIOLOGICAL,Anti-B7-H3 Chimeric Antigen Receptor T-Cell (CAR-T Cell) Injection/TX103
-NCT06482905,NOT_YET_RECRUITING,WHO Grade â…£ Glioma,BIOLOGICAL,Anti-B7-H3 Chimeric Antigen Receptor T-Cell (CAR-T Cell) Injection/TX103
-NCT06476704,NOT_YET_RECRUITING,Sarcoma,DRUG,Administration of L-TC
-NCT06471868,ACTIVE_NOT_RECRUITING,Pharmacokinetics,DRUG,IY-HCR21
-NCT06475352,NOT_YET_RECRUITING,Digestive Cancer,DRUG,FOLFOX regimen
-NCT06475352,NOT_YET_RECRUITING,Colorectal Cancer,DRUG,FOLFOX regimen
-NCT06479408,NOT_YET_RECRUITING,Persistent Postural Perceptual Dizziness,OTHER,progressive muscle relaxation (PMR) technique and vestibular rehabilitation exercises
-NCT06478472,RECRUITING,Marginal Zone Lymphoma,DRUG,Obrutinib in combination with rituximab
-NCT06475755,NOT_YET_RECRUITING,Non-Small Cell Lung Cancer,DRUG,Immunochemotherapy combined with antiangiogenic
-NCT06475755,NOT_YET_RECRUITING,Anti Angiogenesis,DRUG,Immunochemotherapy combined with antiangiogenic
-NCT06478537,RECRUITING,Immune Thrombocytopenia,DRUG,Hetrombopag Olamine
-NCT06482801,RECRUITING,Liver Cancer,DRUG,"ipilimumab+pembrolizumab or ipilimumab+durvalumab, idarubicin, bevacizumab"
-NCT06482801,RECRUITING,Antibody,DRUG,"ipilimumab+pembrolizumab or ipilimumab+durvalumab, idarubicin, bevacizumab"
-NCT06471829,NOT_YET_RECRUITING,Cushing's Disease,DRUG,Lu AG13909
-NCT06472141,NOT_YET_RECRUITING,Temporomandibular Joint Disorders,OTHER,Cervical stabilization exercises
-NCT06470828,NOT_YET_RECRUITING,Narcolepsy Type 1,DRUG,TAK-861
-NCT06477744,ACTIVE_NOT_RECRUITING,Parkinson's Disease,BIOLOGICAL,Allogenic embryonic stem cellderived A9 dopamine progenitor cell (A9-DPC)_Low Dose
-NCT06470347,RECRUITING,HER-2 Positive Advanced Breast Cancer,DRUG,A Real-World Study of Pyrrolitinib Maleate Tablets for HER-2-Positive Early or Locally Advanced Breast Cancer After Adjuvant Trastuzumab Therapy
-NCT06475846,NOT_YET_RECRUITING,Preventing of Postoperative Nausea and Vomiting in Adults,DRUG,HRS5580
-NCT06471556,NOT_YET_RECRUITING,Neuroendocrine Cell Hyperplasia of Infancy,DRUG,IV Methylprednisolone pulses
-NCT06479473,RECRUITING,Extensive-stage Small Cell Lung Cancer,RADIATION,Radiotherapy to all residual lesions
-NCT06477640,NOT_YET_RECRUITING,Pulmonary Arterial Hypertension PAH,BEHAVIORAL,Exercise
-NCT06479824,NOT_YET_RECRUITING,Tricuspid Valve Insufficiency,DEVICE,TRAIPTA (Trans-Atrial Intra-Pericardial Tricuspid Annuloplasty)
-NCT06473480,NOT_YET_RECRUITING,Diabetes Mellitus,DEVICE,Abott FreeStyle Libre System 2
-NCT06471517,RECRUITING,Neuropathy;Peripheral,DEVICE,Somatosensory feedback
-NCT06471517,RECRUITING,"Neuropathy, Diabetic",DEVICE,Somatosensory feedback
-NCT06471517,RECRUITING,"Neuropathy, Painful",DEVICE,Somatosensory feedback
-NCT06474650,NOT_YET_RECRUITING,Huntington Disease,DRUG,LPM3770164 sustained release tablet
-NCT06474650,NOT_YET_RECRUITING,Tardive Dyskinesia,DRUG,LPM3770164 sustained release tablet
-NCT06470243,NOT_YET_RECRUITING,Castration-Resistant Prostate Carcinoma,PROCEDURE,Biospecimen Collection
-NCT06470243,NOT_YET_RECRUITING,Stage IVB Prostate Cancer AJCC v8,PROCEDURE,Biospecimen Collection
-NCT06473896,RECRUITING,Cholecystectomy,DRUG,Ketalar
-NCT06475105,RECRUITING,Acute Decompensated Heart Failure,DRUG,Oral Acetazolamide
-NCT06476379,RECRUITING,Male Infertility,PROCEDURE,Testicular sperm extraction (TESE)
-NCT06475040,RECRUITING,Anxiety Symptoms,DEVICE,transcranial magnetic stimulation
-NCT06475040,RECRUITING,Anxiety Disorders,DEVICE,transcranial magnetic stimulation
-NCT06475781,NOT_YET_RECRUITING,Group 3 Pulmonary Hypertension,DRUG,Mirivadelgat
-NCT06475001,NOT_YET_RECRUITING,Chronic Non-specific Low Back Pain,DRUG,VER-01
-NCT06476912,RECRUITING,Parkinson Disease,OTHER,weight-shifting exercise
-NCT06481241,NOT_YET_RECRUITING,Philadelphia Chromosome Negative ALL,COMBINATION_PRODUCT,CAR-T cells
-NCT06481241,NOT_YET_RECRUITING,"Acute Lymphoblastic Leukemia, Adult",COMBINATION_PRODUCT,CAR-T cells
-NCT06473116,NOT_YET_RECRUITING,Out-Of-Hospital Cardiac Arrest,DRUG,Isoprenaline Only Product
-NCT06476197,ACTIVE_NOT_RECRUITING,Cancer Cachexia,DEVICE,SAT-003
-NCT06473454,NOT_YET_RECRUITING,Irritable Bowel Syndrome,OTHER,aerobic exercise and basic body awareness therapy ( exercise)
-NCT06472245,NOT_YET_RECRUITING,Patients With Non-Small Cell Lung Cancer,DRUG,OSE2101
-NCT06480539,RECRUITING,Postoperative Fatigue,DRUG,Placebo
-NCT06480539,RECRUITING,Postoperative Sleep Disturbances,DRUG,Placebo
-NCT06480539,RECRUITING,Surgical Stress Response,DRUG,Placebo
-NCT06472479,NOT_YET_RECRUITING,Relapsed/Refractory Multiple Myeloma,BIOLOGICAL,LCAR-M61S cells preparation
-NCT06480240,RECRUITING,Advanced Solid Tumor,DRUG,OBI-992
-NCT06479720,RECRUITING,Effect of Drug,DRUG,Combination pharmacotherapy
-NCT06479720,RECRUITING,"Urinary Bladder, Overactive",DRUG,Combination pharmacotherapy
-NCT06477952,NOT_YET_RECRUITING,Obstructive Sleep Apnea,DRUG,Dronabinol
-NCT06476210,RECRUITING,Pulmonary Tuberculosis,DRUG,BDL regimen
-NCT06481410,NOT_YET_RECRUITING,Septic Shock,DRUG,Methylene Blue Intervention Group
-NCT06481410,NOT_YET_RECRUITING,Methylene Blue,DRUG,Methylene Blue Intervention Group
-NCT06481410,NOT_YET_RECRUITING,Sepsis,DRUG,Methylene Blue Intervention Group
-NCT06475742,NOT_YET_RECRUITING,"Lupus Erythematosus, Systemic",DRUG,Cenerimod
-NCT06472336,NOT_YET_RECRUITING,Stroke,PROCEDURE,Intracranial stenting
-NCT06472336,NOT_YET_RECRUITING,"Stroke, Acute Ischemic",PROCEDURE,Intracranial stenting
-NCT06472336,NOT_YET_RECRUITING,Intracranial Atherosclerosis,PROCEDURE,Intracranial stenting
-NCT06472232,NOT_YET_RECRUITING,Obstetric Labor,DRUG,Chloroprocaine
-NCT06479096,NOT_YET_RECRUITING,Oral Malodor,OTHER,Brush / Espresso Mild Prototype
-NCT06478238,RECRUITING,Hereditary Spastic Paraplegia,DRUG,calcium folinate
-NCT06474260,RECRUITING,Healthy Human Volunteers,BEHAVIORAL,"""One All"" Intervention"
-NCT06474260,RECRUITING,Youth Resilience,BEHAVIORAL,"""One All"" Intervention"
-NCT06477159,RECRUITING,Exocrine Pancreatic Insufficiency,DRUG,Pancrelipase Capsules
-NCT06479239,NOT_YET_RECRUITING,Pancreas Cancer,DRUG,EGFR FPBMC
-NCT06479239,NOT_YET_RECRUITING,Pancreatic Cancer,DRUG,EGFR FPBMC
-NCT06471465,NOT_YET_RECRUITING,Radionecrosis of Brain,DRUG,Bevacizumab
-NCT06471465,NOT_YET_RECRUITING,Brain Metastases,DRUG,Bevacizumab
-NCT06474221,RECRUITING,"Suicide, Attempted",BEHAVIORAL,Electronic Based Psychosocial Intervention (EBPSI)
-NCT06471920,NOT_YET_RECRUITING,Chronic Low-back Pain,BEHAVIORAL,Educational Control
-NCT06475430,NOT_YET_RECRUITING,Low Anterior Resection Syndrome,BIOLOGICAL,fecal microbiota transplantation
-NCT06475430,NOT_YET_RECRUITING,Fecal Microbiota Transplantation,BIOLOGICAL,fecal microbiota transplantation
-NCT06471218,NOT_YET_RECRUITING,Hyperlipidemia,DRUG,SHR-1918; SHR-1918 Placebo
-NCT06474299,NOT_YET_RECRUITING,Smoking Cessation,DRUG,Varenicline
-NCT06474299,NOT_YET_RECRUITING,Electronic Cigarette Use,DRUG,Varenicline
-NCT06471998,NOT_YET_RECRUITING,Chronic Low-back Pain,DRUG,Sodium Chloride injection
+nctId,status,disease,intervention_type,intervention_name,durationMonths
+NCT06475872,COMPLETED,Primary Hypercholesterolemia,DRUG,Crecheck Tablet 2.5 mg,0.5666666666666667
+NCT06475872,COMPLETED,Combined Hyperlipidemia,DRUG,Crecheck Tablet 2.5 mg,0.5666666666666667
+NCT06473402,COMPLETED,Muscle Tightness,DIAGNOSTIC_TEST,Muscle Strength Test,0.6333333333333333
+NCT06473402,COMPLETED,Muscle Spasm,DIAGNOSTIC_TEST,Muscle Strength Test,0.6333333333333333
+NCT06477575,COMPLETED,"ADHD, Deficits in Motor Control and Perception",DEVICE,neurocognitive therapy based on new technologies,0.6333333333333333
+NCT06470724,COMPLETED,Autism Spectrum Disorder,BEHAVIORAL,Structural visual approach,6.7
+NCT06470464,COMPLETED,Germ Cell Tumor,DRUG,Thalidomide combined with TGA chemotherapy (nab-paclitaxel + gemcitabine+ epirubicin),31.6
+NCT06470464,COMPLETED,Yolk Sac Tumor,DRUG,Thalidomide combined with TGA chemotherapy (nab-paclitaxel + gemcitabine+ epirubicin),31.6
+NCT06479538,COMPLETED,Sports Physical Therapy,OTHER,Post isometric relaxation,5.3
+NCT06478511,COMPLETED,Immediate Implants,PROCEDURE,Classic Immediate implant,33.63333333333333
+NCT06470412,COMPLETED,Autoimmune Diseases,OTHER,Control group,16.1
+NCT06478615,COMPLETED,Coring Out,PROCEDURE,Coring out Fistulectomy with Closure of Internal Sphincter Opening,15.233333333333333
+NCT06478615,COMPLETED,Fistulectomy,PROCEDURE,Coring out Fistulectomy with Closure of Internal Sphincter Opening,15.233333333333333
+NCT06478615,COMPLETED,Internal Sphincter,PROCEDURE,Coring out Fistulectomy with Closure of Internal Sphincter Opening,15.233333333333333
+NCT06478615,COMPLETED,Lay Open Fistulotomy,PROCEDURE,Coring out Fistulectomy with Closure of Internal Sphincter Opening,15.233333333333333
+NCT06478615,COMPLETED,Sphincter Repair,PROCEDURE,Coring out Fistulectomy with Closure of Internal Sphincter Opening,15.233333333333333
+NCT06478615,COMPLETED,Transsphincteric Perianal Fistula,PROCEDURE,Coring out Fistulectomy with Closure of Internal Sphincter Opening,15.233333333333333
+NCT06482723,COMPLETED,Skin Aging,DEVICE,mGlobal L+AS,17.266666666666666
+NCT06482723,COMPLETED,Skin Wrinkling,DEVICE,mGlobal L+AS,17.266666666666666
+NCT06479902,COMPLETED,Mild Intermittent Asthma,PROCEDURE,Core stability exercise,9.266666666666667
+NCT06470789,COMPLETED,Shoulder Dislocation,BEHAVIORAL,Shoulder blood restriction training,1.5666666666666669
+NCT06470789,COMPLETED,Blood Flow Restriction Training,BEHAVIORAL,Shoulder blood restriction training,1.5666666666666669
+NCT06473311,COMPLETED,Whole Body Vibration,DEVICE,whole bady vibration and virtual reality,1.2666666666666666
+NCT06473311,COMPLETED,Virtual Reality,DEVICE,whole bady vibration and virtual reality,1.2666666666666666
+NCT06478914,COMPLETED,"Neuropathy, Peroneal",DEVICE,Neuromuscular electrical stimulation (NMES),5.0
+NCT06478914,COMPLETED,Motor Neuropathy,DEVICE,Neuromuscular electrical stimulation (NMES),5.0
+NCT06478914,COMPLETED,Neuromuscular Electric Stimulation (NEMS),DEVICE,Neuromuscular electrical stimulation (NMES),5.0
+NCT06478914,COMPLETED,Low Intensity Laser,DEVICE,Neuromuscular electrical stimulation (NMES),5.0
+NCT06475586,COMPLETED,Psoriasis Vulgaris,DRUG,Semaglutide,10.1
+NCT06475586,COMPLETED,Diabetes Type 2,DRUG,Semaglutide,10.1
+NCT06473662,COMPLETED,Type 2 Diabetes Treated With Insulin,DRUG,Oral insulin,20.933333333333334
+NCT06475508,COMPLETED,Rheumatoid Arthritis,BIOLOGICAL,ComplarateÂ®,10.866666666666667
+NCT06478004,COMPLETED,Primary Teeth,OTHER,Direct composite restoration of carious primary anterior teeth using custom 3D printed templates,13.7
+NCT06482619,COMPLETED,Creatine,DIETARY_SUPPLEMENT,Creatine supplementation,32.36666666666667
+NCT06482619,COMPLETED,Patellar Tendinopathy,DIETARY_SUPPLEMENT,Creatine supplementation,32.36666666666667
+NCT06470425,COMPLETED,Mental Disorder,OTHER,Standard therapy group,3.6
+NCT06473727,COMPLETED,Dental Diseases,OTHER,Omnichoroma,11.933333333333334
+NCT06479551,COMPLETED,Sports Physical Therapy,OTHER,high intensity-low volume resistance training,5.3
+NCT06470399,COMPLETED,Metabolic Syndrome,OTHER,Standard therapy group,15.766666666666667
+NCT06482060,COMPLETED,Bruxism,DEVICE,Stabilization splint,10.166666666666666
+NCT06473376,COMPLETED,TMJ Disorder,PROCEDURE,arthrocentesis,43.1
+NCT06473376,COMPLETED,TMJ Disc Disorder,PROCEDURE,arthrocentesis,43.1
+NCT06470854,COMPLETED,Post-Dural Puncture Headache,DRUG,Nebulized Dexmedetomidine,3.7
+NCT06479564,COMPLETED,Sports Physical Therapy,OTHER,free weight training and machine training,5.3
+NCT06474494,COMPLETED,Non-carious Cervical Lesions,PROCEDURE,Application of one layer,0.0
+NCT06479733,COMPLETED,Soft Tissue Augmentation Around Dental Implants,PROCEDURE,buccal pedicle flap,11.633333333333333
+NCT06482736,COMPLETED,Tension-Type Headache,DEVICE,Extracorporeal Shockwave Therapy,7.166666666666667
+NCT06471686,COMPLETED,Alcohol Use Disorder,DRUG,Acamprosate,20.2
+NCT06471686,COMPLETED,Liver Transplant; Complications,DRUG,Acamprosate,20.2
+NCT06476990,COMPLETED,Diabetes Type 2,BEHAVIORAL,Healthy food box,11.8
+NCT06478758,COMPLETED,Acute Post-operative Pain,DRUG,Ibuprofen 400 mg,2.966666666666667
+NCT06472258,COMPLETED,Malaria,DRUG,IV Artesunate,4.033333333333333
+NCT06477432,COMPLETED,Skin Aging,DEVICE,mesofillerÂ® mesotox,7.733333333333333
+NCT06477432,COMPLETED,Skin Wrinkling,DEVICE,mesofillerÂ® mesotox,7.733333333333333
+NCT06478134,COMPLETED,Dry Eye,DRUG,Trimix tear substitutes,6.433333333333334
+NCT06482177,COMPLETED,Dry Eye,DRUG,Cyclosporine ophthalmic solution,7.9
+NCT06476522,COMPLETED,Colon Cancer,OTHER,Physiotherapy Program,2.033333333333333
+NCT06476522,COMPLETED,Chemotherapy Effect,OTHER,Physiotherapy Program,2.033333333333333
+NCT06479525,COMPLETED,Sports Physical Therapy,OTHER,Big Toe Flexor Strengthening Exercises,5.3
+NCT06483009,NOT_YET_RECRUITING,Non-Small-Cell Lung Cancer,DEVICE,Cryoablation,36.5
+NCT06474598,NOT_YET_RECRUITING,Type 1 Diabetes Mellitus,DRUG,MTX228,4.066666666666666
+NCT06480760,NOT_YET_RECRUITING,Peripheral Arterial Disease,DRUG,Carnosine,36.5
+NCT06480019,RECRUITING,Depression,BEHAVIORAL,Interpersonal psychotherapy,10.166666666666666
+NCT06480019,RECRUITING,Interpersonal Relations,BEHAVIORAL,Interpersonal psychotherapy,10.166666666666666
+NCT06479980,RECRUITING,Mental Health Issue,BEHAVIORAL,Single Session Narrative Therapy,7.133333333333334
+NCT06479980,RECRUITING,HIV,BEHAVIORAL,Single Session Narrative Therapy,7.133333333333334
+NCT06479980,RECRUITING,Substance Use,BEHAVIORAL,Single Session Narrative Therapy,7.133333333333334
+NCT06474520,NOT_YET_RECRUITING,Idiopathic Inflammatory Demyelinating Disease,DRUG,Calculus bovis sativus (CBS),60.86666666666667
+NCT06474520,NOT_YET_RECRUITING,Multiple Sclerosis,DRUG,Calculus bovis sativus (CBS),60.86666666666667
+NCT06474520,NOT_YET_RECRUITING,Neuromyelitis Optica Spectrum Disorder,DRUG,Calculus bovis sativus (CBS),60.86666666666667
+NCT06474520,NOT_YET_RECRUITING,Myelin Oligodendrocyte Glycoprotein Antibody-associated Disease,DRUG,Calculus bovis sativus (CBS),60.86666666666667
+NCT06474520,NOT_YET_RECRUITING,Acute Disseminated Encephalomyelitis,DRUG,Calculus bovis sativus (CBS),60.86666666666667
+NCT06482970,NOT_YET_RECRUITING,Knee Osteoarthritis,OTHER,Neuromuscular exercise plus pain neuroscience education,8.666666666666666
+NCT06483048,NOT_YET_RECRUITING,Platinum-Resistant Fallopian Tube Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Platinum-Resistant Ovarian Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Platinum-Resistant Primary Peritoneal Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Recurrent Fallopian Tube Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Recurrent Fallopian Tube Carcinosarcoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Recurrent Female Reproductive System Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Recurrent Ovarian Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Recurrent Ovarian Carcinosarcoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Recurrent Platinum-Resistant Fallopian Tube Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Recurrent Platinum-Resistant Ovarian Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Recurrent Primary Peritoneal Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Recurrent Primary Peritoneal Carcinosarcoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Refractory Fallopian Tube Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Refractory Female Reproductive System Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Refractory Ovarian Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06483048,NOT_YET_RECRUITING,Refractory Primary Peritoneal Carcinoma,BIOLOGICAL,Autologous MUC1-activated T-cells,48.7
+NCT06479304,RECRUITING,Immune Thrombocytopenia With Positive ANA Antibodies,DRUG,Hydroxychloroquine Oral Tablet,20.566666666666663
+NCT06472661,NOT_YET_RECRUITING,Advanced Melanoma,DEVICE,Echopulse or Echopulse HD,24.33333333333333
+NCT06475235,NOT_YET_RECRUITING,Lymphoma,DRUG,Pembrolizumab,7.033333333333333
+NCT06475235,NOT_YET_RECRUITING,Primary Central Nervous System Lymphoma,DRUG,Pembrolizumab,7.033333333333333
+NCT06474832,NOT_YET_RECRUITING,Chronic Stroke,OTHER,High-intensity interval training,13.133333333333333
+NCT06476730,NOT_YET_RECRUITING,Gestational Diabetes Mellitus in Pregnancy,OTHER,Telerehabilitation exercise program,6.1
+NCT06476730,NOT_YET_RECRUITING,Gestational Diabetes,OTHER,Telerehabilitation exercise program,6.1
+NCT06476730,NOT_YET_RECRUITING,Maternal Psychological Distress,OTHER,Telerehabilitation exercise program,6.1
+NCT06473532,NOT_YET_RECRUITING,Heart Failure,BEHAVIORAL,TEXT4HF,9.066666666666666
+NCT06472323,NOT_YET_RECRUITING,"Trigeminal Neuralgia, Idiopathic",PROCEDURE,PRF+PRP,24.33333333333333
+NCT06472323,NOT_YET_RECRUITING,PRP,PROCEDURE,PRF+PRP,24.33333333333333
+NCT06471348,NOT_YET_RECRUITING,Post Operative Pain,DRUG,Bupivacaine liposome injectable suspension,26.9
+NCT06471348,NOT_YET_RECRUITING,Spinal Fusion,DRUG,Bupivacaine liposome injectable suspension,26.9
+NCT06478186,NOT_YET_RECRUITING,"Osteoarthritis, Knee",DRUG,triamcinolone acetonide extended-release injectable suspension; TCA-ER,24.33333333333333
+NCT06478186,NOT_YET_RECRUITING,"Diabetes Mellitus, Type 2",DRUG,triamcinolone acetonide extended-release injectable suspension; TCA-ER,24.33333333333333
+NCT06477224,NOT_YET_RECRUITING,Cerebral Palsy (CP),OTHER,Scooter Board Activities,1.6333333333333333
+NCT06482788,RECRUITING,Esophagogastric Junction Adenocarcinoma,DRUG,Adebrelimab (anti-PD-L1) + XELOX,12.466666666666669
+NCT06474234,RECRUITING,Generally Healthy,DIETARY_SUPPLEMENT,Probiotic,13.233333333333333
+NCT06471309,NOT_YET_RECRUITING,Stroke,DEVICE,Theta burst transcranial magnetic stimulation,16.733333333333334
+NCT06471309,NOT_YET_RECRUITING,Dysphagia,DEVICE,Theta burst transcranial magnetic stimulation,16.733333333333334
+NCT06471309,NOT_YET_RECRUITING,Functional Near- Infrared Spectroscopy,DEVICE,Theta burst transcranial magnetic stimulation,16.733333333333334
+NCT06471309,NOT_YET_RECRUITING,Transcranial Magnetic Stimulation,DEVICE,Theta burst transcranial magnetic stimulation,16.733333333333334
+NCT06481761,RECRUITING,Rate of Canine Retraction,DEVICE,Double-slot brackets,3.066666666666667
+NCT06475599,NOT_YET_RECRUITING,Endometrial Cancer,DRUG,Anlotinib hydrochloride capsule + TQB2450 injection,41.6
+NCT06482008,NOT_YET_RECRUITING,Hepatocellular Carcinoma,DRUG,Hepatic arterial infusion chemotherapy(HAIC) combined with adebrelimab plus apatinib,18.7
+NCT06477770,RECRUITING,Surgical Wound Infection,PROCEDURE,Clorhexidine soap,4.033333333333333
+NCT06477770,RECRUITING,Cesarean Wound; Dehiscence,PROCEDURE,Clorhexidine soap,4.033333333333333
+NCT06470373,NOT_YET_RECRUITING,Neovascular Age-related Macular Degeneration (nAMD),DRUG,RBS-001 Solution for intravitreal injection,24.33333333333333
+NCT06475937,NOT_YET_RECRUITING,Breast Neoplasms,DRUG,DM001,24.73333333333333
+NCT06475937,NOT_YET_RECRUITING,"Carcinoma, Non-Small-Cell Lung",DRUG,DM001,24.73333333333333
+NCT06475937,NOT_YET_RECRUITING,Solid Carcinoma,DRUG,DM001,24.73333333333333
+NCT06480500,RECRUITING,Major Depressive Disorder,DRUG,Ketamine hydrochloride,15.166666666666666
+NCT06480500,RECRUITING,Suicide,DRUG,Ketamine hydrochloride,15.166666666666666
+NCT06480500,RECRUITING,Treatment Resistant Depression,DRUG,Ketamine hydrochloride,15.166666666666666
+NCT06481891,RECRUITING,"Obstructive Cardiomyopathy, Hypertrophic",DRUG,Sotagliflozin,24.433333333333334
+NCT06481891,RECRUITING,Non-obstructive Hypertrophic Cardiomyopathy,DRUG,Sotagliflozin,24.433333333333334
+NCT06475690,NOT_YET_RECRUITING,Infertility,OTHER,Psychological interventions,12.333333333333334
+NCT06475690,NOT_YET_RECRUITING,in Vitro Fertilization,OTHER,Psychological interventions,12.333333333333334
+NCT06475690,NOT_YET_RECRUITING,Mental Health,OTHER,Psychological interventions,12.333333333333334
+NCT06475690,NOT_YET_RECRUITING,"Anesthesia, General",OTHER,Psychological interventions,12.333333333333334
+NCT06478108,RECRUITING,Lung Cancer,DEVICE,IRSW-MIM,57.8
+NCT06478108,RECRUITING,Liver Cancer,DEVICE,IRSW-MIM,57.8
+NCT06478108,RECRUITING,"Solid Tumor, Adult",DEVICE,IRSW-MIM,57.8
+NCT06472505,RECRUITING,Pituitary Tumor,DEVICE,polyglycolic acid(Neoveil),25.366666666666667
+NCT06472505,RECRUITING,Cerebrospinal Fluid Leakage,DEVICE,polyglycolic acid(Neoveil),25.366666666666667
+NCT06472856,NOT_YET_RECRUITING,Prostate Cancer,PROCEDURE,Acupuncture,6.133333333333334
+NCT06474039,NOT_YET_RECRUITING,COPD,DRUG,Trelegy or Anoro,24.33333333333333
+NCT06472102,RECRUITING,"Syncope, Vasovagal",PROCEDURE,Cardioneuroablation,19.666666666666668
+NCT06482593,ACTIVE_NOT_RECRUITING,Apical Periodontitis,DRUG,Zinc-Oxide Eugenol Sealer,8.1
+NCT06482086,RECRUITING,Locally Advanced Thyroid Gland Carcinoma,DRUG,Anlotinib,42.63333333333333
+NCT06472544,NOT_YET_RECRUITING,Rheumatoid Arthritis,BEHAVIORAL,Culturally Grounded Intervention,60.86666666666667
+NCT06471738,RECRUITING,Ann Arbor Stage II Follicular Lymphoma,DRUG,Zanubrutinib,30.4
+NCT06471738,RECRUITING,Grade 1 Follicular Lymphoma,DRUG,Zanubrutinib,30.4
+NCT06471738,RECRUITING,Ann Arbor Stage III Follicular Lymphoma,DRUG,Zanubrutinib,30.4
+NCT06471738,RECRUITING,Ann Arbor Stage IV Follicular Lymphoma,DRUG,Zanubrutinib,30.4
+NCT06471738,RECRUITING,Grade 2 Follicular Lymphoma,DRUG,Zanubrutinib,30.4
+NCT06471738,RECRUITING,Grade 3a Follicular Lymphoma,DRUG,Zanubrutinib,30.4
+NCT06481995,NOT_YET_RECRUITING,Postpartum Hemorrhage,DRUG,Fibrogammin,48.4
+NCT06481995,NOT_YET_RECRUITING,Coagulation Disorder,DRUG,Fibrogammin,48.4
+NCT06481995,NOT_YET_RECRUITING,Coagulation Factor Deficiency,DRUG,Fibrogammin,48.4
+NCT06481995,NOT_YET_RECRUITING,Hemorrhage,DRUG,Fibrogammin,48.4
+NCT06481995,NOT_YET_RECRUITING,Postpartum Complication,DRUG,Fibrogammin,48.4
+NCT06473181,NOT_YET_RECRUITING,Diplegic Cerebral Palsy With Spasticity,OTHER,Core stability exercises,2.066666666666667
+NCT06470191,NOT_YET_RECRUITING,Primary Membranous Nephropathy,DRUG,B007,29.433333333333334
+NCT06474078,RECRUITING,Stevens-Johnson Syndrome,DRUG,Tofacitinib,36.5
+NCT06474078,RECRUITING,Toxic Epidermal Necrolysis,DRUG,Tofacitinib,36.5
+NCT06479148,RECRUITING,Cataract,DEVICE,enVistaÂ® Aspireâ„¢,6.133333333333334
+NCT06470386,NOT_YET_RECRUITING,"Hypertension, Portal",DRUG,Alverine,17.266666666666666
+NCT06470555,NOT_YET_RECRUITING,Atrial Fibrillation,OTHER,A figure-of-eight suture secured with a three-way tap,12.166666666666666
+NCT06470555,NOT_YET_RECRUITING,Femoral Vein Injury,OTHER,A figure-of-eight suture secured with a three-way tap,12.166666666666666
+NCT06470555,NOT_YET_RECRUITING,Bleeding,OTHER,A figure-of-eight suture secured with a three-way tap,12.166666666666666
+NCT06481540,RECRUITING,Parkinson Disease,DEVICE,Expiratory muscle strength training + SpiroGym application,16.2
+NCT06481540,RECRUITING,Voluntary Peak Cough Strength,DEVICE,Expiratory muscle strength training + SpiroGym application,16.2
+NCT06481540,RECRUITING,mHealth,DEVICE,Expiratory muscle strength training + SpiroGym application,16.2
+NCT06470152,NOT_YET_RECRUITING,Adult Spinal Deformity,PROCEDURE,Correction strategy in reference to our PI-dependent clustering of sagittal alignment,36.5
+NCT06470152,NOT_YET_RECRUITING,Sagittal Deformity,PROCEDURE,Correction strategy in reference to our PI-dependent clustering of sagittal alignment,36.5
+NCT06470152,NOT_YET_RECRUITING,Sagittal Alignment,PROCEDURE,Correction strategy in reference to our PI-dependent clustering of sagittal alignment,36.5
+NCT06470152,NOT_YET_RECRUITING,Sagittal Imbalance,PROCEDURE,Correction strategy in reference to our PI-dependent clustering of sagittal alignment,36.5
+NCT06472180,ACTIVE_NOT_RECRUITING,Spacing of Anterior Teeth,PROCEDURE,Glass ceramic sectional veneer,12.166666666666666
+NCT06470282,NOT_YET_RECRUITING,Bladder Cancer,DRUG,Enfortumab Vedotin,34.46666666666667
+NCT06470282,NOT_YET_RECRUITING,Muscle-Invasive Bladder Carcinoma,DRUG,Enfortumab Vedotin,34.46666666666667
+NCT06470282,NOT_YET_RECRUITING,Stage II Bladder Cancer AJCC v8,DRUG,Enfortumab Vedotin,34.46666666666667
+NCT06470282,NOT_YET_RECRUITING,Stage IIIA Bladder Cancer AJCC v8,DRUG,Enfortumab Vedotin,34.46666666666667
+NCT06473441,NOT_YET_RECRUITING,Acute Coronary Syndrome,BEHAVIORAL,Tele-Rehabilitation Therapy,24.3
+NCT06473441,NOT_YET_RECRUITING,Coronary Artery Disease,BEHAVIORAL,Tele-Rehabilitation Therapy,24.3
+NCT06475716,NOT_YET_RECRUITING,Posttraumatic Stress Disorder,BEHAVIORAL,Internet-based guided programme Spring,15.533333333333331
+NCT06481501,RECRUITING,Chronic Pain,BEHAVIORAL,ONE Mindfulness-Oriented Recovery Enhancement,12.166666666666666
+NCT06481501,RECRUITING,HIV Infections,BEHAVIORAL,ONE Mindfulness-Oriented Recovery Enhancement,12.166666666666666
+NCT06470451,NOT_YET_RECRUITING,CTCL/ Mycosis Fungoides,DRUG,Hypericin,21.266666666666666
+NCT06470451,NOT_YET_RECRUITING,CTCL,DRUG,Hypericin,21.266666666666666
+NCT06470451,NOT_YET_RECRUITING,Mycosis Fungoides,DRUG,Hypericin,21.266666666666666
+NCT06470451,NOT_YET_RECRUITING,Cutaneous T Cell Lymphoma,DRUG,Hypericin,21.266666666666666
+NCT06472895,NOT_YET_RECRUITING,Renal Cell Carcinoma,DRUG,AK112 monotherapy,17.266666666666666
+NCT06477510,NOT_YET_RECRUITING,Periodontitis,PROCEDURE,non-surgical periodontal therapy,15.233333333333333
+NCT06470113,NOT_YET_RECRUITING,VaD-MCI,DEVICE,simultaneous cognitive training with transcranial magnetic stimulation,16.233333333333334
+NCT06470542,NOT_YET_RECRUITING,Knee Osteoarthritis,DRUG,20 ml of Ropivacaine 0.2% Injectable Solution,12.166666666666666
+NCT06470542,NOT_YET_RECRUITING,Knee Pain Chronic,DRUG,20 ml of Ropivacaine 0.2% Injectable Solution,12.166666666666666
+NCT06470542,NOT_YET_RECRUITING,Knee Arthritis,DRUG,20 ml of Ropivacaine 0.2% Injectable Solution,12.166666666666666
+NCT06476496,RECRUITING,Long COVID,PROCEDURE,Acupuncture,11.5
+NCT06476496,RECRUITING,Pain,PROCEDURE,Acupuncture,11.5
+NCT06472986,RECRUITING,Spinal Cord Injuries,OTHER,Activity-based therapy and transcutaneous spinal cord stimulation,51.53333333333333
+NCT06472986,RECRUITING,Spinal Cord Injury Cervical,OTHER,Activity-based therapy and transcutaneous spinal cord stimulation,51.53333333333333
+NCT06472713,NOT_YET_RECRUITING,Recurrent or Metastatic Nasopharyngeal Carcinoma,DRUG,Mitoxantrone hydrochloride liposome injection,16.233333333333334
+NCT06478563,NOT_YET_RECRUITING,Obesity,DRUG,NNC0487-0111 (formulation D),6.2
+NCT06478563,NOT_YET_RECRUITING,Overweight,DRUG,NNC0487-0111 (formulation D),6.2
+NCT06471257,NOT_YET_RECRUITING,Asthma,COMBINATION_PRODUCT,"Budesonide/Albuterol metered dose inhaler, MDI",27.4
+NCT06477679,NOT_YET_RECRUITING,Cleft Palate,PROCEDURE,â€¢ Furlow with buccinators myomucosal flap,20.33333333333333
+NCT06482697,NOT_YET_RECRUITING,Pelvic Organ Prolapse,PROCEDURE,total colpocleisis,28.433333333333334
+NCT06470256,RECRUITING,Advanced Hepatocellular Carcinoma,PROCEDURE,Palliative Hepatectomy,36.5
+NCT06481306,NOT_YET_RECRUITING,"Anemia, Sickle Cell",DRUG,BMS-986470,30.166666666666668
+NCT06481306,NOT_YET_RECRUITING,Healthy Volunteers,DRUG,BMS-986470,30.166666666666668
+NCT06472050,NOT_YET_RECRUITING,Osteoporosis,DRUG,Romosozumab,15.2
+NCT06472050,NOT_YET_RECRUITING,Glucocorticoids Toxicity,DRUG,Romosozumab,15.2
+NCT06472115,NOT_YET_RECRUITING,Autism Spectrum Disorder,BEHAVIORAL,Supportive Parenting for Anxious Childhood Emotions (SPACE) for insistence on sameness (IS),35.5
+NCT06472115,NOT_YET_RECRUITING,Autism,BEHAVIORAL,Supportive Parenting for Anxious Childhood Emotions (SPACE) for insistence on sameness (IS),35.5
+NCT06479759,RECRUITING,NSCLC,DRUG,LM-108 antibody and sintilimab,17.233333333333334
+NCT06479759,RECRUITING,PD-1,DRUG,LM-108 antibody and sintilimab,17.233333333333334
+NCT06480110,RECRUITING,Metastatic Castration-resistant Prostate Cancer,DRUG,Docetaxel + Ebastine,29.8
+NCT06477614,RECRUITING,"Solid Tumor, Adult",BIOLOGICAL,DC cell Vaccine,79.96666666666667
+NCT06477614,RECRUITING,DC,BIOLOGICAL,DC cell Vaccine,79.96666666666667
+NCT06470581,NOT_YET_RECRUITING,Complex Regional Pain Syndromes,DRUG,Botulinum toxin A,22.1
+NCT06473207,NOT_YET_RECRUITING,Out-Of-Hospital Cardiac Arrest,OTHER,Remote ischemic post conditioning sessions,24.33333333333333
+NCT06474468,NOT_YET_RECRUITING,Advanced or Metastatic Esophageal Cancer,DRUG,SHR-A2102ï¼›Adebrelimabï¼›Cisplatin,28.4
+NCT06470217,RECRUITING,Locally Advanced Head and Neck Squamous Cell Carcinoma,DRUG,tirilizumab with albumin-bound paclitaxel and cisplatin,12.166666666666666
+NCT06473987,NOT_YET_RECRUITING,Traumatic Brain Injury,OTHER,Personalized cognitive-sensorimotor VR/AR training,48.66666666666666
+NCT06471543,NOT_YET_RECRUITING,Hypertriglyceridemia,DRUG,RN0361,12.166666666666666
+NCT06471543,NOT_YET_RECRUITING,Familial Chylomicronemia,DRUG,RN0361,12.166666666666666
+NCT06479850,NOT_YET_RECRUITING,ADHD,BEHAVIORAL,KF-STRIDEÂ®,11.166666666666666
+NCT06479850,NOT_YET_RECRUITING,Dyslexia,BEHAVIORAL,KF-STRIDEÂ®,11.166666666666666
+NCT06479850,NOT_YET_RECRUITING,Learning Disabilities,BEHAVIORAL,KF-STRIDEÂ®,11.166666666666666
+NCT06475170,NOT_YET_RECRUITING,Gastric Cancer,PROCEDURE,proximal gastrectomy combined with 'Î»+Î±' double-tract anastomosis,18.266666666666666
+NCT06475170,NOT_YET_RECRUITING,Reflux Esophagitis,PROCEDURE,proximal gastrectomy combined with 'Î»+Î±' double-tract anastomosis,18.266666666666666
+NCT06471426,RECRUITING,Headache,OTHER,Osteopathic Manipulative Treatment,12.166666666666666
+NCT06471426,RECRUITING,Neck Pain,OTHER,Osteopathic Manipulative Treatment,12.166666666666666
+NCT06482398,NOT_YET_RECRUITING,Psoriasis,DRUG,Sericin extract and turmeric extract cream,12.133333333333333
+NCT06476834,NOT_YET_RECRUITING,Healthy Volunteers,DRUG,Deucravacitinib,4.233333333333333
+NCT06479811,NOT_YET_RECRUITING,Somatostatin Receptor Positive,DRUG,[212Pb]VMT-alpha-NET,54.73333333333333
+NCT06479811,NOT_YET_RECRUITING,Gastrointestinal Neuroendocrine Tumors,DRUG,[212Pb]VMT-alpha-NET,54.73333333333333
+NCT06479811,NOT_YET_RECRUITING,Pheochromocytoma/Paragangliomas,DRUG,[212Pb]VMT-alpha-NET,54.73333333333333
+NCT06479811,NOT_YET_RECRUITING,Small Cell Lung Cancers,DRUG,[212Pb]VMT-alpha-NET,54.73333333333333
+NCT06479811,NOT_YET_RECRUITING,Kidney Cancers,DRUG,[212Pb]VMT-alpha-NET,54.73333333333333
+NCT06479811,NOT_YET_RECRUITING,Head and Neck Tumors,DRUG,[212Pb]VMT-alpha-NET,54.73333333333333
+NCT06480864,NOT_YET_RECRUITING,Small Cell Lung Cancer,DRUG,Adebrelimab Injection,13.2
+NCT06475131,NOT_YET_RECRUITING,Solid Tumor,DRUG,BL-B16D1,24.33333333333333
+NCT06470763,NOT_YET_RECRUITING,Advanced Solid Tumor,DRUG,ANV600,39.56666666666667
+NCT06480188,RECRUITING,Dystonia,DEVICE,deep brain stimulation,25.33333333333333
+NCT06477419,RECRUITING,Mesothelioma,DRUG,Sacituzumab govitecan-hziy,60.86666666666667
+NCT06477419,RECRUITING,Mesotheliomas Pleural,DRUG,Sacituzumab govitecan-hziy,60.86666666666667
+NCT06477419,RECRUITING,Mesothelioma; Pleura,DRUG,Sacituzumab govitecan-hziy,60.86666666666667
+NCT06473909,NOT_YET_RECRUITING,Acute Graft Versus Host Disease,DRUG,CD25 antibody combined glucocorticoid as first-line treatment,18.266666666666666
+NCT06478979,NOT_YET_RECRUITING,Idiopathic Normal Pressure Hydrocephalus (iNPH),DEVICE,Neuclare,17.233333333333334
+NCT06472908,NOT_YET_RECRUITING,Coronary Heart Disease,DRUG,Colchicine 0.5 mg,45.46666666666667
+NCT06472908,NOT_YET_RECRUITING,Percutaneous Coronary Intervention,DRUG,Colchicine 0.5 mg,45.46666666666667
+NCT06472908,NOT_YET_RECRUITING,Colchicine,DRUG,Colchicine 0.5 mg,45.46666666666667
+NCT06478797,NOT_YET_RECRUITING,Sepsis,OTHER,Fluid,12.166666666666666
+NCT06477198,NOT_YET_RECRUITING,Lumbar Disc Herniation,OTHER,QLB,0.0
+NCT06477874,RECRUITING,Implant Complication,PROCEDURE,Dental implants placement,9.866666666666667
+NCT06477874,RECRUITING,Bone Graft; Mechanical Complications,PROCEDURE,Dental implants placement,9.866666666666667
+NCT06480370,NOT_YET_RECRUITING,Surgery,DEVICE,ISIS IOM System,40.53333333333333
+NCT06475326,RECRUITING,Pancreatic Cancer,DRUG,Adebrelimab,12.033333333333331
+NCT06471959,RECRUITING,Psilocybin,DRUG,Psilocybin,6.033333333333333
+NCT06471959,RECRUITING,"Psychotherapy, Group",DRUG,Psilocybin,6.033333333333333
+NCT06475625,ACTIVE_NOT_RECRUITING,Chronic Kidney Diseases,PROCEDURE,Percutaneous coronary intervention,63.266666666666666
+NCT06475625,ACTIVE_NOT_RECRUITING,Coronary Artery Disease,PROCEDURE,Percutaneous coronary intervention,63.266666666666666
+NCT06478017,NOT_YET_RECRUITING,Heart Transplant,DRUG,Belatacept,43.63333333333333
+NCT06480448,RECRUITING,Cardiopulmonary,OTHER,Traditional physical herapy,8.2
+NCT06478693,RECRUITING,Hepatocellular Carcinoma,DRUG,MT-303,13.166666666666666
+NCT06477835,NOT_YET_RECRUITING,Atopic Dermatitis,BIOLOGICAL,SIM0718 Injection,10.666666666666666
+NCT06475222,NOT_YET_RECRUITING,Facial Serum Application,OTHER,Study 1: Facial serum with alpha albutin,5.066666666666666
+NCT06475222,NOT_YET_RECRUITING,Facial Mask Application,OTHER,Study 1: Facial serum with alpha albutin,5.066666666666666
+NCT06475222,NOT_YET_RECRUITING,Jelly Consumption,OTHER,Study 1: Facial serum with alpha albutin,5.066666666666666
+NCT06480331,RECRUITING,Fistulas Arteriovenous,PROCEDURE,Ultrasound-guided fistuloplasty,18.3
+NCT06470165,NOT_YET_RECRUITING,Degenerative Lumbar Disease,PROCEDURE,Priority-matching correction technique in DLS,28.73333333333333
+NCT06470165,NOT_YET_RECRUITING,Scoliosis,PROCEDURE,Priority-matching correction technique in DLS,28.73333333333333
+NCT06470165,NOT_YET_RECRUITING,Degenerative Scoliosis,PROCEDURE,Priority-matching correction technique in DLS,28.73333333333333
+NCT06477185,NOT_YET_RECRUITING,"Tuberculosis, Pulmonary",DRUG,Doxycycline,28.73333333333333
+NCT06470139,NOT_YET_RECRUITING,Hip Osteoarthritis,DRUG,Ropivacaine 0.2% Injectable Solution,12.133333333333333
+NCT06470139,NOT_YET_RECRUITING,Hip Arthropathy,DRUG,Ropivacaine 0.2% Injectable Solution,12.133333333333333
+NCT06470139,NOT_YET_RECRUITING,Hip Pain Chronic,DRUG,Ropivacaine 0.2% Injectable Solution,12.133333333333333
+NCT06476782,RECRUITING,Stroke,OTHER,Motor Relearning Program(MRP) and aerobic exercise,6.0
+NCT06482983,RECRUITING,Anesthesia,PROCEDURE,Mechanical Ventilation Mode,13.166666666666666
+NCT06482983,RECRUITING,Gynecologic Cancer,PROCEDURE,Mechanical Ventilation Mode,13.166666666666666
+NCT06482983,RECRUITING,Mechanical Ventilation Complication,PROCEDURE,Mechanical Ventilation Mode,13.166666666666666
+NCT06482203,RECRUITING,Thoracic Kyphosis,OTHER,Trunk Extensor Endurance training & Scapular mobilization,0.8333333333333334
+NCT06481839,NOT_YET_RECRUITING,Shock,OTHER,Starting dose of NE,24.33333333333333
+NCT06479135,RECRUITING,Myelofibrosis,DRUG,Navtemadlin,31.366666666666667
+NCT06479135,RECRUITING,Post-PV MF,DRUG,Navtemadlin,31.366666666666667
+NCT06479135,RECRUITING,Post-ET Myelofibrosis,DRUG,Navtemadlin,31.366666666666667
+NCT06479135,RECRUITING,Primary Myelofibrosis,DRUG,Navtemadlin,31.366666666666667
+NCT06479135,RECRUITING,MF,DRUG,Navtemadlin,31.366666666666667
+NCT06477081,NOT_YET_RECRUITING,Myopia,PROCEDURE,FS-LASIK procedure,19.23333333333333
+NCT06477081,NOT_YET_RECRUITING,Astigmatism,PROCEDURE,FS-LASIK procedure,19.23333333333333
+NCT06477081,NOT_YET_RECRUITING,Myopic Astigmatism,PROCEDURE,FS-LASIK procedure,19.23333333333333
+NCT06474286,NOT_YET_RECRUITING,Schizophrenia,DRUG,Prucalopride 1 MG,12.133333333333333
+NCT06474455,NOT_YET_RECRUITING,Advanced Solid Tumors,DRUG,SHR-9839 ï¼›SHR-A2009,24.33333333333333
+NCT06470945,ACTIVE_NOT_RECRUITING,Spacing of Anterior Teeth,PROCEDURE,Glass ceramic sectional veneer,12.166666666666666
+NCT06476080,NOT_YET_RECRUITING,Acute Herpes Zoster Neuropathy,PROCEDURE,ultrasound guided erector spine block,9.466666666666669
+NCT06470841,NOT_YET_RECRUITING,Acute Myeloid Leukemia,DRUG,CHG Combined With Venetoclax and Azacytidine,40.63333333333333
+NCT06480253,NOT_YET_RECRUITING,Ventilation Therapy,DEVICE,Helmet Continuous Positive Airway Pressure,1.0
+NCT06481696,RECRUITING,Unexplained Infertility,DIETARY_SUPPLEMENT,Resveratrol-based multivitamin supplement,19.266666666666666
+NCT06477146,NOT_YET_RECRUITING,Non-Alcoholic Fatty Liver Disease (NAFLD),DRUG,Milk thistle (MT),17.266666666666666
+NCT06474910,RECRUITING,Scleroderma,OTHER,Connective tissue massage,2.0
+NCT06476184,NOT_YET_RECRUITING,Ovarian Cancer,DRUG,Carboplatin,36.5
+NCT06474013,NOT_YET_RECRUITING,Alzheimer Disease,DEVICE,ExAblate 4000 Type 2.1,3.033333333333333
+NCT06479343,NOT_YET_RECRUITING,Intracranial Arteriovenous Malformations,DEVICE,Liquid Embolic System (Tonbridge),16.233333333333334
+NCT06478381,RECRUITING,Relapsed/Refractory B-cell Lymphomas,DRUG,L218CAR19,19.266666666666666
+NCT06479590,NOT_YET_RECRUITING,Glucose Metabolism Disorders,DEVICE,tDCS,6.1
+NCT06477536,NOT_YET_RECRUITING,Generalized Pustular Psoriasis,DRUG,HB0034,17.266666666666666
+NCT06476327,NOT_YET_RECRUITING,Stroke,BEHAVIORAL,experimental 1 group,0.0
+NCT06481423,RECRUITING,Chronic Insomnia,BEHAVIORAL,dCBT-I,36.53333333333333
+NCT06481566,RECRUITING,Non-small Cell Lung Cancer,RADIATION,stereotactic ablative body radiotherapy,18.5
+NCT06476223,NOT_YET_RECRUITING,Xerostomia,DRUG,Artificial saliva containing cumin and ginger extract,6.066666666666666
+NCT06476366,NOT_YET_RECRUITING,Chronic Actinic Dermatitis,DRUG,Azathioprine,12.133333333333333
+NCT06475248,NOT_YET_RECRUITING,Tension Headaches,OTHER,Placebo Technique,3.033333333333333
+NCT06480422,RECRUITING,Chronic Obstructive Pulmonary Disease,OTHER,Segmental breathing technique,6.066666666666666
+NCT06483035,NOT_YET_RECRUITING,Phantom Limb Pain,DEVICE,Intensive Visual Stimulation (IVS),24.33333333333333
+NCT06470334,NOT_YET_RECRUITING,Hip Osteoarthritis,DRUG,Ropivacaine,3.033333333333333
+NCT06470334,NOT_YET_RECRUITING,Hip Pain Chronic,DRUG,Ropivacaine,3.033333333333333
+NCT06470334,NOT_YET_RECRUITING,Hip Arthritis,DRUG,Ropivacaine,3.033333333333333
+NCT06471933,NOT_YET_RECRUITING,Nasolabial Fold,DEVICE,JulÃ¤ine,12.166666666666666
+NCT06475209,RECRUITING,SCLC,DRUG,Adebrelimab combined with Apatinib,18.266666666666666
+NCT06472466,NOT_YET_RECRUITING,Eating Disorders,BEHAVIORAL,Sleep/eating virtual reality self-help exposure-based intervention,4.066666666666666
+NCT06472466,NOT_YET_RECRUITING,Insomnia Disorder,BEHAVIORAL,Sleep/eating virtual reality self-help exposure-based intervention,4.066666666666666
+NCT06475989,NOT_YET_RECRUITING,Refractory Differentiated Thyroid Gland Carcinoma,PROCEDURE,Biospecimen Collection,73.6
+NCT06483074,NOT_YET_RECRUITING,End Stage Renal Disease on Dialysis,DRUG,Empagliflozin 10 MG,25.33333333333333
+NCT06483074,NOT_YET_RECRUITING,Peritoneal Dialysis Complication,DRUG,Empagliflozin 10 MG,25.33333333333333
+NCT06483074,NOT_YET_RECRUITING,Sodium-glucose Cotransporter-2 Inhibitor,DRUG,Empagliflozin 10 MG,25.33333333333333
+NCT06483074,NOT_YET_RECRUITING,Residual Kidney Function,DRUG,Empagliflozin 10 MG,25.33333333333333
+NCT06477263,RECRUITING,Autism Spectrum Disorder,DEVICE,Neurocytotron,6.066666666666666
+NCT06474273,NOT_YET_RECRUITING,"Rejection; Transplant, Kidney",DRUG,Methylprednisolone,60.86666666666667
+NCT06474273,NOT_YET_RECRUITING,"Rejection; Transplant, Pancreas",DRUG,Methylprednisolone,60.86666666666667
+NCT06477848,NOT_YET_RECRUITING,Substance Use Disorder,OTHER,Integrated Behavioral Health System with SUD Resources,47.66666666666666
+NCT06477848,NOT_YET_RECRUITING,Opioid Use Disorder,OTHER,Integrated Behavioral Health System with SUD Resources,47.66666666666666
+NCT06477848,NOT_YET_RECRUITING,Adolescent,OTHER,Integrated Behavioral Health System with SUD Resources,47.66666666666666
+NCT06478251,RECRUITING,"Tumor, Solid",DRUG,NW-301V,26.4
+NCT06480435,RECRUITING,Chronic Obstructive Pulmonary Disease,OTHER,Chest physical Therapy,6.066666666666666
+NCT06480032,RECRUITING,Strength,DEVICE,Blood Flow Restriction band,13.133333333333333
+NCT06480032,RECRUITING,Range of Motion,DEVICE,Blood Flow Restriction band,13.133333333333333
+NCT06480032,RECRUITING,Pain-Knee,DEVICE,Blood Flow Restriction band,13.133333333333333
+NCT06480032,RECRUITING,Skeletal Muscle Hypertrophy,DEVICE,Blood Flow Restriction band,13.133333333333333
+NCT06480032,RECRUITING,Effusion Joint,DEVICE,Blood Flow Restriction band,13.133333333333333
+NCT06479694,RECRUITING,Fall,BEHAVIORAL,Real-life Dual-Task Training,24.33333333333333
+NCT06476977,RECRUITING,Trigger Finger Disorder,PROCEDURE,Dorsal webspace combined corticosteroid and anesthetic injection,20.33333333333333
+NCT06472934,NOT_YET_RECRUITING,Aortic Stenosis,OTHER,Transcatheter aortic valve replacement in the absence of B-blocker treatment,46.66666666666666
+NCT06478355,ACTIVE_NOT_RECRUITING,ESCC,DRUG,Immunotherapy,79.1
+NCT06474663,NOT_YET_RECRUITING,Refractory Acute Leukemia,DRUG,Cladribine,85.2
+NCT06474663,NOT_YET_RECRUITING,Relapsed Acute Leukemia,DRUG,Cladribine,85.2
+NCT06480136,NOT_YET_RECRUITING,NSCLC,DRUG,SHR-A1921 injection and adebrelimab injection,35.5
+NCT06472076,RECRUITING,"Lung Cancer, Non-Small Cell",BIOLOGICAL,Dostarlimab,52.06666666666667
+NCT06481475,NOT_YET_RECRUITING,Moderate to Severe Glabellar Lines,BIOLOGICAL,YY003,5.033333333333333
+NCT06478953,RECRUITING,Pneumonia,DIAGNOSTIC_TEST,FA Pneumonia Panel,18.433333333333334
+NCT06478953,RECRUITING,Critically Ill,DIAGNOSTIC_TEST,FA Pneumonia Panel,18.433333333333334
+NCT06476808,NOT_YET_RECRUITING,High-grade Serous Ovarian Carcinoma (HGSOC),DRUG,BMS-986463,53.4
+NCT06476808,NOT_YET_RECRUITING,Uterine Serous Carcinoma (USC),DRUG,BMS-986463,53.4
+NCT06476808,NOT_YET_RECRUITING,Non-small Cell Lung Cancer (NSCLC),DRUG,BMS-986463,53.4
+NCT06472518,NOT_YET_RECRUITING,Iliofemoral Venous Thrombosis,DEVICE,pharmaco mechanical thrombolysis,30.366666666666667
+NCT06473974,NOT_YET_RECRUITING,Facial Hyperpigmentation,DRUG,Test cosmetic product,9.1
+NCT06473831,RECRUITING,Obesity,DEVICE,"Magnet System, DI Biofragmentable",16.033333333333335
+NCT06473831,RECRUITING,Type 2 Diabetes,DEVICE,"Magnet System, DI Biofragmentable",16.033333333333335
+NCT06481072,RECRUITING,Functional Abdominal Pain Syndrome,OTHER,Digital patient education,24.33333333333333
+NCT06471725,RECRUITING,Pilates Exercises,OTHER,"combination of pilates exercises, Low-level laser therapy, and low-intensity ultrasound",3.1
+NCT06471725,RECRUITING,Sports Hernia,OTHER,"combination of pilates exercises, Low-level laser therapy, and low-intensity ultrasound",3.1
+NCT06481176,NOT_YET_RECRUITING,Restless Legs Syndrome,BEHAVIORAL,12-Week RLS Exercise Program,23.3
+NCT06474507,NOT_YET_RECRUITING,Ischemic Cerebrovascular Disease,DRUG,Calculus bovis sativus (CBS),60.86666666666667
+NCT06474507,NOT_YET_RECRUITING,Acute Ischemic Stroke,DRUG,Calculus bovis sativus (CBS),60.86666666666667
+NCT06474507,NOT_YET_RECRUITING,Cerebral Small Vessel Diseases,DRUG,Calculus bovis sativus (CBS),60.86666666666667
+NCT06476886,RECRUITING,Suicide,BEHAVIORAL,Intensive Crisis Intervention (ICI),26.266666666666666
+NCT06476886,RECRUITING,Suicidal Ideation,BEHAVIORAL,Intensive Crisis Intervention (ICI),26.266666666666666
+NCT06476886,RECRUITING,"Suicide, Attempted",BEHAVIORAL,Intensive Crisis Intervention (ICI),26.266666666666666
+NCT06476886,RECRUITING,Suicide and Self-harm,BEHAVIORAL,Intensive Crisis Intervention (ICI),26.266666666666666
+NCT06476886,RECRUITING,Suicide Threat,BEHAVIORAL,Intensive Crisis Intervention (ICI),26.266666666666666
+NCT06474442,NOT_YET_RECRUITING,Herpes Simplex Virus Type I Stromal Keratitis,GENETIC,BD111 Injection (investigational new drug),15.2
+NCT06482541,NOT_YET_RECRUITING,Androgenetic Alopecia,COMBINATION_PRODUCT,5 billion exosomes and saline solution microneedling,12.166666666666666
+NCT06476613,RECRUITING,Surgery,OTHER,Permissive Hypotension,22.666666666666668
+NCT06481228,NOT_YET_RECRUITING,Philadelphia Positive Acute Lymphoblastic Leukemia,COMBINATION_PRODUCT,CAR-T cells,24.33333333333333
+NCT06481228,NOT_YET_RECRUITING,"Acute Lymphoblastic Leukemia, Adult",COMBINATION_PRODUCT,CAR-T cells,24.33333333333333
+NCT06477393,NOT_YET_RECRUITING,Osteoarthritis,OTHER,Regular rehababilitation,58.833333333333336
+NCT06477393,NOT_YET_RECRUITING,Hand Osteoarthritis,OTHER,Regular rehababilitation,58.833333333333336
+NCT06477393,NOT_YET_RECRUITING,Foot Osteoarthritis,OTHER,Regular rehababilitation,58.833333333333336
+NCT06477055,NOT_YET_RECRUITING,Non-small Cell Lung Cancer,DRUG,Osimertinib,29.4
+NCT06473779,NOT_YET_RECRUITING,Severe Asthma,COMBINATION_PRODUCT,Tezepelumab,33.43333333333333
+NCT06472492,RECRUITING,Unipolar Depression,BEHAVIORAL,Adjuvant yoga intervention,19.766666666666666
+NCT06474403,RECRUITING,Parastomal Hernia,PROCEDURE,standard Sugarbecker's operation,35.5
+NCT06475300,NOT_YET_RECRUITING,Non-small Cell Lung Cancer,DRUG,BL-B01D1,24.33333333333333
+NCT06475300,NOT_YET_RECRUITING,Nasopharyngeal Carcinoma,DRUG,BL-B01D1,24.33333333333333
+NCT06475300,NOT_YET_RECRUITING,Solid Tumor,DRUG,BL-B01D1,24.33333333333333
+NCT06474585,NOT_YET_RECRUITING,Pronated Left Foot,DEVICE,Plantar orthosis,4.466666666666667
+NCT06474585,NOT_YET_RECRUITING,Pronated Right Foot,DEVICE,Plantar orthosis,4.466666666666667
+NCT06482255,NOT_YET_RECRUITING,Rotator Cuff Injuries,OTHER,manual therapy and therapeutic exercise,0.0
+NCT06477653,NOT_YET_RECRUITING,Hypereosinophilic Syndrome,BIOLOGICAL,dupilumab,30.3
+NCT06473493,NOT_YET_RECRUITING,"Hypertension, Portal",DRUG,Alverine,9.1
+NCT06479499,RECRUITING,COPD Patients,OTHER,Pilates Exercises,6.933333333333334
+NCT06480383,RECRUITING,Generalized Anxiety Disorder,DRUG,ITI-1284 10 mg,30.433333333333334
+NCT06481592,NOT_YET_RECRUITING,Endometrial Cancer,BIOLOGICAL,Lifileucel,43.6
+NCT06474897,RECRUITING,Impingement Syndrome,OTHER,Ozone therapy,2.0
+NCT06470568,NOT_YET_RECRUITING,Mild Cognitive Impairment,BEHAVIORAL,Progressive Resistance exercise training,24.33333333333333
+NCT06474481,NOT_YET_RECRUITING,FL,DRUG,Zanubrutinib,41.6
+NCT06473714,NOT_YET_RECRUITING,"Aphasia, Primary Progressive",DEVICE,tDCS,30.466666666666665
+NCT06475443,NOT_YET_RECRUITING,Metastatic Breast Cancer in the Brain,DRUG,pyrotinib plus capecitabine,24.83333333333333
+NCT06477887,RECRUITING,Socket Preservation,BIOLOGICAL,Allogeneic Dentin Matrix,1.9666666666666663
+NCT06473597,NOT_YET_RECRUITING,Migraine,DRUG,Rimegepant,30.433333333333334
+NCT06479876,NOT_YET_RECRUITING,Heart Failure With Preserved Ejection Fraction,OTHER,HBCR,12.166666666666666
+NCT06479876,NOT_YET_RECRUITING,Heart Failure With Reduced Ejection Fraction,OTHER,HBCR,12.166666666666666
+NCT06479876,NOT_YET_RECRUITING,Cardiovascular Diseases,OTHER,HBCR,12.166666666666666
+NCT06476392,NOT_YET_RECRUITING,Back Pain Lower Back Chronic,DRUG,Melatonin 10 MG,25.8
+NCT06476392,NOT_YET_RECRUITING,Insomnia,DRUG,Melatonin 10 MG,25.8
+NCT06479122,NOT_YET_RECRUITING,Cesarean Section,DRUG,Acetaminophen,12.166666666666666
+NCT06479122,NOT_YET_RECRUITING,Postoperative Pain,DRUG,Acetaminophen,12.166666666666666
+NCT06480656,RECRUITING,Eccentric Cycling Exercise,PROCEDURE,Rehabilitation with eccentric cycling exercise,24.433333333333334
+NCT06482684,RECRUITING,Mantle Cell Lymphoma,DRUG,KTE-X19,89.23333333333333
+NCT06482112,NOT_YET_RECRUITING,Metabolic Dysfunction-Associated Steatotic Liver Disease,DRUG,Efinopegdutide,14.7
+NCT06482112,NOT_YET_RECRUITING,Non-alcoholic Fatty Liver Disease,DRUG,Efinopegdutide,14.7
+NCT06482112,NOT_YET_RECRUITING,Nonalcoholic Fatty Liver Disease,DRUG,Efinopegdutide,14.7
+NCT06482112,NOT_YET_RECRUITING,Liver Disease,DRUG,Efinopegdutide,14.7
+NCT06474416,RECRUITING,Herpes Simplex Virus Type I Stromal Keratitis,GENETIC,BD111 Injection (Investigative New Drug),24.266666666666666
+NCT06470906,NOT_YET_RECRUITING,Vaginal Dysbiosis,DIETARY_SUPPLEMENT,Probiotic Group,10.133333333333333
+NCT06470906,NOT_YET_RECRUITING,Vaginal Disease,DIETARY_SUPPLEMENT,Probiotic Group,10.133333333333333
+NCT06470906,NOT_YET_RECRUITING,Molecular-bacterial Vaginosis,DIETARY_SUPPLEMENT,Probiotic Group,10.133333333333333
+NCT06471881,ACTIVE_NOT_RECRUITING,Edentulous Mouth,DEVICE,Two mandibular implants,66.13333333333334
+NCT06477406,NOT_YET_RECRUITING,Endometriosis,DRUG,Cannabidiol,22.3
+NCT06481293,RECRUITING,Alveolar Osteitis,DEVICE,Diode laser therapy,10.233333333333333
+NCT06472583,RECRUITING,Breast Cancer,DRUG,Keytruda,47.266666666666666
+NCT06471205,NOT_YET_RECRUITING,Triple-negative Breast Cancer,DRUG,BL-B01D1,24.33333333333333
+NCT06478927,RECRUITING,Hepatocellular Carcinoma,DRUG,Palbociclib capsules,24.366666666666667
+NCT06478862,RECRUITING,Cancer of Pancreas,DRUG,Promitil,23.933333333333334
+NCT06478862,RECRUITING,Cancer of Ovary,DRUG,Promitil,23.933333333333334
+NCT06481397,NOT_YET_RECRUITING,Pancreatic Ductal Adenocarcinoma (PDAC),DEVICE,Onco-Seraph 100 Filter,5.1
+NCT06475495,NOT_YET_RECRUITING,Rheumatoid Arthritis,DRUG,KYV101,28.33333333333333
+NCT06476743,RECRUITING,Geriatrics,OTHER,Sensory Integration Therapy,7.033333333333333
+NCT06482554,RECRUITING,Apathy,DRUG,Lumateperone 42 mg,30.433333333333334
+NCT06482554,RECRUITING,Schizophrenia,DRUG,Lumateperone 42 mg,30.433333333333334
+NCT06482554,RECRUITING,Schizophrenia; Psychosis,DRUG,Lumateperone 42 mg,30.433333333333334
+NCT06475378,NOT_YET_RECRUITING,Primary Insomnia,DEVICE,Moonbird,6.133333333333334
+NCT06482190,NOT_YET_RECRUITING,Idiopathic Pulmonary Fibrosis,DRUG,RSN0402 Part 1,6.4
+NCT06482190,NOT_YET_RECRUITING,"Lung; Disease, Interstitial, With Fibrosis",DRUG,RSN0402 Part 1,6.4
+NCT06470984,NOT_YET_RECRUITING,"Knowledge, Attitudes, Practice",BEHAVIORAL,Educational intervention,10.333333333333334
+NCT06470438,RECRUITING,"Lymphoma, Non-Hodgkin",DRUG,JNJ-88998377,41.63333333333333
+NCT06470438,RECRUITING,Refractory B-Cell NHL,DRUG,JNJ-88998377,41.63333333333333
+NCT06470438,RECRUITING,Relapsed B-cell NHL,DRUG,JNJ-88998377,41.63333333333333
+NCT06479863,NOT_YET_RECRUITING,Sporadic Inclusion Body Myositis (sIBM),COMBINATION_PRODUCT,Pozelimab/Cemdisiran,34.96666666666667
+NCT06479863,NOT_YET_RECRUITING,Idiopathic Inflammatory Myopathies,COMBINATION_PRODUCT,Pozelimab/Cemdisiran,34.96666666666667
+NCT06471946,NOT_YET_RECRUITING,Higher-risk Myelodysplastic Syndromes,DRUG,Venetoclax Plus Azacytidine Conditioning Regimen Allo-HSCT,60.86666666666667
+NCT06478264,NOT_YET_RECRUITING,Esophageal Small Cell Carcinoma,DRUG,Etoposide,24.33333333333333
+NCT06470204,NOT_YET_RECRUITING,Knee Osteoarthritis,DRUG,Ropivacaine,13.133333333333333
+NCT06470204,NOT_YET_RECRUITING,Knee Pain Chronic,DRUG,Ropivacaine,13.133333333333333
+NCT06470204,NOT_YET_RECRUITING,Knee Arthritis,DRUG,Ropivacaine,13.133333333333333
+NCT06474247,RECRUITING,Vaginal Candidiasis,DEVICE,Postbiotic,12.166666666666666
+NCT06473428,NOT_YET_RECRUITING,Parkinson Disease,BEHAVIORAL,respiratory muscle training,24.3
+NCT06473428,NOT_YET_RECRUITING,Pulmonary Disease,BEHAVIORAL,respiratory muscle training,24.3
+NCT06473428,NOT_YET_RECRUITING,Voice Disorders,BEHAVIORAL,respiratory muscle training,24.3
+NCT06480292,NOT_YET_RECRUITING,Gestational Diabetes Mellitus in Pregnancy,OTHER,telerehabilitation exercise,6.1
+NCT06470880,NOT_YET_RECRUITING,Melanoma,DRUG,Adaptive Therapy,24.33333333333333
+NCT06475417,RECRUITING,Gastric Cancer,DRUG,Adebrelimab combined with DOS,12.033333333333331
+NCT06478225,RECRUITING,Tumor Pancreas,DRUG,BGT007H Cell Injection,35.266666666666666
+NCT06471907,RECRUITING,Erector Spinea Plane Block,PROCEDURE,erector spinae plane block,10.7
+NCT06478602,RECRUITING,Liver Cirrhosis,BIOLOGICAL,Fecal Microbiota Transplantation,25.83333333333333
+NCT06480123,NOT_YET_RECRUITING,Diabetic Foot,DRUG,Skin drug prepared with exome originated from stem cell,53.73333333333333
+NCT06480123,NOT_YET_RECRUITING,Stem Cell,DRUG,Skin drug prepared with exome originated from stem cell,53.73333333333333
+NCT06482372,NOT_YET_RECRUITING,Stroke,DEVICE,transcranial magnetic stimulation,27.366666666666667
+NCT06482372,NOT_YET_RECRUITING,Mirror Therapy,DEVICE,transcranial magnetic stimulation,27.366666666666667
+NCT06482372,NOT_YET_RECRUITING,Transcranial Magnetic Stimulation,DEVICE,transcranial magnetic stimulation,27.366666666666667
+NCT06480461,NOT_YET_RECRUITING,Parkinson's Disease,DRUG,VGN-R09b,36.5
+NCT06474676,NOT_YET_RECRUITING,Metastatic Soft-tissue Sarcoma,DRUG,Cyclophosphamide,73.03333333333333
+NCT06479382,NOT_YET_RECRUITING,Eye Pain,DEVICE,ETX-4143 2.0,3.066666666666667
+NCT06476132,NOT_YET_RECRUITING,Lung Transplant,DRUG,Belumosudil,34.96666666666667
+NCT06478706,RECRUITING,Cystic Fibrosis,DRUG,ETD001,14.1
+NCT06476431,NOT_YET_RECRUITING,Stroke,OTHER,dual task,1.0333333333333334
+NCT06472921,NOT_YET_RECRUITING,Acute Ischemic Stroke,BEHAVIORAL,Butylphthalide treatment initiation time,15.2
+NCT06479681,RECRUITING,Alcohol Use Disorder,BEHAVIORAL,Peer recovery coaching (PRC),48.73333333333333
+NCT06482333,NOT_YET_RECRUITING,Postpolypectomy Bleeding,OTHER,Time for resumption of DOAC,24.33333333333333
+NCT06472167,RECRUITING,Breathing Exercises,BEHAVIORAL,Breathing exercises,2.333333333333333
+NCT06472219,NOT_YET_RECRUITING,Respiratory Tract Infections,DRUG,Prednisolone 30 mg,36.46666666666667
+NCT06474637,RECRUITING,Sleeve Gastrectomy,DEVICE,AEON Endoscopic Powered Stapler Handle and Reload,10.2
+NCT06480565,NOT_YET_RECRUITING,Clear Cell Renal Cell Carcinoma,DRUG,ADI-270,9.1
+NCT06482671,NOT_YET_RECRUITING,Dyspepsia and Other Specified Disorders of Function of Stomach,DRUG,Rikkunshi-to,24.33333333333333
+NCT06482671,NOT_YET_RECRUITING,Postprandial Distress Syndrome,DRUG,Rikkunshi-to,24.33333333333333
+NCT06478680,NOT_YET_RECRUITING,Stroke,BEHAVIORAL,Exoskeleton mediated gait training,13.133333333333333
+NCT06478680,NOT_YET_RECRUITING,"Gait, Hemiplegic",BEHAVIORAL,Exoskeleton mediated gait training,13.133333333333333
+NCT06481163,NOT_YET_RECRUITING,Buruli Ulcer,DRUG,Telacebec,6.1
+NCT06479642,NOT_YET_RECRUITING,Gonarthrosis,PROCEDURE,Genicular nerve pulse radiofrequency ablation 3,12.166666666666666
+NCT06482827,NOT_YET_RECRUITING,Diabetic Neuropathies,DEVICE,Sham Repetitive transcranial magnetic stimulation,12.166666666666666
+NCT06471049,RECRUITING,Surgery,PROCEDURE,Benign Hysterectomy,36.5
+NCT06471049,RECRUITING,Gynecologic Disease,PROCEDURE,Benign Hysterectomy,36.5
+NCT06478784,RECRUITING,Multiple Sclerosis,OTHER,Resistance training,12.166666666666666
+NCT06477471,NOT_YET_RECRUITING,Recurrent Kidney Stones With Colicky Pain,OTHER,MetProrenes,0.4666666666666667
+NCT06473961,NOT_YET_RECRUITING,Non Small Cell Lung Cancer Metastatic,BIOLOGICAL,Autologous Tumor Infiltrating Lymphocytes,6.133333333333334
+NCT06473961,NOT_YET_RECRUITING,Non Small Cell Lung Cancer,BIOLOGICAL,Autologous Tumor Infiltrating Lymphocytes,6.133333333333334
+NCT06470971,NOT_YET_RECRUITING,Advanced Malignant Solid Neoplasm,BIOLOGICAL,Anti-PD-L1 Monoclonal Antibody,17.266666666666666
+NCT06470971,NOT_YET_RECRUITING,Hematopoietic and Lymphatic System Neoplasm,BIOLOGICAL,Anti-PD-L1 Monoclonal Antibody,17.266666666666666
+NCT06479603,ACTIVE_NOT_RECRUITING,"Sarcoidosis, Pulmonary",DRUG,Nintedanib,19.33333333333333
+NCT06477133,RECRUITING,Prostatectomy,DRUG,Magnesium sulfate,12.066666666666666
+NCT06471634,NOT_YET_RECRUITING,"Diabetes Mellitus, Type 2",BEHAVIORAL,CBTi,24.33333333333333
+NCT06471634,NOT_YET_RECRUITING,Insomnia,BEHAVIORAL,CBTi,24.33333333333333
+NCT06471634,NOT_YET_RECRUITING,Sedentary Behavior,BEHAVIORAL,CBTi,24.33333333333333
+NCT06474572,NOT_YET_RECRUITING,Neonatal Disease,DEVICE,Direct laryngoscope and table at xiphoid level,0.0
+NCT06474572,NOT_YET_RECRUITING,Intubation,DEVICE,Direct laryngoscope and table at xiphoid level,0.0
+NCT06482021,NOT_YET_RECRUITING,Diabetic Nephropathy,DEVICE,Low-intensity extracorporeal shock wave,2.066666666666667
+NCT06479317,RECRUITING,Immune Thrombocytopenia With Positive ANA Antibodies,DRUG,Hydroxychloroquine Oral Tablet,20.566666666666663
+NCT06480227,NOT_YET_RECRUITING,Stress Urinary Incontinence,DEVICE,Solyx Single-incision Sling,36.5
+NCT06480227,NOT_YET_RECRUITING,Urinary Incontinence,DEVICE,Solyx Single-incision Sling,36.5
+NCT06480227,NOT_YET_RECRUITING,Mixed Urinary Incontinence,DEVICE,Solyx Single-incision Sling,36.5
+NCT06472388,RECRUITING,Neuroendocrine Tumors,DRUG,Everolimus 5 MG,25.2
+NCT06472388,RECRUITING,Progression,DRUG,Everolimus 5 MG,25.2
+NCT06472388,RECRUITING,Neuroendocrine Tumor Grade 1,DRUG,Everolimus 5 MG,25.2
+NCT06472388,RECRUITING,Neuroendocrine Tumor Grade 2,DRUG,Everolimus 5 MG,25.2
+NCT06472388,RECRUITING,Neuroendocrine Tumor of Pancreas,DRUG,Everolimus 5 MG,25.2
+NCT06472388,RECRUITING,Neuroendocrine Tumor of the Lung,DRUG,Everolimus 5 MG,25.2
+NCT06472388,RECRUITING,Neuroendocrine Tumor Carcinoid,DRUG,Everolimus 5 MG,25.2
+NCT06471361,NOT_YET_RECRUITING,Generalized Myasthenia Gravis,DRUG,Zilucoplan,5.133333333333334
+NCT06474026,NOT_YET_RECRUITING,Psychostimulant Use Disorder(PUD),DEVICE,ExAblate 4000 Type 2.1,2.033333333333333
+NCT06481709,NOT_YET_RECRUITING,Bioavailability,DRUG,RLF-OD032,1.0666666666666669
+NCT06477523,RECRUITING,"SCLC, Extensive Stage",DRUG,AK104,22.83333333333333
+NCT06470659,RECRUITING,Obesity,BEHAVIORAL,WW Clinic,4.633333333333334
+NCT06470659,RECRUITING,Overweight,BEHAVIORAL,WW Clinic,4.633333333333334
+NCT06479356,NOT_YET_RECRUITING,Non-Hodgkin Lymphoma,BIOLOGICAL,Relma-cel,8.066666666666666
+NCT06479356,NOT_YET_RECRUITING,Large B-cell Lymphoma,BIOLOGICAL,Relma-cel,8.066666666666666
+NCT06479993,RECRUITING,Athletes,DIETARY_SUPPLEMENT,Chlorella supplementation,16.066666666666666
+NCT06479993,RECRUITING,Healthy,DIETARY_SUPPLEMENT,Chlorella supplementation,16.066666666666666
+NCT06477276,RECRUITING,Major Depressive Disorder,DEVICE,Nervio-X,10.366666666666667
+NCT06483061,NOT_YET_RECRUITING,"Epilepsy, Temporal Lobe",DRUG,Ferumoxytol,60.86666666666667
+NCT06470360,RECRUITING,Laparoscopic Cholecystectomy,OTHER,Surgycal procedure,7.666666666666667
+NCT06479395,NOT_YET_RECRUITING,Cerebral Palsy,OTHER,Pediatric Endurance and Limb Strengthening (PEDALS) program,4.166666666666667
+NCT06482762,NOT_YET_RECRUITING,Bipolar,DEVICE,BrainSonix Pulsar 1002,18.266666666666666
+NCT06478992,NOT_YET_RECRUITING,Adenomyosis,PROCEDURE,A:hysteroscopic suture fixation of Mirena,18.266666666666666
+NCT06478992,NOT_YET_RECRUITING,Hysteroscopy,PROCEDURE,A:hysteroscopic suture fixation of Mirena,18.266666666666666
+NCT06482918,RECRUITING,Schizophrenia,BEHAVIORAL,Cognitive Remediation,21.73333333333333
+NCT06478212,NOT_YET_RECRUITING,IDH1-mutant Glioma,DRUG,Vorasidenib,37.5
+NCT06478212,NOT_YET_RECRUITING,IDH2-mutant Glioma,DRUG,Vorasidenib,37.5
+NCT06477237,RECRUITING,Psoriasis,BIOLOGICAL,HB0017 Q4W,5.1
+NCT06471530,RECRUITING,Overweight and Obesity,DRUG,TE-8105 SAD Cohort 1,15.9
+NCT06480175,RECRUITING,Neck Pain,PROCEDURE,cervical plexus block,5.466666666666667
+NCT06480175,RECRUITING,Cervical Spondylosis,PROCEDURE,cervical plexus block,5.466666666666667
+NCT06475820,RECRUITING,Acute Lymphoblastic Leukemia,DRUG,Baricitinib,36.53333333333333
+NCT06475820,RECRUITING,Acute Myeloid Leukemia,DRUG,Baricitinib,36.53333333333333
+NCT06475820,RECRUITING,Biphenotypic Acute Leukemia,DRUG,Baricitinib,36.53333333333333
+NCT06475820,RECRUITING,Malignant Lymphoma,DRUG,Baricitinib,36.53333333333333
+NCT06475820,RECRUITING,Myelodysplastic Syndromes,DRUG,Baricitinib,36.53333333333333
+NCT06473389,NOT_YET_RECRUITING,Hemiplegic Shoulder Pain,PROCEDURE,Suprascapular nerve pulse radiofrequency ablation,12.166666666666666
+NCT06479291,RECRUITING,Immune Thrombocytopenia With Positive ANA Antibodies,DRUG,Hydroxychloroquine Oral Tablet,18.3
+NCT06478316,NOT_YET_RECRUITING,Late Abortion,PROCEDURE,Intracervical block,24.33333333333333
+NCT06478316,NOT_YET_RECRUITING,Dilation and Evacuation,PROCEDURE,Intracervical block,24.33333333333333
+NCT06477094,NOT_YET_RECRUITING,Lumbar Spondylosis,DEVICE,Stratus Nimbus Electrosurgical RF Multi-Tined Expandable Electrode,12.166666666666666
+NCT06480786,NOT_YET_RECRUITING,Peripheral Arterial Disease,DEVICE,Spinal cord stimulation,15.2
+NCT06480786,NOT_YET_RECRUITING,Painful Diabetic Neuropathy,DEVICE,Spinal cord stimulation,15.2
+NCT06480786,NOT_YET_RECRUITING,"Diabetes Mellitus, Type 2",DEVICE,Spinal cord stimulation,15.2
+NCT06480786,NOT_YET_RECRUITING,Chronic Pain,DEVICE,Spinal cord stimulation,15.2
+NCT06480786,NOT_YET_RECRUITING,Spinal Cord Stimulation,DEVICE,Spinal cord stimulation,15.2
+NCT06480786,NOT_YET_RECRUITING,Chronic Pain Syndrome,DEVICE,Spinal cord stimulation,15.2
+NCT06480786,NOT_YET_RECRUITING,Limb Pain,DEVICE,Spinal cord stimulation,15.2
+NCT06480552,NOT_YET_RECRUITING,Advanced Solid Tumors,DRUG,TEV-56278,58.9
+NCT06482580,ACTIVE_NOT_RECRUITING,Flexible Flatfoot,OTHER,Exercise,3.033333333333333
+NCT06481085,NOT_YET_RECRUITING,Type 2 Diabetes,DRUG,HDM1002 50 mg,10.133333333333333
+NCT06481969,RECRUITING,Premature Ovarian Insufficiency,PROCEDURE,Conventional IVF,30.4
+NCT06479161,RECRUITING,Postoperative Pain,DRUG,Tranexamic acid,8.766666666666667
+NCT06477939,NOT_YET_RECRUITING,Glioblastoma,DRUG,Administration of L-TC,97.36666666666666
+NCT06478459,NOT_YET_RECRUITING,Pancreatic Cancer Non-resectable,BIOLOGICAL,CAR-NK,12.166666666666666
+NCT06471855,RECRUITING,Lower Limb Amputation,DEVICE,Multidisciplinary Conventional and Technology-based Rehabilitation,19.3
+NCT06471855,RECRUITING,Prosthesis User,DEVICE,Multidisciplinary Conventional and Technology-based Rehabilitation,19.3
+NCT06482892,NOT_YET_RECRUITING,Critical Limb Ischemia,DRUG,TP03HN106,4.1
+NCT06475729,NOT_YET_RECRUITING,Healthy,DRUG,Citrate-Free Mirikizumab,5.1
+NCT06472453,NOT_YET_RECRUITING,Alveolar Ridge Augmentation,DEVICE,Allograft/Xenograft,34.46666666666667
+NCT06478160,NOT_YET_RECRUITING,Acceptability of Health Care,DEVICE,Closed-Blood Sampling Devices,14.3
+NCT06470100,NOT_YET_RECRUITING,Knee Osteoarthritis,DRUG,0.9% Sodium Chloride Injection,13.133333333333333
+NCT06470100,NOT_YET_RECRUITING,Knee Arthritis,DRUG,0.9% Sodium Chloride Injection,13.133333333333333
+NCT06470100,NOT_YET_RECRUITING,Knee Disease,DRUG,0.9% Sodium Chloride Injection,13.133333333333333
+NCT06470100,NOT_YET_RECRUITING,Knee Pain Chronic,DRUG,0.9% Sodium Chloride Injection,13.133333333333333
+NCT06474728,NOT_YET_RECRUITING,Atopic Dermatitis,OTHER,Treatment with an Emollient Containing Postbiotic Saccharomyces and Lactobacillus,15.233333333333333
+NCT06474728,NOT_YET_RECRUITING,Eczema,OTHER,Treatment with an Emollient Containing Postbiotic Saccharomyces and Lactobacillus,15.233333333333333
+NCT06474728,NOT_YET_RECRUITING,Emollient,OTHER,Treatment with an Emollient Containing Postbiotic Saccharomyces and Lactobacillus,15.233333333333333
+NCT06477692,NOT_YET_RECRUITING,Head and Neck Cancer,DRUG,ENI using IMRT with or without chemotherapy,48.7
+NCT06472869,NOT_YET_RECRUITING,Electronic Cigarette Use,OTHER,NJOY ACE e-cigarette,7.033333333333333
+NCT06472869,NOT_YET_RECRUITING,"Smoking, Cigarette",OTHER,NJOY ACE e-cigarette,7.033333333333333
+NCT06472869,NOT_YET_RECRUITING,Nicotine Dependence,OTHER,NJOY ACE e-cigarette,7.033333333333333
+NCT06482294,ACTIVE_NOT_RECRUITING,Asthma,DRUG,Salbutamol,10.566666666666666
+NCT06472193,RECRUITING,Bladder Dysfunction,PROCEDURE,Shanfield implantation technique in Mitroffanof procedure,18.23333333333333
+NCT06480968,RECRUITING,Fragile X Syndrome,DRUG,CTH120,11.466666666666669
+NCT06473805,NOT_YET_RECRUITING,Management of Gummy Smile,PROCEDURE,VISTA technique and 3D printed PMMA implant,13.166666666666666
+NCT06481800,RECRUITING,Hemodialysis Complication,OTHER,Progressive muscle relaxation (PMR),3.2
+NCT06471075,NOT_YET_RECRUITING,Pain,BEHAVIORAL,Mindfulness Pain Management,26.73333333333333
+NCT06471075,NOT_YET_RECRUITING,Chronic Pain,BEHAVIORAL,Mindfulness Pain Management,26.73333333333333
+NCT06471075,NOT_YET_RECRUITING,Acute Pain,BEHAVIORAL,Mindfulness Pain Management,26.73333333333333
+NCT06479629,NOT_YET_RECRUITING,Diabetic Peripheral Neuropathy,DRUG,Piracetam,11.166666666666666
+NCT06472570,RECRUITING,Head and Neck Cancer,RADIATION,Stereotactic radiotherapy boost,136.13333333333333
+NCT06470633,NOT_YET_RECRUITING,Breast Cancer,DRUG,Adebrelimab,22.3
+NCT06470633,NOT_YET_RECRUITING,HR+/HER2- Breast Cancer,DRUG,Adebrelimab,22.3
+NCT06477549,RECRUITING,Acute Lymphoblastic Leukemia,DRUG,Bendamustine Hydrochloride,48.03333333333333
+NCT06477549,RECRUITING,Acute Myeloid Leukemia,DRUG,Bendamustine Hydrochloride,48.03333333333333
+NCT06477549,RECRUITING,Biphenotypic Acute Leukemia,DRUG,Bendamustine Hydrochloride,48.03333333333333
+NCT06477549,RECRUITING,Lymphoblastic Lymphoma,DRUG,Bendamustine Hydrochloride,48.03333333333333
+NCT06477549,RECRUITING,Myeloproliferative Neoplasm,DRUG,Bendamustine Hydrochloride,48.03333333333333
+NCT06477549,RECRUITING,Myelodysplastic Syndromes,DRUG,Bendamustine Hydrochloride,48.03333333333333
+NCT06470776,NOT_YET_RECRUITING,Tobacco Use,BEHAVIORAL,Chatbot counselling,11.366666666666667
+NCT06470776,NOT_YET_RECRUITING,Smoking Cessation,BEHAVIORAL,Chatbot counselling,11.366666666666667
+NCT06474689,RECRUITING,Binge-Eating Disorder,OTHER,EMDR,8.166666666666666
+NCT06471608,NOT_YET_RECRUITING,Primary Spontaneous Pneumothorax,OTHER,Ambulatory management,49.73333333333333
+NCT06471608,NOT_YET_RECRUITING,Quality of Life,OTHER,Ambulatory management,49.73333333333333
+NCT06471608,NOT_YET_RECRUITING,Ambulatory Care,OTHER,Ambulatory management,49.73333333333333
+NCT06471608,NOT_YET_RECRUITING,Chest Tube,OTHER,Ambulatory management,49.73333333333333
+NCT06472024,NOT_YET_RECRUITING,Cancer,PROCEDURE,Verum Acupuncture,2.066666666666667
+NCT06472024,NOT_YET_RECRUITING,Nasopharyngeal Carcinoma,PROCEDURE,Verum Acupuncture,2.066666666666667
+NCT06472024,NOT_YET_RECRUITING,Mucositis,PROCEDURE,Verum Acupuncture,2.066666666666667
+NCT06476821,NOT_YET_RECRUITING,Healthy Volunteers,DRUG,BMS-986435,2.7
+NCT06470672,NOT_YET_RECRUITING,Advanced Breast Cancer,DRUG,SHR-A1921,20.266666666666666
+NCT06470672,NOT_YET_RECRUITING,Hormone-receptor-positive Breast Cancer,DRUG,SHR-A1921,20.266666666666666
+NCT06470672,NOT_YET_RECRUITING,Human Epidermal Growth Factor 2 Negative Carcinoma of Breast,DRUG,SHR-A1921,20.266666666666666
+NCT06482437,NOT_YET_RECRUITING,Charcot-Marie-Tooth Disease,DRUG,NMD670,17.9
+NCT06478147,ACTIVE_NOT_RECRUITING,Aging,DIETARY_SUPPLEMENT,Oral Nutritional Supplement,4.933333333333334
+NCT06478147,ACTIVE_NOT_RECRUITING,Appetite Loss,DIETARY_SUPPLEMENT,Oral Nutritional Supplement,4.933333333333334
+NCT06478147,ACTIVE_NOT_RECRUITING,Undernutrition,DIETARY_SUPPLEMENT,Oral Nutritional Supplement,4.933333333333334
+NCT06481098,RECRUITING,Obesity,DRUG,HM15275,10.566666666666666
+NCT06476509,NOT_YET_RECRUITING,Major Depressive Disorder,DRUG,LV232 40mg,2.066666666666667
+NCT06471673,RECRUITING,Breast Cancer,BIOLOGICAL,BC1 cell line,11.1
+NCT06471673,RECRUITING,Breast Tumor,BIOLOGICAL,BC1 cell line,11.1
+NCT06471673,RECRUITING,Cancer of Breast,BIOLOGICAL,BC1 cell line,11.1
+NCT06471673,RECRUITING,Cancer of the Breast,BIOLOGICAL,BC1 cell line,11.1
+NCT06471673,RECRUITING,Malignant Tumor of Breast,BIOLOGICAL,BC1 cell line,11.1
+NCT06471673,RECRUITING,"Tumors, Breast",BIOLOGICAL,BC1 cell line,11.1
+NCT06479486,NOT_YET_RECRUITING,Chronic Obstructive Pulmonary Disease,DIAGNOSTIC_TEST,Assigned Interventions,4.1
+NCT06473064,ACTIVE_NOT_RECRUITING,Surgical Managment of Gynecomastia,OTHER,Benelli technique for nipple sparing mastectomy in surgical treatment of grade 3 and 4 gynecomastia,24.366666666666667
+NCT06474871,NOT_YET_RECRUITING,Acquired Brain Injury,DEVICE,KhymeiaÂ®-Virtual Reality rehabilitation System (VRRS EVO SYSTEM or COMPACT VRRS ENGINE),12.133333333333333
+NCT06471777,NOT_YET_RECRUITING,Acute Renal Failure on Dialysis (Disorder),PROCEDURE,Fluid removal,21.266666666666666
+NCT06478940,NOT_YET_RECRUITING,"Pulp Disease, Dental",DRUG,3 mixtatin pulpotomy,12.166666666666666
+NCT06478940,NOT_YET_RECRUITING,Deciduous Teeth,DRUG,3 mixtatin pulpotomy,12.166666666666666
+NCT06478043,NOT_YET_RECRUITING,Extensive-stage Small-cell Lung Cancer,DRUG,ivonescimab,12.166666666666666
+NCT06478433,NOT_YET_RECRUITING,Adenoidal Disorder,DEVICE,Munatoril Aerosol Combo,12.166666666666666
+NCT06478433,NOT_YET_RECRUITING,Tonsillitis,DEVICE,Munatoril Aerosol Combo,12.166666666666666
+NCT06478433,NOT_YET_RECRUITING,Otorhinolaryngologic Diseases,DEVICE,Munatoril Aerosol Combo,12.166666666666666
+NCT06478433,NOT_YET_RECRUITING,Nasal Disease,DEVICE,Munatoril Aerosol Combo,12.166666666666666
+NCT06470516,RECRUITING,Schizophrenia,DEVICE,high-frequency transcranial alternating current stimulation,21.3
+NCT06482905,NOT_YET_RECRUITING,High-grade Glioma,BIOLOGICAL,Anti-B7-H3 Chimeric Antigen Receptor T-Cell (CAR-T Cell) Injection/TX103,27.4
+NCT06482905,NOT_YET_RECRUITING,WHO Grade â…£ Glioma,BIOLOGICAL,Anti-B7-H3 Chimeric Antigen Receptor T-Cell (CAR-T Cell) Injection/TX103,27.4
+NCT06476704,NOT_YET_RECRUITING,Sarcoma,DRUG,Administration of L-TC,73.0
+NCT06471868,ACTIVE_NOT_RECRUITING,Pharmacokinetics,DRUG,IY-HCR21,0.5
+NCT06475352,NOT_YET_RECRUITING,Digestive Cancer,DRUG,FOLFOX regimen,2.033333333333333
+NCT06475352,NOT_YET_RECRUITING,Colorectal Cancer,DRUG,FOLFOX regimen,2.033333333333333
+NCT06479408,NOT_YET_RECRUITING,Persistent Postural Perceptual Dizziness,OTHER,progressive muscle relaxation (PMR) technique and vestibular rehabilitation exercises,4.066666666666666
+NCT06478472,RECRUITING,Marginal Zone Lymphoma,DRUG,Obrutinib in combination with rituximab,36.5
+NCT06475755,NOT_YET_RECRUITING,Non-Small Cell Lung Cancer,DRUG,Immunochemotherapy combined with antiangiogenic,11.5
+NCT06475755,NOT_YET_RECRUITING,Anti Angiogenesis,DRUG,Immunochemotherapy combined with antiangiogenic,11.5
+NCT06478537,RECRUITING,Immune Thrombocytopenia,DRUG,Hetrombopag Olamine,36.5
+NCT06482801,RECRUITING,Liver Cancer,DRUG,"ipilimumab+pembrolizumab or ipilimumab+durvalumab, idarubicin, bevacizumab",79.8
+NCT06482801,RECRUITING,Antibody,DRUG,"ipilimumab+pembrolizumab or ipilimumab+durvalumab, idarubicin, bevacizumab",79.8
+NCT06471829,NOT_YET_RECRUITING,Cushing's Disease,DRUG,Lu AG13909,19.9
+NCT06472141,NOT_YET_RECRUITING,Temporomandibular Joint Disorders,OTHER,Cervical stabilization exercises,12.166666666666666
+NCT06470828,NOT_YET_RECRUITING,Narcolepsy Type 1,DRUG,TAK-861,23.066666666666663
+NCT06477744,ACTIVE_NOT_RECRUITING,Parkinson's Disease,BIOLOGICAL,Allogenic embryonic stem cellderived A9 dopamine progenitor cell (A9-DPC)_Low Dose,65.76666666666667
+NCT06470347,RECRUITING,HER-2 Positive Advanced Breast Cancer,DRUG,A Real-World Study of Pyrrolitinib Maleate Tablets for HER-2-Positive Early or Locally Advanced Breast Cancer After Adjuvant Trastuzumab Therapy,24.366666666666667
+NCT06475846,NOT_YET_RECRUITING,Preventing of Postoperative Nausea and Vomiting in Adults,DRUG,HRS5580,4.066666666666666
+NCT06471556,NOT_YET_RECRUITING,Neuroendocrine Cell Hyperplasia of Infancy,DRUG,IV Methylprednisolone pulses,26.366666666666667
+NCT06479473,RECRUITING,Extensive-stage Small Cell Lung Cancer,RADIATION,Radiotherapy to all residual lesions,10.1
+NCT06477640,NOT_YET_RECRUITING,Pulmonary Arterial Hypertension PAH,BEHAVIORAL,Exercise,18.266666666666666
+NCT06479824,NOT_YET_RECRUITING,Tricuspid Valve Insufficiency,DEVICE,TRAIPTA (Trans-Atrial Intra-Pericardial Tricuspid Annuloplasty),13.166666666666666
+NCT06473480,NOT_YET_RECRUITING,Diabetes Mellitus,DEVICE,Abott FreeStyle Libre System 2,11.633333333333333
+NCT06471517,RECRUITING,Neuropathy;Peripheral,DEVICE,Somatosensory feedback,13.766666666666667
+NCT06471517,RECRUITING,"Neuropathy, Diabetic",DEVICE,Somatosensory feedback,13.766666666666667
+NCT06471517,RECRUITING,"Neuropathy, Painful",DEVICE,Somatosensory feedback,13.766666666666667
+NCT06474650,NOT_YET_RECRUITING,Huntington Disease,DRUG,LPM3770164 sustained release tablet,1.0333333333333334
+NCT06474650,NOT_YET_RECRUITING,Tardive Dyskinesia,DRUG,LPM3770164 sustained release tablet,1.0333333333333334
+NCT06470243,NOT_YET_RECRUITING,Castration-Resistant Prostate Carcinoma,PROCEDURE,Biospecimen Collection,31.0
+NCT06470243,NOT_YET_RECRUITING,Stage IVB Prostate Cancer AJCC v8,PROCEDURE,Biospecimen Collection,31.0
+NCT06473896,RECRUITING,Cholecystectomy,DRUG,Ketalar,24.73333333333333
+NCT06475105,RECRUITING,Acute Decompensated Heart Failure,DRUG,Oral Acetazolamide,2.3666666666666667
+NCT06476379,RECRUITING,Male Infertility,PROCEDURE,Testicular sperm extraction (TESE),12.333333333333334
+NCT06475040,RECRUITING,Anxiety Symptoms,DEVICE,transcranial magnetic stimulation,12.166666666666666
+NCT06475040,RECRUITING,Anxiety Disorders,DEVICE,transcranial magnetic stimulation,12.166666666666666
+NCT06475781,NOT_YET_RECRUITING,Group 3 Pulmonary Hypertension,DRUG,Mirivadelgat,42.6
+NCT06475001,NOT_YET_RECRUITING,Chronic Non-specific Low Back Pain,DRUG,VER-01,13.166666666666666
+NCT06476912,RECRUITING,Parkinson Disease,OTHER,weight-shifting exercise,10.733333333333333
+NCT06481241,NOT_YET_RECRUITING,Philadelphia Chromosome Negative ALL,COMBINATION_PRODUCT,CAR-T cells,24.33333333333333
+NCT06481241,NOT_YET_RECRUITING,"Acute Lymphoblastic Leukemia, Adult",COMBINATION_PRODUCT,CAR-T cells,24.33333333333333
+NCT06473116,NOT_YET_RECRUITING,Out-Of-Hospital Cardiac Arrest,DRUG,Isoprenaline Only Product,52.766666666666666
+NCT06476197,ACTIVE_NOT_RECRUITING,Cancer Cachexia,DEVICE,SAT-003,18.3
+NCT06473454,NOT_YET_RECRUITING,Irritable Bowel Syndrome,OTHER,aerobic exercise and basic body awareness therapy ( exercise),2.9
+NCT06472245,NOT_YET_RECRUITING,Patients With Non-Small Cell Lung Cancer,DRUG,OSE2101,42.1
+NCT06480539,RECRUITING,Postoperative Fatigue,DRUG,Placebo,17.1
+NCT06480539,RECRUITING,Postoperative Sleep Disturbances,DRUG,Placebo,17.1
+NCT06480539,RECRUITING,Surgical Stress Response,DRUG,Placebo,17.1
+NCT06472479,NOT_YET_RECRUITING,Relapsed/Refractory Multiple Myeloma,BIOLOGICAL,LCAR-M61S cells preparation,50.43333333333333
+NCT06480240,RECRUITING,Advanced Solid Tumor,DRUG,OBI-992,36.13333333333333
+NCT06479720,RECRUITING,Effect of Drug,DRUG,Combination pharmacotherapy,30.966666666666665
+NCT06479720,RECRUITING,"Urinary Bladder, Overactive",DRUG,Combination pharmacotherapy,30.966666666666665
+NCT06477952,NOT_YET_RECRUITING,Obstructive Sleep Apnea,DRUG,Dronabinol,24.3
+NCT06476210,RECRUITING,Pulmonary Tuberculosis,DRUG,BDL regimen,12.166666666666666
+NCT06481410,NOT_YET_RECRUITING,Septic Shock,DRUG,Methylene Blue Intervention Group,24.33333333333333
+NCT06481410,NOT_YET_RECRUITING,Methylene Blue,DRUG,Methylene Blue Intervention Group,24.33333333333333
+NCT06481410,NOT_YET_RECRUITING,Sepsis,DRUG,Methylene Blue Intervention Group,24.33333333333333
+NCT06475742,NOT_YET_RECRUITING,"Lupus Erythematosus, Systemic",DRUG,Cenerimod,40.6
+NCT06472336,NOT_YET_RECRUITING,Stroke,PROCEDURE,Intracranial stenting,36.5
+NCT06472336,NOT_YET_RECRUITING,"Stroke, Acute Ischemic",PROCEDURE,Intracranial stenting,36.5
+NCT06472336,NOT_YET_RECRUITING,Intracranial Atherosclerosis,PROCEDURE,Intracranial stenting,36.5
+NCT06472232,NOT_YET_RECRUITING,Obstetric Labor,DRUG,Chloroprocaine,12.1
+NCT06479096,NOT_YET_RECRUITING,Oral Malodor,OTHER,Brush / Espresso Mild Prototype,2.0
+NCT06478238,RECRUITING,Hereditary Spastic Paraplegia,DRUG,calcium folinate,72.0
+NCT06474260,RECRUITING,Healthy Human Volunteers,BEHAVIORAL,"""One All"" Intervention",32.766666666666666
+NCT06474260,RECRUITING,Youth Resilience,BEHAVIORAL,"""One All"" Intervention",32.766666666666666
+NCT06477159,RECRUITING,Exocrine Pancreatic Insufficiency,DRUG,Pancrelipase Capsules,35.46666666666667
+NCT06479239,NOT_YET_RECRUITING,Pancreas Cancer,DRUG,EGFR FPBMC,38.56666666666667
+NCT06479239,NOT_YET_RECRUITING,Pancreatic Cancer,DRUG,EGFR FPBMC,38.56666666666667
+NCT06471465,NOT_YET_RECRUITING,Radionecrosis of Brain,DRUG,Bevacizumab,39.53333333333333
+NCT06471465,NOT_YET_RECRUITING,Brain Metastases,DRUG,Bevacizumab,39.53333333333333
+NCT06474221,RECRUITING,"Suicide, Attempted",BEHAVIORAL,Electronic Based Psychosocial Intervention (EBPSI),13.866666666666667
+NCT06471920,NOT_YET_RECRUITING,Chronic Low-back Pain,BEHAVIORAL,Educational Control,44.56666666666667
+NCT06475430,NOT_YET_RECRUITING,Low Anterior Resection Syndrome,BIOLOGICAL,fecal microbiota transplantation,18.166666666666668
+NCT06475430,NOT_YET_RECRUITING,Fecal Microbiota Transplantation,BIOLOGICAL,fecal microbiota transplantation,18.166666666666668
+NCT06471218,NOT_YET_RECRUITING,Hyperlipidemia,DRUG,SHR-1918; SHR-1918 Placebo,10.133333333333333
+NCT06474299,NOT_YET_RECRUITING,Smoking Cessation,DRUG,Varenicline,46.63333333333333
+NCT06474299,NOT_YET_RECRUITING,Electronic Cigarette Use,DRUG,Varenicline,46.63333333333333
+NCT06471998,NOT_YET_RECRUITING,Chronic Low-back Pain,DRUG,Sodium Chloride injection,14.233333333333333

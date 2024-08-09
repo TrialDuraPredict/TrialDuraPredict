@@ -61,5 +61,10 @@ for study_id in tqdm(all_ids):
 combined_df = pd.concat(df_list, join="inner")
 combined_df = combined_df.loc[:, ~combined_df.columns.duplicated()]
 
+duration = os.path.join(input_path, "trial_duration.csv")
+duration_df = pd.read_csv(duration)
+
+combined_df = pd.merge(combined_df, duration_df, how="inner", on="nctId")
+
 output_path = "./data_example/keyword_df.csv"
 combined_df.to_csv(output_path, index=False)

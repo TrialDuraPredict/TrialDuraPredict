@@ -80,7 +80,7 @@ def description2embedding(input_path):
 
     # generate embedding
     for study_id in tqdm(all_ids):
-        filepath = os.path.join(input_path, "ctg-studies.json", f"{study_id}.json")
+        filepath = os.path.join("./data/ctg-studies.json", f"{study_id}.json")
 
         try:
             with open(filepath, "r") as file:
@@ -92,7 +92,7 @@ def description2embedding(input_path):
 
                 if pd.notna(description):
                     # Tokenize and encode the description
-                    description_embedding = generate_embeddings(tokenizer, model, description)
+                    description_embedding = generate_embedding(tokenizer, model, description)
 
                     embedding_data.append(
                         {
@@ -111,8 +111,8 @@ def description2embedding(input_path):
 
 
 def main():
-    input_path = "./data_example"
-    output_path = "./data_example/description2embedding.pkl"
+    input_path = "./results"
+    output_path = "./results/description2embedding.pkl"
 
     embedding_data = description2embedding(input_path)
     with open(output_path, "wb") as file:

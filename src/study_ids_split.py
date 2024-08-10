@@ -80,8 +80,8 @@ def split_and_save_datasets(train_test_incompleted_ids, output_dir):
 
 
 def main():
-    input_path = './data_example/ctg-studies.json'
-    output_dir = './data_example/'
+    input_path = './data/ctg-studies.json'
+    output_dir = './data/'
 
     train_test_incompleted_ids = generate_train_test_incompleted_ids(input_path)
     split_and_save_datasets(train_test_incompleted_ids, output_dir)

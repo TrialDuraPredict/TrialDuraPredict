@@ -6,6 +6,7 @@ tqdm
 transformers
 torch
 #re
+requests
 dash
 jupyter_dash
 dash_vega_components

@@ -66,7 +66,7 @@ def disease2embedding(input_path):
 
     # generate embedding
     for study_id in tqdm(all_ids):
-        filepath = os.path.join(input_path, "ctg-studies.json", f"{study_id}.json")
+        filepath = os.path.join("./data/ctg-studies.json", f"{study_id}.json")
 
         try:
             with open(filepath, "r") as file:
@@ -98,8 +98,8 @@ def disease2embedding(input_path):
 
 
 def main():
-    input_path = "./data_example"
-    output_path = "./data_example/disease2embedding.pkl"
+    input_path = "./results"
+    output_path = "./results/disease2embedding.pkl"
 
     embedding_data = disease2embedding(input_path)
     with open(output_path, "wb") as file:

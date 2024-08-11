@@ -8,7 +8,9 @@
 - [Acknowledgments](#acknowledgments)
 
 ## Description
-This project is to develop machine learning methods to predict clinical trial duration based on registered study information, including study description, enrollment, study type, eligibility criteria, study plan, start date, and so on. Simultaneously, we seek to understand the contributions of various features to prolonged durations and provide recommendations to optimize study protocols and reduce trial duration.
+This project is meant to develop machine learning methods to predict clinical trial duration based on registered study information including study description, enrollment, study type, eligibility criteria, study plan, start date, and so on. Simultaneously, we seek to understand the contributions of various features learned by the model to prolonged trial durations and provide recommendations to optimize study protocols and appropriately reduce trial duration.
+Since many clinical trials are performed and they are lengthy with increasing costs as time goes on, any improvement in design protocols would allow for more efficient trials, with faster phases and even follow up studies, to be performed. Markey et al. (2024) have noted many external factors such as regulatory changes and increasing competitive pressures, which in turn may have a hand in unnecessarily increasing the overall complexity of these trials. With this in mind, we can use our project to help with assessing what makes for faster and cheaper turnarounds that do not sacrifice the scientific method so that interventional treatments can more swiftly be tested and released that may drastically improve healthcare outcomes.
+
 
 ## Getting Started
 ### Installation

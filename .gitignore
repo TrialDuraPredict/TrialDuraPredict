@@ -3,7 +3,7 @@
 ./src/ipynb_checkpoints/
 venv/
 data/
-results
+results/
 ./results/description2embedding.pkl
 ./results/eligibility2embedding.pkl
 ./results/disease2embedding.pkl

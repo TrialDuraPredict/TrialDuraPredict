@@ -14,6 +14,6 @@ results/X_incompleted.pkl
 results/y_train.pkl
 results/y_test.pkl
 results/y_incompleted.pkl
-results/description_df.csv
+results/keywords_data.csv
 test.ipynb
 

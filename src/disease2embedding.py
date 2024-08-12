@@ -24,7 +24,7 @@ def extract_disease(file_data):
             "conditionsModule"
         ]["conditions"]
     except:
-        disease_extracted["description"] = np.nan
+        disease_extracted["disease"] = np.nan
 
     return disease_extracted
 

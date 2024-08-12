@@ -118,7 +118,7 @@ for study_id in tqdm(all_ids):
             combined_df.append(data_extracted)
             
     except Exception as e:
-        print(f"An unexpected error occurred while processing {json_file}: {e}")
+        print(f"An unexpected error occurred while processing {study_id}: {e}")
 
 combined_df = pd.DataFrame(combined_df)
 

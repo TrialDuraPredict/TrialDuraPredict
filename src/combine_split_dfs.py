@@ -21,11 +21,12 @@ def combine_pickle_files(directory_path):
     for file_name in file_names:
         file_path = os.path.join(directory_path, file_name)
         with open(file_path, "rb") as f:
-            p = pd.DataFrame(pickle.load(f))
+            p = pd.DataFrame(pickle.load(f))\
+                .set_index('nctId')
             df_list.append(p)
 
     combined_df = pd.concat(df_list, axis=1, join="inner")
-    combined_df = combined_df.loc[:, ~combined_df.columns.duplicated()]
+    combined_df.reset_index(inplace=True)
 
     return combined_df
 
@@ -48,7 +49,7 @@ def separate_cols(combined_df):
 # add duration time into the dataset
 # 5379 cols
 def add_duration(separated_df):
-    duration_df = pd.read_csv('./data_example/trial_duration.csv')
+    duration_df = pd.read_csv('./results/trial_duration.csv')
     durAdded_df = pd.merge(separated_df, duration_df, how="inner", on="nctId")
 
     return durAdded_df
@@ -95,7 +96,7 @@ def standardize_X(X_train, X_test, X_incompleted):
 
 
 def main():
-    directory_path = "./data_example"
+    directory_path = "./results"
 
     combined_df = combine_pickle_files(directory_path)
     separated_df = separate_cols(combined_df)

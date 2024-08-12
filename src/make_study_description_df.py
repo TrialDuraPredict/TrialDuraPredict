@@ -16,7 +16,7 @@ def extract_description(input_path):
     description_df_list = []
 
     for study_id in tqdm(all_ids):
-        filepath = os.path.join(input_path, "ctg-studies.json", f"{study_id}.json")
+        filepath = os.path.join("./data/ctg-studies.json", f"{study_id}.json")
 
         try:
             with open(filepath, "r") as file:
@@ -76,8 +76,8 @@ def get_all_ids(input_path):
 
 
 def main():
-    input_path = "./data_example"
-    output_path = "./data_example/description_df.csv"
+    input_path = "./results"
+    output_path = "./results/description_df.csv"
 
     description_df = extract_description(input_path)
     description_df.to_csv(output_path, index=False)

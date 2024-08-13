@@ -3,20 +3,6 @@
 ./src/ipynb_checkpoints/
 venv/
 data/
-results/description2embedding.pkl
-results/eligibility2embedding.pkl
-results/disease2embedding.pkl
-results/treatment2embedding.pkl
-results/outcome2embedding.pkl
-results/X_train.pkl
-results/X_train_pca.pkl
-results/X_test.pkl
-results/X_test_pca.pkl
-results/X_incompleted.pkl
-results/X_incompleted_pca.pkl
-results/y_train.pkl
-results/y_test.pkl
-results/y_incompleted.pkl
-results/keywords_data.csv
+results/
 
 

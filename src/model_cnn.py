@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 import pickle
+import time
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv1D, MaxPooling1D, Flatten, Dense
 from tensorflow.keras.callbacks import ModelCheckpoint
@@ -35,7 +36,11 @@ checkpoint = ModelCheckpoint('./results/model_cnn.keras', monitor='val_loss',
                              save_best_only=True, mode='min', verbose=1)
 
 # Train the model
+start_time = time.time()
 model_cnn.fit(X_train, y_train,
-              epochs=50, batch_size=32,
+              epochs=20, batch_size=256, verbose=2,
               validation_data=(X_test, y_test),
               callbacks=[checkpoint])
+end_time = time.time()
+
+print("Total Time: {:.2f} mins".format((end_time - start_time)/60))

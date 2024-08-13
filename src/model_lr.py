@@ -3,7 +3,8 @@ import pandas as pd
 import pickle
 from sklearn.linear_model import Ridge
 from sklearn.model_selection import GridSearchCV, RandomizedSearchCV
-from sklearn.externals import joblib
+import joblib
+import time
 
 # import dataset
 with open('./results/X_train.pkl', 'rb') as file:
@@ -22,9 +23,21 @@ grid_search = GridSearchCV(
     param_grid=param_grid, cv=5,
     scoring='neg_mean_squared_error'
 )
+
+start_time = time.time()
 grid_search.fit(X_train, y_train)
-best_model_ridge = grid_search.best_estimator_
+end_time = time.time()
 
+# Print results
+print("Total Time for Randomized Search CV: {:.2f} mins".format((end_time - start_time)/60))
+print("Best Parameters:", grid_search.best_params_)
+print("Best Score:", grid_search.best_score_)
 
-# save model
-joblib.dump(best_model_ridge, './results/model_lr.sav')
+# show details for each iteration
+for idx, (mean_test_score, params) in enumerate(zip(grid_search.cv_results_['mean_test_score'],
+                                                    grid_search.cv_results_['params'])):
+    print(f"Iteration {idx+1}: Score = {mean_test_score}, Params = {params}")
+    
+# save the best model
+best_model_lr = grid_search.best_estimator_
+joblib.dump(best_model_lr, './results/model_lr.sav')

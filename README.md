@@ -27,15 +27,21 @@ The raw data in JSON format can be downloaded from [ClinicalTrial.gov](https://c
 
 ### Data Cleaning
 We use example data for this tutorial, which includes 1000 studies in *./data_example/ctg-studies.json*. Firstly direct to *TrialDuraPredict* folder,
-- To generate the **training**, **test** and **incompleted** study IDs , run the code `python ./src/study_ids_split.py`. Datasets including separate study IDs are generated in *./data_example/*
-- To generate the **clinical duration** (output, Months as unit), run the code `python ./src/trial_duration.py`. Duration dataset is generated in *./data_example/trial_duration.csv*
-- To generate the embedding of **clinical description**, run the code `python ./src/description2embedding.py`. The embedding dataset is generated in *./data_example/description2embedding.pkl*
-- To generate the embedding of **inclusion_eligibility** and **exclusion_eligibility**, run the code `python ./src/eligibility2embedding.py`. The embedding dataset is generated in *./data_example/eligibility2embedding.pkl*
-- To generate the embedding of **treatment**, run the code `python ./src/treatment2embedding.py`. The embedding dataset is generated in *./data_example/treatment2embedding.pkl*
-- To generate the embedding of **disease**, run the code `python ./src/disease2embedding.py`. The embedding dataset is generated in *./data_example/disease2embedding.pkl*
-- To generate the embedding of **outcome measures**, run the code `python ./src/outcome2embedding.py`. The embedding dataset is generated in *./data_example/outcome2embedding.pkl*
+- To generate the **training**, **test** and **incompleted** study IDs , run the code `python ./src_example/study_ids_split.py`. Datasets including separate study IDs are generated in *./results_example/*
+- To generate the **clinical duration** (output, Months as unit), run the code `python ./src_example/trial_duration.py`. Duration dataset is generated in *./results_example/trial_duration.csv*
+- To generate the embedding of **clinical description**, run the code `python ./src_example/description2embedding.py`. The embedding dataset is generated in *./results_example/description2embedding.pkl*
+- To generate the embedding of **inclusion_eligibility** and **exclusion_eligibility**, run the code `python ./src_example/eligibility2embedding.py`. The embedding dataset is generated in *./results_example/eligibility2embedding.pkl*
+- To generate the embedding of **treatment**, run the code `python ./src_example/treatment2embedding.py`. The embedding dataset is generated in *./results_example/treatment2embedding.pkl*
+- To generate the embedding of **disease**, run the code `python ./src_example/disease2embedding.py`. The embedding dataset is generated in *./results_example/disease2embedding.pkl*
+- To generate the embedding of **outcome measures**, run the code `python ./src_example/outcome2embedding.py`. The embedding dataset is generated in *./results_example/outcome2embedding.pkl*
 
-Once these have all been completed, combine together into one dataset found in *./data_example/embeddings_df.pkl* using the code `python ./src/combine_embedding_dfs.py`.
+Once these have all been completed,
+- Combine together and split into train/test/incompleted datasets found in *./results_example/X_train (or X_test, X_incompleted, y_train, y_test, y_incompleted).pkl* using the code `python ./src_example/combine_split_dfs.py`
+- Run PCA analysis to reduce the dimensions found in *./results_example/X_train_pca (or X_test_pca, X_incompleted_pca).pkl* using the code `python ./src_example/reduce_dimention_dfs.py`
+
+### Modeling
+We tried different ML algorithms for the data training,
+- 
 
 ## Contact
 Created by TrialDuraPredict Team. Contact us at: xxx

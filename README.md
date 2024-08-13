@@ -39,6 +39,8 @@ Once these have all been completed,
 - Combine together and split into train/test/incompleted datasets found in *./results_example/X_train (or X_test, X_incompleted, y_train, y_test, y_incompleted).pkl* using the code `python ./src_example/combine_split_dfs.py`
 - Run PCA analysis to reduce the dimensions found in *./results_example/X_train_pca (or X_test_pca, X_incompleted_pca).pkl* using the code `python ./src_example/reduce_dimention_dfs.py`
 
+**Codes to clean data for all studies are included in *./src* folder.**
+
 ### Modeling
 We tried different ML algorithms for the data training,
 - Run `python ./src_example/model_lr.py` to generate the optimized linear regression model in *./results_example/model_lr.sav*
@@ -46,6 +48,8 @@ We tried different ML algorithms for the data training,
 - Run `python ./src_example/model_xgb.py` to generate the optimized XGBoost model in *./results_example/model_xgb.sav*
 - Run `python ./src_example/model_ffnn.py` to generate the feedforward neural network model in *./results_example/model_ffnn.keras*
 - Run `python ./src_example/model_cnn.py` to generate the convolutional neural network model in *./results_example/model_cnn.keras*
+
+**Model results for all studies are included in the [google drive](https://drive.google.com/drive/folders/10naZGa5eEZjSpfilxRpIHefsXObLGXeO?usp=drive_link)**
 
 ## Contact
 Created by TrialDuraPredict Team. Contact us at: xxx

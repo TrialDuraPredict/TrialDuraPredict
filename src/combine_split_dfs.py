@@ -101,6 +101,7 @@ def main():
     combined_df = combine_pickle_files(directory_path)
     separated_df = separate_cols(combined_df)
     durAdded_df = add_duration(separated_df)
+    durAdded_df.dropna(inplace=True)
     
     X_train, y_train, X_test, y_test, X_incompleted, y_incompleted = \
         train_test_incomplete_split(durAdded_df, directory_path)

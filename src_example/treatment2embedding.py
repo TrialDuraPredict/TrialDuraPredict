@@ -42,15 +42,8 @@ def extract_treatment(file_data):
     return treatment_extracted
 
 
-# Generates embeddings for treatment type using ***.
-def treatment2embedding(input_path):
-    embedding_data = []
-
-    # Load BioBERT tokenizer and model
-    tokenizer = AutoTokenizer.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
-    model = AutoModel.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
-
-    # generate the train-test-incompleted ids
+# generate the train-test-incompleted ids
+def get_all_ids(input_path):
     train_ids_path = os.path.join(input_path, "train_ids.csv")
     test_ids_path = os.path.join(input_path, "test_ids.csv")
     incompleted_ids_path = os.path.join(input_path, "incompleted_ids.csv")
@@ -61,9 +54,21 @@ def treatment2embedding(input_path):
 
     all_ids = train_ids + test_ids + incompleted_ids
 
+    return all_ids
+
+
+# Generates embeddings for treatment type using ***.
+def treatment2embedding(input_path):
+    embedding_data = []
+    all_ids = get_all_ids(input_path)
+
+    # Load BioBERT tokenizer and model
+    tokenizer = AutoTokenizer.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
+    model = AutoModel.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
+
     # generate embedding
     for study_id in tqdm(all_ids):
-        filepath = os.path.join(input_path, "ctg-studies.json", f"{study_id}.json")
+        filepath = os.path.join("./data_example/ctg-studies.json", f"{study_id}.json")
 
         try:
             with open(filepath, "r") as file:
@@ -103,8 +108,8 @@ def treatment2embedding(input_path):
 
 
 def main():
-    input_path = "./data_example"
-    output_path = "./data_example/treatment2embedding.pkl"
+    input_path = "./results_example"
+    output_path = "./results_example/treatment2embedding.pkl"
 
     embedding_data = treatment2embedding(input_path)
     with open(output_path, "wb") as file:

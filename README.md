@@ -41,7 +41,11 @@ Once these have all been completed,
 
 ### Modeling
 We tried different ML algorithms for the data training,
-- 
+- Run `python ./src_example/model_lr.py` to generate the optimized linear regression model in *./results_example/model_lr.sav*
+- Run `python ./src_example/model_rf.py` to generate the optimized random forest model in *./results_example/model_rf.sav*
+- Run `python ./src_example/model_xgb.py` to generate the optimized XGBoost model in *./results_example/model_xgb.sav*
+- Run `python ./src_example/model_ffnn.py` to generate the feedforward neural network model in *./results_example/model_ffnn.keras*
+- Run `python ./src_example/model_cnn.py` to generate the convolutional neural network model in *./results_example/model_cnn.keras*
 
 ## Contact
 Created by TrialDuraPredict Team. Contact us at: xxx

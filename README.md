@@ -42,14 +42,17 @@ Once these have all been completed,
 **Codes to clean data for all studies are included in *./src* folder.**
 
 ### Modeling
-We tried different ML algorithms for the data training,
+We tried a few different ML algorithms for the data training:
 - Run `python ./src_example/model_lr.py` to generate the optimized linear regression model in *./results_example/model_lr.sav*
 - Run `python ./src_example/model_rf.py` to generate the optimized random forest model in *./results_example/model_rf.sav*
 - Run `python ./src_example/model_xgb.py` to generate the optimized XGBoost model in *./results_example/model_xgb.sav*
 - Run `python ./src_example/model_ffnn.py` to generate the feedforward neural network model in *./results_example/model_ffnn.keras*
 - Run `python ./src_example/model_cnn.py` to generate the convolutional neural network model in *./results_example/model_cnn.keras*
 
-**Model results for all studies are included in the [google drive](https://drive.google.com/drive/folders/10naZGa5eEZjSpfilxRpIHefsXObLGXeO?usp=drive_link)**
+**Model results for all studies are included in the [Google Drive](https://drive.google.com/drive/folders/10naZGa5eEZjSpfilxRpIHefsXObLGXeO?usp=drive_link)**
+
+### Interactive Dashboard
+To create and use the interactive Plotly Dash dashboard, run the `src\TrialDuraPredict_Dashboard.ipynb` Jupyter Notebook through and find the dashboard at the bottom cell. Instructions and filtering suggestions will be displayed above the DataTable and other interactive outputs. The initial cells download and setup the `study_info_df.csv` dataframe pulled from the Google Drive listed above with study information if the file is not currently present on your local machine since it is relatively large and necessitates the use of the `gdown` library to bypass the large file warning.
 
 ## Contact
 Created by TrialDuraPredict Team. Contact us at: xxx

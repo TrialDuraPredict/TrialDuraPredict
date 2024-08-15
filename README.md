@@ -51,7 +51,7 @@ We tried a few different ML algorithms for the data training. Below are mdoels t
 
 **Final model results for all studies are included in the [Google Drive](https://drive.google.com/drive/folders/10naZGa5eEZjSpfilxRpIHefsXObLGXeO?usp=drive_link)**
 
-Downloading the model results and loading them for trial duration predictions for incompleted studies can be found in the `src/all_model_predictions.ipynb` Jupyter Notebook, which exports the predicted durations by NCTID into `results/incompleted_preds_df.csv`.
+Downloading the model results and loading them for trial duration predictions for incompleted studies can be found in the `src/all_model_predictions.ipynb` Jupyter Notebook, which exports the predicted durations by NCTID into `results/incompleted_preds_df.csv`. In this notebook, we also evaluated the models and scored the predicitons to determine which model best fits our data.
 
 ### Interactive Dashboard
 To create and use the interactive Plotly Dash dashboard, run the `src/TrialDuraPredict_Dashboard.ipynb` Jupyter Notebook through and find the dashboard at the bottom cell. Instructions and filtering suggestions will be displayed above the DataTable and other interactive outputs. The initial cells download, setup, and merge the `study_info_df.csv`and `results/incompleted_preds_df.csv` dataframes pulled from the Google Drive and created from the models, respectively, listed above if the file is not currently present on your local machine since it is relatively large and necessitates the use of the `gdown` library to bypass the large file warning.

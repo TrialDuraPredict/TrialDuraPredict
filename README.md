@@ -24,7 +24,7 @@ This installation is designed for macOS or Linux. Please adjust the commands acc
 The raw data in JSON format can be downloaded from [ClinicalTrial.gov](https://clinicaltrials.gov/data-api/how-download-study-records). The dataset for this project, dated July 1st, 2024, comprises 500,534 study records. Each record provides comprehensive information about the trial, including NCT ID (study identifiers), study description, participant enrollment (inclusion/exclusion criteria), treatment or intervention methods, disease or condition being studied, outcome measures, among others. Below is a brief overview of the key information used to predict the duration of the trial.\
 \
 ![clinical_trial_overview](assets/clinical_trial.jpg)
-**Raw data for all studies are included in the [Google Drive]([https://drive.google.com/drive/folders/10naZGa5eEZjSpfilxRpIHefsXObLGXeO?usp=drive_link](https://drive.google.com/drive/folders/1j2HmWfcUaOqDSOtjxndmW5EGHvuZjTA_?usp=sharing))**
+**Raw data for all studies are included in the [Google Drive](https://drive.google.com/drive/folders/10naZGa5eEZjSpfilxRpIHefsXObLGXeO?usp=drive_link](https://drive.google.com/drive/folders/1j2HmWfcUaOqDSOtjxndmW5EGHvuZjTA_?usp=sharing)**
 
 ### Data Cleaning
 We use example data for this tutorial, which includes 1000 studies in *./data_example/ctg-studies.json*. Firstly direct to *TrialDuraPredict* folder,

@@ -5,7 +5,6 @@ scikit-learn
 tqdm
 transformers
 torch
-#re
 requests
 dash
 jupyter_dash

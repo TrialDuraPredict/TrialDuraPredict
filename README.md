@@ -57,7 +57,7 @@ Downloading the model results and loading them for trial duration predictions fo
 To create and use the interactive Plotly Dash dashboard, run the `src/TrialDuraPredict_Dashboard.ipynb` Jupyter Notebook through and find the dashboard at the bottom cell. Instructions and filtering suggestions will be displayed above the DataTable and other interactive outputs. The initial cells download, setup, and merge the `study_info_df.csv`and `results/incompleted_preds_df.csv` dataframes pulled from the Google Drive and created from the models, respectively, listed above if the file is not currently present on your local machine since it is relatively large and necessitates the use of the `gdown` library to bypass the large file warning.
 
 ## Contact
-Created by TrialDuraPredict Team. Contact us at: xxx
+Created by TrialDuraPredict Team.
 
 ## Acknowledgments
 [TrialDura](https://arxiv.org/pdf/2404.13235)\

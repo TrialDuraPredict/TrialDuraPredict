@@ -60,7 +60,6 @@ To create and use the interactive Plotly Dash dashboard, run the `src/TrialDuraP
 Created by TrialDuraPredict Team. Contact us at: xxx
 
 ## Acknowledgments
-Inspiration, etc\
 [TrialDura](https://arxiv.org/pdf/2404.13235)\
 [HINT: clinical trial outcome prediction](https://github.com/futianfan/clinical-trial-outcome-prediction)\
 [clinical-trial-prediction](https://github.com/lenlan/clinical-trial-prediction/tree/main)
